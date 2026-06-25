@@ -1,0 +1,91 @@
+name: Zgłoszenie - Słownik Upraw
+description: Internetowy System zgłoszeniowy dla Słownika Upraw
+title: "[ZGŁOSZENIE] "
+labels: ["zgłoszenie", "faza:1"]
+# Aby automatycznie dodawać zgłoszenia do tablicy Projektu, odkomentuj poniższą
+# linię i ustaw właściwy projekt, na przykład: ["moja-organizacja/3"].
+# projects: ["ORGANIZACJA/NUMER"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękujemy za zgłoszenie do Słownika Upraw.
+        Pola oznaczone gwiazdką są wymagane.
+        Numer zgłoszenia, data i czas oraz konto zgłaszającego zapisują się automatycznie.
+        Faza zgłoszenia: 1 (ustawiana automatycznie, na tym etapie bez możliwości zmiany).
+  - type: dropdown
+    id: obszar
+    attributes:
+      label: Obszar (słownik upraw)
+      description: Wybierz pozycję ze słownika upraw, której dotyczy zgłoszenie.
+      options:
+        - "Pozycja testowa A (TEST-001)"
+        - "Pozycja testowa B (TEST-002)"
+        - "Pozycja testowa C (TEST-003)"
+    validations:
+      required: true
+  - type: input
+    id: id-pozycji
+    attributes:
+      label: ID pozycji w słowniku
+      description: Identyfikator konkretnej pozycji, jeśli dotyczy.
+    validations:
+      required: false
+  - type: input
+    id: nazwa-pozycji
+    attributes:
+      label: Nazwa pozycji
+      description: Nazwa konkretnej pozycji, jeśli dotyczy.
+    validations:
+      required: false
+  - type: dropdown
+    id: typ-uwagi
+    attributes:
+      label: Typ uwagi
+      options:
+        - Dodanie
+        - Usunięcie
+        - Modyfikacja
+    validations:
+      required: true
+  - type: textarea
+    id: opis-problemu
+    attributes:
+      label: Opis problemu
+      description: Opisz, czego dotyczy problem.
+    validations:
+      required: true
+  - type: textarea
+    id: proponowana-zmiana
+    attributes:
+      label: Proponowana zmiana
+      description: Opisz proponowaną zmianę.
+    validations:
+      required: true
+  - type: textarea
+    id: uzasadnienie
+    attributes:
+      label: Uzasadnienie
+      description: Uzasadnij proponowaną zmianę.
+    validations:
+      required: true
+  - type: dropdown
+    id: wplyw
+    attributes:
+      label: Wpływ
+      description: Można wskazać więcej niż jeden obszar.
+      multiple: true
+      options:
+        - Statystyka
+        - Prawo i administracja
+        - Rachunkowość
+    validations:
+      required: false
+  - type: input
+    id: email
+    attributes:
+      label: Adres e-mail zgłaszającego
+      description: Pole pomocnicze. Zweryfikowaną tożsamością jest konto GitHub, z którego wysłano zgłoszenie.
+      placeholder: jan.kowalski@example.com
+    validations:
+      required: false
