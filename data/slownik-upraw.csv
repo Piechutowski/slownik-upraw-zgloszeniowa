@@ -1,5 +1,5001 @@
 id,nazwa
-TEST-001,Pozycja testowa A
-TEST-002,Pozycja testowa B
-TEST-003,Pozycja testowa C
-TEST-004,Pozycja testowa D
+1,Błaszyk-Ambrozik Sp.j.
+2,Grupa Pałgan
+3,Poniedziałek s.c.
+4,Kułach Sp.j.
+5,Gabinety Szpyt S.A.
+6,Gabinety Stanisławczyk S.A.
+7,Spółdzielnia Warchał
+8,Gabinety Łosiewicz Sp.j.
+9,Biernacik i syn s.c.
+10,Spółdzielnia Rząca-Jasnoch s.c.
+11,Gadzina-Dudkowiak s.c.
+12,Peciak-Pieczarka Sp. z o.o. Sp.k.
+13,Baumgart-Drobot Sp. z o.o.
+14,Gabinety Kopyść-Celuch Sp. z o.o.
+15,Pawlukiewicz-Skoneczna Sp. z o.o.
+16,PPUH Letkiewicz-Kościk Sp.j.
+17,Fundacja Bicz Sp.j.
+18,Ładniak Sp.k.
+19,Krochmal Sp.k.
+20,Rut-Bobrowicz Sp.k.
+21,Zubowicz-Szlęk i syn s.c.
+22,Bronka Sp.k.
+23,Oleśkiewicz-Karpeta S.A.
+24,Stowarzyszenie Maraszek
+25,Spółdzielnia Piestrzeniewicz-Młot Sp. z o.o.
+26,Stowarzyszenie Langa S.A.
+27,Dorobek s.c.
+28,Strządała-Koperek Sp.k.
+29,Szyca S.A.
+30,PPUH Freitag-Seidel Sp. z o.o.
+31,Stowarzyszenie Sieradzan-Szmalec Sp.j.
+32,Cofała S.A.
+33,Jędra-Stupak Sp. z o.o. Sp.k.
+34,FPUH Dzierżak Sp. z o.o. Sp.k.
+35,Gabinety Zadka i syn s.c.
+36,Stowarzyszenie Księżak S.A.
+37,Korek-Prokopiak Sp.k.
+38,Stowarzyszenie Laskus S.A.
+39,Fundacja Proch
+40,Fundacja Winnik-Płaneta s.c.
+41,Wittbrodt Sp.j.
+42,Duszczak-Juraszczyk Sp. z o.o.
+43,Fundacja Sudnik
+44,Zieniewicz Sp. z o.o.
+45,Litwińczuk Sp. z o.o. Sp.k.
+46,Fundacja Klemczak-Krzystek Sp. z o.o. Sp.k.
+47,Gamrat Sp.k.
+48,FPUH Lukas-Kosiak i syn s.c.
+49,Kazior-Piesik S.A.
+50,Fundacja Zaczyk
+51,Wiekiera-Kłysz i syn s.c.
+52,Fundacja Betlej-Drążyk Sp.j.
+53,Fundacja Tabiś-Bieniak i syn s.c.
+54,FPUH Ostafin
+55,Gabinety Suchta-Ziemkiewicz Sp.j.
+56,Gabinety Proć S.A.
+57,Grupa Bartuś-Linkiewicz Sp. z o.o. Sp.k.
+58,PPUH Nazimek-Gołek s.c.
+59,PPUH Bylina
+60,FPUH Glaza s.c.
+61,Gabinety Drobot Sp.k.
+62,Grunt Sp. z o.o. Sp.k.
+63,Szkoła i syn s.c.
+64,PPUH Małyszka-Ślimak Sp.j.
+65,Dyszy-Gołas i syn s.c.
+66,Klamka Sp.j.
+67,FPUH Bakun s.c.
+68,Dzienis-Wietecha Sp.j.
+69,Spółdzielnia Dobosiewicz-Jędryczka S.A.
+70,FPUH Faruga-Fydrych i syn s.c.
+71,Stowarzyszenie Stępak s.c.
+72,Fundacja Ziarek-Kolek Sp.j.
+73,Spółdzielnia Melaniuk S.A.
+74,Spółdzielnia Wacławczyk-Kubów Sp. z o.o. Sp.k.
+75,Stowarzyszenie Duszczyk i syn s.c.
+76,PPUH Wacławczyk
+77,FPUH Kiedrowicz-Mądrzyk Sp. z o.o.
+78,Gabinety Cieciura-Dargacz i syn s.c.
+79,Słaba Sp.k.
+80,Spółdzielnia Samson Sp.k.
+81,Gabinety Szołtysik-Szlaga S.A.
+82,PPUH Muzyk
+83,Szkoda s.c.
+84,Block Sp. z o.o. Sp.k.
+85,Grupa Semik
+86,Fundacja Ernst-Hampel Sp.k.
+87,Grupa Lisoń-Durlik i syn s.c.
+88,Gabinety Wygoda
+89,Woronko-Plebanek Sp. z o.o. Sp.k.
+90,Wawrzeńczyk Sp.j.
+91,Szpyra-Czerniec i syn s.c.
+92,Fundacja Rudolf
+93,Stowarzyszenie Lampart-Wąsiewicz i syn s.c.
+94,Fundacja Lubera-Widłak S.A.
+95,Grupa Orawiec
+96,Glazik-Koman Sp.j.
+97,FPUH Rut-Wesoła S.A.
+98,Grupa Andrys S.A.
+99,Grupa Calik Sp. z o.o.
+100,Stowarzyszenie Wiech
+101,Grupa Tabiś
+102,Piskor Sp.k.
+103,FPUH Trojanek-Cabała Sp.k.
+104,Gabinety Dreszer S.A.
+105,Spółdzielnia Dulewicz
+106,Smela-Suchora Sp. z o.o.
+107,Grupa Wiatrak Sp.k.
+108,Gabinety Molek
+109,Grupa Kliszcz
+110,Stowarzyszenie Paździora Sp.j.
+111,Szymajda Sp. z o.o. Sp.k.
+112,Gabinety Wasil
+113,Świerszcz Sp.j.
+114,Sierota-Janiga Sp.j.
+115,Nikołajuk i syn s.c.
+116,Sip-Wesoły i syn s.c.
+117,Grupa Ksel
+118,Materka Sp.j.
+119,Jasica Sp.k.
+120,Drewicz-Warwas Sp. z o.o.
+121,Fundacja Rębiś
+122,Fundacja Wiewiórka Sp.j.
+123,FPUH Geisler-Matynia s.c.
+124,Czupryna s.c.
+125,Gabinety Detka Sp.k.
+126,Bartoś-Hampel Sp.k.
+127,Grupa Boś-Waluk i syn s.c.
+128,Grupa Buksa-Ślebioda s.c.
+129,Spółdzielnia Żabierek
+130,FPUH Gumieniak-Mudlaff S.A.
+131,Grupa Wasążnik-Tereszkiewicz S.A.
+132,Kuśnierek-Kościesza S.A.
+133,PPUH Miodek Sp.k.
+134,Bejnarowicz-Maciejewicz S.A.
+135,Kujawiak Sp. z o.o.
+136,Domek-Morcinek s.c.
+137,Szelest s.c.
+138,FPUH Szajna s.c.
+139,Grupa Fit
+140,Nestorowicz Sp.k.
+141,Trzpil-Dyka Sp. z o.o. Sp.k.
+142,FPUH Gruchot Sp.k.
+143,Gabinety Żołna Sp. z o.o. Sp.k.
+144,FPUH Krzyk Sp. z o.o.
+145,FPUH Ochwat s.c.
+146,Fundacja Trepczyk
+147,Gabinety Pokrzywa Sp.j.
+148,Jankowicz-Bors s.c.
+149,Grupa Opalach s.c.
+150,Lica Sp.k.
+151,Fundacja Burzawa-Bystroń s.c.
+152,Fedyk-Orwat i syn s.c.
+153,FPUH Ćwierz s.c.
+154,Gabinety Nieścior-Karol i syn s.c.
+155,Gendek Sp. z o.o. Sp.k.
+156,Dębniak-Dobroń s.c.
+157,Gronostaj-Kujawiak Sp. z o.o. Sp.k.
+158,Gabinety Kuszyk
+159,Raszkiewicz Sp. z o.o. Sp.k.
+160,PPUH Matejczuk-Paleń Sp.j.
+161,Szpara S.A.
+162,Zach-Patora Sp.j.
+163,PPUH Gołofit s.c.
+164,Spółdzielnia Piłka Sp. z o.o. Sp.k.
+165,Szlufik s.c.
+166,Antoszczyk-Leśny Sp.j.
+167,Leszkiewicz-Bastek S.A.
+168,FPUH Droździk
+169,PPUH Ciereszko Sp. z o.o.
+170,Gabinety Pasiak-Fiutak S.A.
+171,Stowarzyszenie Myga-Frost i syn s.c.
+172,Sabak-Hanc Sp. z o.o.
+173,Witka-Słysz s.c.
+174,Grupa Goj
+175,Chatys S.A.
+176,Spółdzielnia Ośko
+177,Grupa Milej-Grzejszczak s.c.
+178,Stowarzyszenie Brzeźniak i syn s.c.
+179,Matyszczak-Kłósek Sp. z o.o. Sp.k.
+180,PPUH Siergiej s.c.
+181,FPUH Sasak s.c.
+182,Matela-Owsiany Sp. z o.o. Sp.k.
+183,Leoniuk Sp.j.
+184,Stowarzyszenie Olszyna-Domka Sp.j.
+185,FPUH Luks-Witaszek Sp. z o.o.
+186,Fundacja Wożniak-Kociemba Sp.j.
+187,Stowarzyszenie Długozima Sp.k.
+188,PPUH Bojczuk Sp.j.
+189,Grupa Roskosz Sp.k.
+190,Gabinety Dzwonnik i syn s.c.
+191,Łokaj Sp.j.
+192,Stowarzyszenie Kudlak-Brodawka Sp. z o.o.
+193,Gabinety Posłuszny Sp.k.
+194,Ścieszka Sp.j.
+195,Dylong i syn s.c.
+196,Stowarzyszenie Supernak-Lampa Sp. z o.o.
+197,Wasilewicz Sp. z o.o. Sp.k.
+198,FPUH Chochół-Ziółko Sp.k.
+199,Fedorczyk-Kręcichwost Sp. z o.o. Sp.k.
+200,Gabinety Kordys
+201,Dzienisz Sp. z o.o. Sp.k.
+202,Fabiszak Sp.j.
+203,Fundacja Słupek-Rozmiarek S.A.
+204,Stowarzyszenie Dybiec
+205,Nagel s.c.
+206,Gabinety Durlak-Dykas Sp. z o.o.
+207,FPUH Supeł s.c.
+208,PPUH Klos Sp. z o.o. Sp.k.
+209,Spółdzielnia Posłuszna Sp.k.
+210,Kiełbus Sp.j.
+211,FPUH Drop Sp.j.
+212,PPUH Latek
+213,Potęga S.A.
+214,Stowarzyszenie Zielke S.A.
+215,Spółdzielnia Wawrzonek-Graboń s.c.
+216,Fundacja Toś-Mendyka Sp. z o.o. Sp.k.
+217,Stowarzyszenie Suchta Sp.k.
+218,Królikiewicz-Wiesiołek Sp. z o.o.
+219,FPUH Kotlarek
+220,Pasiak-Giża S.A.
+221,Mendyka-Stebel S.A.
+222,Skotarek-Holeksa Sp. z o.o.
+223,Spółdzielnia Rusnak Sp. z o.o. Sp.k.
+224,Maciejuk-Gumienny Sp.k.
+225,Piwowarek-Kamyk S.A.
+226,Fundacja Trepka
+227,Spółdzielnia Siemek
+228,PPUH Bender
+229,Grupa Matejczyk Sp. z o.o.
+230,Jeżyk S.A.
+231,PPUH Brojek
+232,Kopik-Pazdan Sp.j.
+233,FPUH Osiadacz-Rzeźniczak Sp. z o.o. Sp.k.
+234,FPUH Makar Sp. z o.o. Sp.k.
+235,Grupa Mieszała-Zagrajek Sp. z o.o. Sp.k.
+236,Gabinety Cydzik
+237,Gabinety Golonko S.A.
+238,Misiurek S.A.
+239,PPUH Siewiera i syn s.c.
+240,Spółdzielnia Rzońca i syn s.c.
+241,Zinkiewicz Sp. z o.o. Sp.k.
+242,Dyś Sp.j.
+243,FPUH Rubaj Sp. z o.o.
+244,Stowarzyszenie Polnik
+245,FPUH Podeszwa Sp.j.
+246,Stowarzyszenie Małota
+247,Spółdzielnia Koperek
+248,Pawlos-Wojnicz S.A.
+249,Fundacja Henke-Babij i syn s.c.
+250,Ciemięga-Maculewicz Sp. z o.o. Sp.k.
+251,PPUH Wichłacz
+252,Stowarzyszenie Połetek Sp. z o.o. Sp.k.
+253,FPUH Zaczyk
+254,Gryska-Watras i syn s.c.
+255,Subocz-Swaczyna s.c.
+256,Fundacja Bejnarowicz
+257,Syldatk Sp.j.
+258,Fundacja Kulus Sp.k.
+259,Kuncewicz-Gwizdek S.A.
+260,Kopij-Berus i syn s.c.
+261,Gabinety Szajek
+262,Stowarzyszenie Nazimek S.A.
+263,Ślimak Sp.j.
+264,PPUH Żabka
+265,Czerepak-Szłapa Sp. z o.o. Sp.k.
+266,Spółdzielnia Olbrych-Piejko i syn s.c.
+267,Gabinety Andrearczyk Sp. z o.o.
+268,Cyman Sp.j.
+269,FPUH Wysota s.c.
+270,Wiak i syn s.c.
+271,Nieścior-Mosiołek Sp. z o.o. Sp.k.
+272,FPUH Borak Sp.k.
+273,Paleń-Cop S.A.
+274,Stark-Steckiewicz Sp.j.
+275,Engel-Michel s.c.
+276,FPUH Hałka
+277,FPUH Rej Sp. z o.o.
+278,Fundacja Wizner
+279,Stowarzyszenie Oczko
+280,Staś S.A.
+281,PPUH Pabis S.A.
+282,Stowarzyszenie Feluś S.A.
+283,Domek-Materka S.A.
+284,Grupa Rosada-Fijak s.c.
+285,FPUH Walusiak
+286,Jewuła Sp.j.
+287,Spółdzielnia Kałwa
+288,Frydel-Kochman s.c.
+289,PPUH Malewicz-Kapka i syn s.c.
+290,Siudek i syn s.c.
+291,Kapałka-Słoboda S.A.
+292,Fundacja Matuszyk s.c.
+293,Grupa Gebauer-Cofała Sp.k.
+294,Ciepła-Jachna Sp.j.
+295,Spółdzielnia Piotrowiak Sp. z o.o.
+296,Stowarzyszenie Kałwak
+297,Gabinety Kursa
+298,Fundacja Draus
+299,Nowotnik-Swiątek i syn s.c.
+300,Kolarczyk Sp. z o.o. Sp.k.
+301,Stowarzyszenie Ciuła-Malara Sp. z o.o.
+302,Zagozda-Preś s.c.
+303,Drobny-Dziugieł Sp. z o.o. Sp.k.
+304,Stowarzyszenie Kycia-Lesisz Sp. z o.o.
+305,Stowarzyszenie Dziewior
+306,Walocha S.A.
+307,PPUH Masny
+308,PPUH Wdowczyk
+309,Grupa Żołądkiewicz Sp.k.
+310,Stowarzyszenie Goska
+311,FPUH Nowek-Saj Sp.k.
+312,Fundacja Niedbał Sp. z o.o.
+313,Januchta-Pajdak S.A.
+314,PPUH Kiełbik
+315,FPUH Koperek-Dorociak S.A.
+316,Cydzik-Maksym s.c.
+317,Bacia-Pietrewicz Sp.j.
+318,Fundacja Gierak-Kalarus Sp.j.
+319,PPUH Rajman Sp.k.
+320,Kutera-Basa Sp.j.
+321,Fundacja Giers-Matyszczak Sp. z o.o.
+322,FPUH Władyka
+323,Mazanek-Mostek Sp. z o.o.
+324,FPUH Chromy Sp. z o.o.
+325,Prucnal-Szyca s.c.
+326,Gabinety Fogel
+327,Grupa Karczmarz-Dyrek Sp.k.
+328,FPUH Kobos Sp.k.
+329,Puto Sp.j.
+330,Tomaszuk-Malecha Sp. z o.o. Sp.k.
+331,Gronostaj Sp. z o.o.
+332,PPUH Buszka S.A.
+333,PPUH Stachewicz
+334,Fundacja Sajnóg
+335,PPUH Dziewior Sp.k.
+336,Kuźnia-Macek Sp. z o.o.
+337,Pacocha S.A.
+338,PPUH Jałowiec-Hadała i syn s.c.
+339,Sąsiadek Sp. z o.o. Sp.k.
+340,Stowarzyszenie Pagacz Sp.j.
+341,FPUH Breguła S.A.
+342,Ziółko-Czerepak s.c.
+343,Zinkiewicz Sp.j.
+344,Spółdzielnia Sprycha
+345,Grupa Boruń Sp.k.
+346,Matura i syn s.c.
+347,FPUH Szczechowicz-Głowiak i syn s.c.
+348,Gabinety Pacocha-Frymus Sp. z o.o.
+349,Fundacja Kultys
+350,Stowarzyszenie Piątkiewicz S.A.
+351,Pawlukiewicz Sp. z o.o.
+352,Spółdzielnia Strzoda-Jarmuła Sp.j.
+353,Niedbał Sp.k.
+354,Sip-Famuła S.A.
+355,PPUH Rakus S.A.
+356,Wasil S.A.
+357,Stowarzyszenie Dulemba Sp.k.
+358,Fundacja Lorens-Krzystek Sp.j.
+359,Fundacja Pilarek Sp. z o.o. Sp.k.
+360,Bartocha-Cąkała S.A.
+361,Spółdzielnia Warmuz Sp. z o.o.
+362,Jędraszczyk Sp.j.
+363,Kosiec-Glenc Sp.k.
+364,PPUH Skotarczak-Kudra i syn s.c.
+365,FPUH Siebert Sp. z o.o. Sp.k.
+366,Grupa Czermak S.A.
+367,Gabinety Chlebda-Mijas S.A.
+368,Fundacja Czupryn
+369,Stowarzyszenie Palus-Cheba S.A.
+370,Kołodziejak-Nurek i syn s.c.
+371,PPUH Janduła-Antoń Sp. z o.o.
+372,PPUH Szybiak
+373,Fundacja Oziębło
+374,FPUH Mizia-Proć Sp. z o.o. Sp.k.
+375,Grupa Ścieszka i syn s.c.
+376,Kościuszko Sp. z o.o.
+377,Stowarzyszenie Nitek i syn s.c.
+378,PPUH Kustosz Sp. z o.o.
+379,Pielka-Jasina Sp. z o.o. Sp.k.
+380,Fundacja Kornek-Krzyśko Sp. z o.o. Sp.k.
+381,FPUH Gemza-Wyrobek i syn s.c.
+382,Rusiniak-Żelazo s.c.
+383,FPUH Nojek
+384,Dacko-Karczmarz S.A.
+385,Pasieczna-Niklewicz s.c.
+386,Tylman s.c.
+387,Laszkiewicz-Zyga i syn s.c.
+388,Fundacja Bazylewicz-Dziewit Sp. z o.o. Sp.k.
+389,Grupa Grygorcewicz
+390,PPUH Prejs
+391,PPUH Turczyk S.A.
+392,Górkiewicz i syn s.c.
+393,Stowarzyszenie Gawliczek
+394,Kwasek S.A.
+395,PPUH Seta i syn s.c.
+396,Fundacja Dywan-Soroko S.A.
+397,Stowarzyszenie Cherek Sp. z o.o. Sp.k.
+398,Leszczuk-Bełza Sp. z o.o.
+399,Gabinety Aleksa
+400,Drobniak-Żakiewicz Sp.j.
+401,Mateusiak Sp. z o.o.
+402,Grupa Jarmuż
+403,Skalik-Kukuczka s.c.
+404,FPUH Drózd s.c.
+405,Swiątek-Cichos s.c.
+406,Stowarzyszenie Salwin Sp. z o.o. Sp.k.
+407,Grupa Iskierka-Błażejewicz s.c.
+408,Szpyra Sp. z o.o.
+409,Holeksa-Bereda S.A.
+410,Gabinety Kara-Sztuba Sp.k.
+411,Spółdzielnia Grzenia Sp.k.
+412,Fyda Sp. z o.o.
+413,Spółdzielnia Martynowicz s.c.
+414,Andryszczyk i syn s.c.
+415,Łusiak i syn s.c.
+416,Stowarzyszenie Pietrewicz-Konstanty Sp.k.
+417,Szlufik-Gołofit Sp.j.
+418,Spółdzielnia Kosowicz-Kapuścik S.A.
+419,Maszczyk s.c.
+420,Kociemba-Powierża i syn s.c.
+421,Fundacja Janic
+422,PPUH Męcik
+423,Grupa Cieniuch-Stochaj s.c.
+424,Gabinety Pedrycz Sp.j.
+425,Fundacja Klupś-Szajner Sp.k.
+426,Spółdzielnia Bastek-Półchłopek S.A.
+427,Poniedziałek S.A.
+428,Pych-Tereszkiewicz Sp.k.
+429,Plewnia Sp. z o.o.
+430,Stowarzyszenie Oczko Sp. z o.o. Sp.k.
+431,Bałazy S.A.
+432,Fundacja Zawiasa S.A.
+433,Gortat-Brodawka i syn s.c.
+434,Nagel-Głownia i syn s.c.
+435,FPUH Grzywnowicz
+436,FPUH Sinkiewicz Sp. z o.o. Sp.k.
+437,Spółdzielnia Bilik
+438,Korniak-Maligłówka Sp. z o.o. Sp.k.
+439,Grupa Wojtyś-Warzybok Sp.j.
+440,Czuj i syn s.c.
+441,Spółdzielnia Łobacz
+442,Spółdzielnia Giel
+443,Gabinety Lemke
+444,Siemion Sp. z o.o. Sp.k.
+445,Fundacja Kupś
+446,Gabinety Greszta Sp. z o.o. Sp.k.
+447,Sabak Sp.k.
+448,Grupa Kocaj Sp.j.
+449,Klinger Sp. z o.o.
+450,FPUH Domian i syn s.c.
+451,Gabinety Wziątek S.A.
+452,Gabinety Latuszek s.c.
+453,Grupa Wasiuk Sp.j.
+454,Opalach S.A.
+455,Grupa Radke
+456,Burczak-Mszyca Sp. z o.o.
+457,Stowarzyszenie Laszuk
+458,PPUH Fronia
+459,Spółdzielnia Kozaczuk-Garncarz i syn s.c.
+460,PPUH Duc s.c.
+461,PPUH Bylina-Bazela Sp.j.
+462,Steckiewicz Sp.k.
+463,Jas-Walenciak Sp. z o.o. Sp.k.
+464,Oziębło-Klucznik s.c.
+465,Fiedoruk-Krzykała S.A.
+466,Spółdzielnia Pakosz Sp.j.
+467,Spółdzielnia Lew Sp.j.
+468,Fundacja Bienia-Polasik S.A.
+469,PPUH Truchan
+470,Grupa Nazarko
+471,Stowarzyszenie Cogiel-Wojtak Sp.k.
+472,PPUH Oleszko Sp. z o.o.
+473,Spółdzielnia Kutnik
+474,Fundacja Kubowicz-Miszkiel Sp. z o.o.
+475,Stowarzyszenie Mzyk-Kopała Sp. z o.o. Sp.k.
+476,Stowarzyszenie Zyguła
+477,Macias Sp. z o.o. Sp.k.
+478,Stowarzyszenie Szmurło Sp. z o.o.
+479,Spółdzielnia Rajchel-Schubert Sp.k.
+480,Mędrala-Hawrylak i syn s.c.
+481,Grupa Rębiś Sp.j.
+482,Palica-Płodzień Sp.j.
+483,Kulisz Sp.j.
+484,Kalota-Gęgotek S.A.
+485,Stowarzyszenie Wężyk
+486,Fundacja Kukier
+487,Holewa-Pacia Sp.j.
+488,Fundacja Szramka-Kuczaj Sp. z o.o. Sp.k.
+489,PPUH Kornet
+490,FPUH Błażejewicz-Zyga s.c.
+491,Stowarzyszenie Pasich i syn s.c.
+492,Stowarzyszenie Szkopek-Bryda s.c.
+493,Lemanowicz-Pik S.A.
+494,Gabinety Waloch S.A.
+495,Stowarzyszenie Adamaszek
+496,Gabinety Kwoka
+497,Fiołka-Malecha Sp. z o.o.
+498,Grupa Cis-Staśko Sp. z o.o. Sp.k.
+499,Grupa Nalazek i syn s.c.
+500,Turoń-Musiała i syn s.c.
+501,Chadaj i syn s.c.
+502,Friedrich S.A.
+503,FPUH Lizoń-Wawrzyńczyk Sp. z o.o. Sp.k.
+504,Stowarzyszenie Brzykcy-Parzyszek Sp. z o.o.
+505,Spółdzielnia Olas
+506,Stowarzyszenie Puc
+507,Klyszcz S.A.
+508,Faryna-Wawrzyńczyk s.c.
+509,Grupa Makles
+510,Fundacja Kukuczka Sp. z o.o.
+511,Gabinety Wiercigroch S.A.
+512,PPUH Stosik s.c.
+513,Fundacja Jeske-Neugebauer s.c.
+514,PPUH Nyc
+515,Radko-Kołak Sp. z o.o. Sp.k.
+516,Duras Sp. z o.o.
+517,FPUH Nalewajek Sp.j.
+518,Fundacja Fac Sp. z o.o.
+519,FPUH Lindner
+520,Stowarzyszenie Kosidło Sp.j.
+521,Gabinety Małż S.A.
+522,Stowarzyszenie Joszko
+523,Fundacja Ryfa i syn s.c.
+524,Spółdzielnia Penar Sp.j.
+525,Kaczka S.A.
+526,Krysik Sp. z o.o.
+527,Gabinety Klimko-Szarpak Sp. z o.o. Sp.k.
+528,Spółdzielnia Halama
+529,Grupa Kwak-Jonak Sp.k.
+530,Hadała-Hadała i syn s.c.
+531,Zbroszczyk-Wac i syn s.c.
+532,Grzenia Sp.k.
+533,Sztuczka i syn s.c.
+534,FPUH Stachelek Sp. z o.o.
+535,Bender-Niećko Sp.k.
+536,Grupa Zubowicz i syn s.c.
+537,Grupa Gronostaj i syn s.c.
+538,Gabinety Blank Sp.j.
+539,Stowarzyszenie Skrobot
+540,Hermanowicz Sp.j.
+541,Szczerek S.A.
+542,Pastuła-Dering S.A.
+543,Stowarzyszenie Rogula i syn s.c.
+544,PPUH Szołtysik Sp. z o.o.
+545,Spółdzielnia Glica i syn s.c.
+546,Wódka-Pędrak Sp.j.
+547,Gabinety Ostapiuk
+548,Grupa Wziątek S.A.
+549,FPUH Boksa
+550,Białasik-Patora i syn s.c.
+551,PPUH Nicewicz
+552,Fundacja Gołoś-Kansy Sp. z o.o.
+553,Pędzik-Śmieja Sp. z o.o.
+554,Fundacja Pacholczak Sp.j.
+555,Łuc Sp. z o.o.
+556,Smorąg Sp.k.
+557,Procek-Budych Sp.j.
+558,FPUH Kominiak
+559,Gabinety Chachuła-Pryszcz S.A.
+560,Stowarzyszenie Szmajda
+561,Gabinety Grabczak-Kobza i syn s.c.
+562,FPUH Dąbal-Doroba Sp. z o.o.
+563,Potęga-Sierota s.c.
+564,Bałdys-Uryga i syn s.c.
+565,FPUH Związek s.c.
+566,Stowarzyszenie Tokaj Sp.k.
+567,Gabinety Robaszkiewicz
+568,Fundacja Dzienniak S.A.
+569,Gabinety Śleziak
+570,Majak i syn s.c.
+571,PPUH Bąbol-Walenciak s.c.
+572,Bartuś S.A.
+573,Grupa Cholewka s.c.
+574,Gabinety Plebanek-Kuczaj Sp. z o.o.
+575,FPUH Solarczyk
+576,Spółdzielnia Różewicz
+577,Skoneczna-Galik S.A.
+578,Fundacja Zaniewicz
+579,Stowarzyszenie Opas-Gustaw Sp. z o.o. Sp.k.
+580,Ciesiółka-Mrozowicz i syn s.c.
+581,Grupa Szczot
+582,Spółdzielnia Garncarz
+583,Piesik-Topa Sp. z o.o.
+584,Olszyna Sp. z o.o.
+585,Stowarzyszenie Gabryelczyk-Broszkiewicz s.c.
+586,Olewniczak-Botor i syn s.c.
+587,Gabinety Kozłowicz
+588,Fundacja Chorążewicz-Drela Sp. z o.o. Sp.k.
+589,FPUH Przekop-Bela Sp. z o.o.
+590,Gabinety Majtczak Sp.k.
+591,Spółdzielnia Maron-Burdach Sp. z o.o.
+592,Dzidek i syn s.c.
+593,Kajstura-Sass Sp. z o.o. Sp.k.
+594,Stowarzyszenie Sornat Sp.j.
+595,Gospodarek Sp. z o.o. Sp.k.
+596,Kłoczko i syn s.c.
+597,Fundacja Szpyra Sp.j.
+598,Spółdzielnia Glapiak
+599,Stowarzyszenie Feret-Kurbiel Sp.k.
+600,PPUH Tylman
+601,Zbróg s.c.
+602,PPUH Brodawka
+603,Stowarzyszenie Prokopczuk-Sprycha Sp. z o.o. Sp.k.
+604,Niklewicz Sp.j.
+605,Osojca-Tylka S.A.
+606,Sawko Sp.j.
+607,Grupa Stąpor i syn s.c.
+608,Grupa Flaga
+609,Panasewicz i syn s.c.
+610,Gabinety Zera
+611,Fundacja Frydel
+612,Słupik Sp.k.
+613,FPUH Dymarczyk
+614,Gabinety Hajdukiewicz
+615,FPUH Pyszka-Heczko S.A.
+616,Gabinety Gieroń
+617,Piwowarek Sp. z o.o.
+618,FPUH Grochowina Sp.k.
+619,Grupa Jędrak s.c.
+620,Zimniak-Pośnik Sp.k.
+621,Jałowiec-Cięciwa s.c.
+622,FPUH Fogt-Łęgowik i syn s.c.
+623,Stowarzyszenie Ludwisiak-Macha Sp. z o.o. Sp.k.
+624,Litwińczuk i syn s.c.
+625,Stowarzyszenie Starościak s.c.
+626,Michalkiewicz Sp.k.
+627,Miechowicz-Majtyka Sp.k.
+628,FPUH Dydak
+629,Łukowicz i syn s.c.
+630,FPUH Cop
+631,Bartoszak-Draus Sp. z o.o.
+632,Grupa Komsta Sp. z o.o.
+633,PPUH Talaśka-Paździora Sp.j.
+634,Spółdzielnia Kunysz-Trzmiel Sp. z o.o. Sp.k.
+635,Spółdzielnia Ciepła s.c.
+636,Spółdzielnia Pabis
+637,Fundacja Kuźnia
+638,Gabinety Sondej
+639,Bobrowicz Sp. z o.o. Sp.k.
+640,Borkiewicz-Szymajda Sp. z o.o.
+641,Rolak-Bilik i syn s.c.
+642,PPUH Pleban-Wojtalik S.A.
+643,FPUH Dudzicz
+644,Dyszkiewicz-Kranc S.A.
+645,Stowarzyszenie Koloch S.A.
+646,Wojtunik-Dziób S.A.
+647,Spółdzielnia Swatek
+648,Klinkosz-Mordak Sp.k.
+649,Ciarka-Rutowicz Sp.j.
+650,FPUH Gomoła s.c.
+651,Grupa Kuryłowicz-Goik Sp. z o.o.
+652,Czerkies s.c.
+653,Ciereszko-Barankiewicz Sp. z o.o. Sp.k.
+654,PPUH Uliczka-Straszak i syn s.c.
+655,Fundacja Szczepaniuk-Saj i syn s.c.
+656,Spółdzielnia Tułacz
+657,Mamcarz-Potyrała i syn s.c.
+658,Stowarzyszenie Szkatuła-Cyman Sp. z o.o.
+659,Walasik-Gniewek Sp.j.
+660,Fundacja Wawrzynkiewicz s.c.
+661,Ruman S.A.
+662,Rduch-Dyjach Sp.k.
+663,Pachnik-Kaczan s.c.
+664,Cis-Dworczak Sp.k.
+665,Uliczka-Rochowiak Sp. z o.o.
+666,Szymańczyk-Jędraszek i syn s.c.
+667,FPUH Cybul Sp. z o.o. Sp.k.
+668,Fundacja Brodowicz
+669,Stark-Macha Sp.j.
+670,Borkiewicz-Tadych Sp. z o.o. Sp.k.
+671,Stowarzyszenie Huszcza S.A.
+672,Cholewka-Dubel Sp. z o.o.
+673,Kapcia S.A.
+674,Gabinety Stempel
+675,Bylina Sp. z o.o.
+676,PPUH Jambor S.A.
+677,FPUH Grund Sp. z o.o. Sp.k.
+678,PPUH Matejczuk Sp. z o.o.
+679,Pyza-Choina S.A.
+680,Grupa Kolonko
+681,Grupa Browarczyk-Bobko s.c.
+682,Fundacja Prażuch
+683,Matus Sp. z o.o.
+684,Grupa Glapiak-Jaroszuk i syn s.c.
+685,Oleksiuk-Madera Sp.j.
+686,Cis-Wojaczek S.A.
+687,Gabinety Derek Sp. z o.o. Sp.k.
+688,Fundacja Frelich Sp.j.
+689,Lepa-Betlej Sp.k.
+690,Klęczar-Koj S.A.
+691,Klepka-Kwinta Sp.k.
+692,FPUH Kurbiel Sp. z o.o.
+693,Grupa Pieczyrak i syn s.c.
+694,Stowarzyszenie Meissner S.A.
+695,FPUH Graj-Danilczuk Sp.k.
+696,Stowarzyszenie Maciejewicz-Grzeszkowiak Sp. z o.o.
+697,Spółdzielnia Palej-Ryguła Sp. z o.o.
+698,Fundacja Domoń
+699,FPUH Goworek Sp. z o.o. Sp.k.
+700,Laszczyk-Makieła Sp. z o.o.
+701,Bobik i syn s.c.
+702,Stranc Sp. z o.o. Sp.k.
+703,Sidorczuk s.c.
+704,Fundacja Kanik Sp. z o.o.
+705,Gregorowicz-Gołek Sp. z o.o. Sp.k.
+706,Gabinety Cisoń-Sass Sp. z o.o.
+707,Stempin Sp. z o.o. Sp.k.
+708,FPUH Rode Sp.j.
+709,Heinrich s.c.
+710,Stowarzyszenie Siedlarz i syn s.c.
+711,Fiołka Sp.j.
+712,Spółdzielnia Buszko Sp. z o.o. Sp.k.
+713,PPUH Bittner Sp. z o.o.
+714,Gabinety Miętka-Cywka S.A.
+715,Smal-Wojtera Sp.j.
+716,Grygorowicz s.c.
+717,Gabinety Laszczyk
+718,Sarosiek-Toś Sp. z o.o.
+719,Gabinety Nieścioruk
+720,Wyciszkiewicz S.A.
+721,Stowarzyszenie Jaźwiec-Jeske Sp.k.
+722,Stowarzyszenie Cich
+723,Kuciel s.c.
+724,Pietrak-Leśna S.A.
+725,Grupa Korzekwa-Nazarewicz Sp.k.
+726,Fundacja Sarota-Koperek i syn s.c.
+727,Jancewicz Sp.j.
+728,Stowarzyszenie Czermak S.A.
+729,Spółdzielnia Szkoła-Kawulok Sp. z o.o. Sp.k.
+730,Rejmak-Penar Sp.k.
+731,Pietraszkiewicz-Wiese Sp.j.
+732,PPUH Hutnik
+733,Spółdzielnia Kunda Sp. z o.o.
+734,Kocoł-Linkiewicz Sp.k.
+735,Witan i syn s.c.
+736,Dybał-Makoś Sp.k.
+737,Łapaj-Koman Sp.k.
+738,Grupa Broszkiewicz Sp.j.
+739,Kłosowicz i syn s.c.
+740,Franków Sp. z o.o.
+741,Dunal Sp.j.
+742,Gwizdek Sp.j.
+743,PPUH Biesaga S.A.
+744,Sołtysek S.A.
+745,FPUH Kocurek-Zemanek Sp. z o.o.
+746,Robaszkiewicz-Rozynek Sp. z o.o. Sp.k.
+747,FPUH Zawiasa Sp. z o.o.
+748,Szeszko-Pronobis Sp.k.
+749,Sobieszczyk-Filiks Sp.k.
+750,Gabinety Dąbkiewicz S.A.
+751,FPUH Fidura-Bas s.c.
+752,FPUH Komisarczyk-Bałazy Sp. z o.o. Sp.k.
+753,Korzeniak-Lula s.c.
+754,Patoła-Staniewicz Sp. z o.o.
+755,PPUH Zdobylak-Twardosz i syn s.c.
+756,FPUH Myga
+757,Włodarz-Doroszkiewicz Sp. z o.o. Sp.k.
+758,Spółdzielnia Majtyka-Rogal i syn s.c.
+759,PPUH Moczko-Sito i syn s.c.
+760,Bednarowicz-Lejman Sp. z o.o. Sp.k.
+761,PPUH Panicz-Narożny Sp.j.
+762,Bobrowicz-Lelito Sp. z o.o. Sp.k.
+763,FPUH Siedlarz-Potęga Sp.j.
+764,Danisz-Kosz s.c.
+765,Fundacja Polnik Sp.k.
+766,Stowarzyszenie Tyka Sp.k.
+767,Stowarzyszenie Rzeszut i syn s.c.
+768,Litewka-Rozmiarek Sp. z o.o. Sp.k.
+769,Spółdzielnia Dynia Sp.j.
+770,Mordak Sp.k.
+771,Grupa Jasina s.c.
+772,Gabinety Gabryel
+773,Stowarzyszenie Zapaśnik S.A.
+774,Stowarzyszenie Pytlarz s.c.
+775,Grupa Trzop Sp.k.
+776,Grupa Czesak
+777,Fundacja Sularz-Front Sp.j.
+778,Spółdzielnia Pachnik s.c.
+779,Duży-Rajch Sp. z o.o.
+780,Smolka-Miechowicz Sp. z o.o.
+781,Gabinety Łobacz
+782,Stowarzyszenie Lindner Sp.k.
+783,Stowarzyszenie Machul
+784,FPUH Maszkiewicz Sp.j.
+785,Stowarzyszenie Woda-Dziadkiewicz Sp. z o.o. Sp.k.
+786,Częścik-Witan Sp.j.
+787,Piórek-Dytko Sp. z o.o. Sp.k.
+788,PPUH Krzyśko-Wojniak s.c.
+789,Gabinety Opoka-Łęgowik S.A.
+790,Ciołczyk-Bodek S.A.
+791,PPUH Molga s.c.
+792,Wyrobek S.A.
+793,Spółdzielnia Kalota
+794,Grupa Korta-Muniak s.c.
+795,Jędraszczyk-Gwizdek i syn s.c.
+796,FPUH Masny
+797,Gabinety Hutyra Sp. z o.o.
+798,Wnuczek-Minta Sp.k.
+799,Fundacja Nijak
+800,FPUH Budner
+801,Budzich Sp.j.
+802,Stowarzyszenie Jeżyk i syn s.c.
+803,Gajzler-Bujas Sp. z o.o. Sp.k.
+804,Kostera s.c.
+805,Grupa Zimoń-Ratka Sp. z o.o.
+806,Panuś i syn s.c.
+807,Kuban-Natanek Sp. z o.o. Sp.k.
+808,PPUH Maciejuk i syn s.c.
+809,Rysz-Tatarczyk Sp.k.
+810,Rzońca Sp. z o.o. Sp.k.
+811,Fundacja Migała-Kleban Sp. z o.o. Sp.k.
+812,Stowarzyszenie Jaśkowiec
+813,Rubin S.A.
+814,PPUH Buszko Sp. z o.o. Sp.k.
+815,Spółdzielnia Łukowicz
+816,FPUH Mitoraj
+817,Stawczyk i syn s.c.
+818,Spółdzielnia Gumuła Sp.j.
+819,Tryc Sp.k.
+820,Fundacja Krywult i syn s.c.
+821,Stowarzyszenie Kuryłowicz
+822,PPUH Manista
+823,Stowarzyszenie Piątkiewicz
+824,Gabinety Dunal-Sady i syn s.c.
+825,Fundacja Duczek s.c.
+826,Fundacja Niemczuk Sp.j.
+827,Spółdzielnia Ziegert S.A.
+828,FPUH Hermanowicz-Kupaj Sp. z o.o. Sp.k.
+829,Dziadkowiec i syn s.c.
+830,PPUH Machowicz-Nieborak s.c.
+831,FPUH Wawrzynkiewicz-Utrata Sp. z o.o.
+832,Piechna-Zach Sp. z o.o. Sp.k.
+833,Hasiak-Trzepizur Sp. z o.o.
+834,Spółdzielnia Bender s.c.
+835,FPUH Pokrzywa-Skolik i syn s.c.
+836,Olma i syn s.c.
+837,Osial-Pytlarz Sp. z o.o.
+838,Świgoń-Ładziak Sp.k.
+839,Zadworny Sp.k.
+840,Wojcik Sp.k.
+841,Fundacja Siewiera s.c.
+842,Szpala S.A.
+843,Fitrzyk-Łupina Sp. z o.o. Sp.k.
+844,Spółdzielnia Smolec-Niksa Sp. z o.o.
+845,Gabinety Przewoźny
+846,Obarzanek Sp.j.
+847,Stowarzyszenie Cydzik
+848,Stowarzyszenie Zielke Sp. z o.o.
+849,Stowarzyszenie Siedlik
+850,Gabinety Sommerfeld-Skubis Sp. z o.o.
+851,Spółdzielnia Bartoś-Czenczek i syn s.c.
+852,Spółdzielnia Żołnierczyk-Niewola Sp.k.
+853,Spółdzielnia Langa
+854,Fundacja Michnowicz-Tyniec s.c.
+855,Mortka-Walus Sp.k.
+856,Smagacz-Nałęcz Sp.k.
+857,Stypka Sp.j.
+858,Grupa Szelest
+859,Stowarzyszenie Kansy-Wojtak Sp.k.
+860,Grupa Sajda S.A.
+861,Młynarz S.A.
+862,Spółdzielnia Sabała-Paśnik s.c.
+863,Czenczek Sp.k.
+864,Pachuta S.A.
+865,FPUH Zbylut
+866,PPUH Kominiak
+867,Gabinety Woszczak Sp.k.
+868,Litewka-Galon S.A.
+869,Szramka-Bełz S.A.
+870,Kubowicz-Kuropatwa i syn s.c.
+871,Moneta i syn s.c.
+872,Fundacja Tuzimek Sp.j.
+873,FPUH Gołota i syn s.c.
+874,Grupa Holewa Sp.k.
+875,Pawełkiewicz S.A.
+876,Fundacja Juraszczyk
+877,Gałaj i syn s.c.
+878,Fundacja Łachut-Krzyśko s.c.
+879,Mich-Kossak Sp.k.
+880,Haraburda-Bortkiewicz Sp. z o.o.
+881,Bejger Sp. z o.o. Sp.k.
+882,Stowarzyszenie Kohut-Ślipek Sp. z o.o.
+883,Danisz-Rysz Sp. z o.o. Sp.k.
+884,PPUH Lisik
+885,FPUH Trybuś-Olma i syn s.c.
+886,Kiciak-Szwaja Sp. z o.o. Sp.k.
+887,FPUH Znojek s.c.
+888,Golczyk-Kościukiewicz i syn s.c.
+889,Spółdzielnia Kołpak-Hajduga i syn s.c.
+890,Franków i syn s.c.
+891,Gabinety Kuczak-Spychaj Sp. z o.o.
+892,Stowarzyszenie Zadka s.c.
+893,Malcharek Sp.k.
+894,Spółdzielnia Krzysztofek Sp.k.
+895,Fundacja Marosz-Parada Sp. z o.o. Sp.k.
+896,Grupa Flieger-Łepek Sp. z o.o.
+897,Stowarzyszenie Graboś Sp.k.
+898,Bak-Samoraj i syn s.c.
+899,Gabinety Antoszczyk
+900,Cierpisz-Patora Sp.j.
+901,Grupa Huszcza s.c.
+902,Wawryniuk s.c.
+903,Rudzik-Ciastek Sp.k.
+904,Fundacja Skubis
+905,Kruś Sp. z o.o. Sp.k.
+906,Mielcarz-Zybura i syn s.c.
+907,Tylman-Krzystek Sp. z o.o.
+908,Gabinety Melaniuk Sp. z o.o.
+909,Orkisz-Księżyk Sp. z o.o.
+910,Nocek-Grys Sp.j.
+911,Wosiak Sp.k.
+912,Grupa Fiedoruk
+913,Gabinety Posłuszny
+914,Gabinety Senator
+915,PPUH Ziarek-Szarpak Sp.j.
+916,PPUH Penkala Sp.j.
+917,Grotek-Krywult Sp. z o.o.
+918,PPUH Bobrowicz-Migda i syn s.c.
+919,Matela-Fijałek S.A.
+920,Fundacja Kupaj
+921,Siergiej-Tylka S.A.
+922,Fundacja Muniak
+923,Stowarzyszenie Bujas
+924,Stowarzyszenie Mesjasz
+925,PPUH Fołta
+926,Gabinety Stosio-Startek Sp. z o.o. Sp.k.
+927,Grupa Rajman Sp.k.
+928,Łaś-Kusik S.A.
+929,Pochopień-Geisler Sp.k.
+930,Gabinety Seweryniak Sp.k.
+931,Stowarzyszenie Stępak-Sierpień Sp. z o.o. Sp.k.
+932,Szabla-Gogacz S.A.
+933,Spółdzielnia Borysiuk
+934,Iwańczyk Sp.j.
+935,Stowarzyszenie Kurzac-Bobrowicz i syn s.c.
+936,Tokarek i syn s.c.
+937,Gabinety Szajner-Kidoń s.c.
+938,Grupa Sieradzan Sp. z o.o. Sp.k.
+939,Beśka i syn s.c.
+940,Bik-Długozima S.A.
+941,Stowarzyszenie Kostera-Saran i syn s.c.
+942,Pietryga Sp. z o.o.
+943,PPUH Dziduch
+944,Drygała-Dziduch s.c.
+945,Grupa Deptuch-Maślach Sp.j.
+946,Grupa Miodek-Ścieszka Sp.k.
+947,Spółdzielnia Guźniczak s.c.
+948,Sławik Sp. z o.o.
+949,Leśko i syn s.c.
+950,Sypek s.c.
+951,Spółdzielnia Zygmuntowicz Sp. z o.o.
+952,Spółdzielnia Ficner-Mizak Sp.j.
+953,FPUH Koloch-Basaj Sp.j.
+954,Skowyra Sp.k.
+955,Rychcik Sp. z o.o. Sp.k.
+956,Fundacja Zubel
+957,Stowarzyszenie Wojewodzic-Gawłowicz Sp. z o.o.
+958,FPUH Kasper-Mosiołek Sp. z o.o. Sp.k.
+959,Zasępa Sp.j.
+960,FPUH Męcik Sp.j.
+961,Musiolik-Żuchowicz s.c.
+962,Dybał s.c.
+963,Gabinety Ładniak-Sojda Sp. z o.o. Sp.k.
+964,Graboń-Mądro Sp. z o.o.
+965,Walasik Sp.k.
+966,Dziczek-Łukasz S.A.
+967,Fikus s.c.
+968,PPUH Baka
+969,Grupa Krzempek S.A.
+970,Gabinety Gągała
+971,Spółdzielnia Ładziak Sp. z o.o.
+972,Drewa Sp.k.
+973,PPUH Zgoła Sp.j.
+974,Grupa Wiese-Leks Sp.j.
+975,Gabinety Marcol
+976,Lampart s.c.
+977,Krasa S.A.
+978,PPUH Kunysz S.A.
+979,PPUH Idec
+980,PPUH Sudak Sp.k.
+981,Kotlarek-Kloska Sp.j.
+982,Kozdrój-Sromek Sp. z o.o.
+983,Grupa Brodowicz
+984,Gęgotek-Siemion S.A.
+985,Łachut S.A.
+986,Gabinety Ciaś-Sznura s.c.
+987,Liedtke-Wajer S.A.
+988,Drygała Sp.k.
+989,Fundacja Smagacz Sp.j.
+990,Potoczna-Breś Sp.j.
+991,Jędrys-Szwaja Sp.j.
+992,Gęgotek-Kosman Sp.j.
+993,PPUH Piotrowiak Sp.j.
+994,Prażmo-Lenik Sp.j.
+995,Dobroń-Sochaj s.c.
+996,Spółdzielnia Penkala Sp. z o.o. Sp.k.
+997,Tarach s.c.
+998,Fundacja Zdziech
+999,Fundacja Szumna Sp. z o.o.
+1000,Sośniak-Pawliszyn Sp.j.
+1001,Gabinety Bartuś
+1002,Kopyść-Błasik i syn s.c.
+1003,Stanuch S.A.
+1004,Fundacja Sędek Sp.k.
+1005,Fundacja Kumorek
+1006,Tórz-Bodych Sp.k.
+1007,Pasierbek Sp.k.
+1008,FPUH Siudek-Księżyk S.A.
+1009,Gabinety Malara i syn s.c.
+1010,Fundacja Grabas Sp. z o.o. Sp.k.
+1011,Grupa Uryga Sp.j.
+1012,Gabinety Drobniak
+1013,Kruś-Tyczka s.c.
+1014,Gabinety Świerad-Szlachcic Sp.k.
+1015,Siejak-Ceynowa Sp. z o.o. Sp.k.
+1016,FPUH Sysło Sp.j.
+1017,Woźniczko-Cichowlas s.c.
+1018,Patyna-Wawrzyn i syn s.c.
+1019,Gabinety Migoń
+1020,Stowarzyszenie Rejniak
+1021,Grupa Jewuła Sp. z o.o.
+1022,Kurpanik-Solis Sp. z o.o.
+1023,FPUH Filusz
+1024,Wereda s.c.
+1025,Dulemba-Knych Sp.j.
+1026,Stowarzyszenie Miszkurka Sp.j.
+1027,Stowarzyszenie Sprycha-Strządała Sp. z o.o.
+1028,FPUH Pospiech-Franas Sp. z o.o.
+1029,Stowarzyszenie Rajtar-Stelmasiak Sp. z o.o.
+1030,PPUH Arendarczyk
+1031,FPUH Warczak-Araszkiewicz i syn s.c.
+1032,Grupa Piejko
+1033,Judek S.A.
+1034,FPUH Lorenz-Prażmo Sp. z o.o. Sp.k.
+1035,Olko-Maciocha s.c.
+1036,Gabinety Cieciora
+1037,Korzonek Sp. z o.o. Sp.k.
+1038,Gabinety Cetera
+1039,Ambrożewicz-Idzi Sp.j.
+1040,Deptuch i syn s.c.
+1041,PPUH Wojtanowicz Sp. z o.o. Sp.k.
+1042,Szczudło-Kubrak i syn s.c.
+1043,Bzymek Sp. z o.o. Sp.k.
+1044,Opas-Orwat Sp. z o.o.
+1045,Szmurło-Prokopczuk s.c.
+1046,PPUH Rzeszut Sp.k.
+1047,Pachnik-Durma Sp.j.
+1048,Banyś S.A.
+1049,Stowarzyszenie Hankiewicz S.A.
+1050,Fundacja Dyjach i syn s.c.
+1051,Gabinety Szulist-Martyka Sp.j.
+1052,Gabinety Zbrożek s.c.
+1053,Ksel-Owczarczak S.A.
+1054,Pyza Sp.k.
+1055,Gabinety Kostek
+1056,Stowarzyszenie Wojewódka i syn s.c.
+1057,Halama Sp. z o.o.
+1058,Fundacja Idzi Sp. z o.o. Sp.k.
+1059,Gabinety Piwek Sp.j.
+1060,Romankiewicz Sp.j.
+1061,Kudłacik-Płoskonka Sp.k.
+1062,Fundacja Żok-Hanas s.c.
+1063,Doktor Sp. z o.o.
+1064,Toś-Kuska S.A.
+1065,Grupa Trzos Sp.k.
+1066,Stowarzyszenie Wawrzyk-Bartoś Sp.j.
+1067,Witas i syn s.c.
+1068,Spółdzielnia Wyderka
+1069,Maszota-Liedtke Sp.k.
+1070,Stowarzyszenie Gorgol Sp.j.
+1071,Grupa Betlej
+1072,Behrendt i syn s.c.
+1073,Kurzyna-Kaczan S.A.
+1074,Boguś-Troć Sp.j.
+1075,Grupa Fiedorczuk Sp. z o.o. Sp.k.
+1076,FPUH Penkala-Patrzałek s.c.
+1077,Grupa Mijas-Kozaczuk S.A.
+1078,Stowarzyszenie Szalast
+1079,Puc-Sito s.c.
+1080,Pyzel Sp.k.
+1081,Gumuła Sp. z o.o.
+1082,Jaszczur Sp. z o.o.
+1083,Stowarzyszenie Durma
+1084,Glonek Sp. z o.o. Sp.k.
+1085,Fundacja Skolik
+1086,FPUH Pacewicz-Miksza i syn s.c.
+1087,Kurzaj Sp. z o.o. Sp.k.
+1088,FPUH Stoch Sp.k.
+1089,Czubaj i syn s.c.
+1090,FPUH Seidel
+1091,Powązka-Kruszka Sp. z o.o.
+1092,Fundacja Kołodziejak-Matyjasek s.c.
+1093,PPUH Porwoł Sp.j.
+1094,Stowarzyszenie Kucharzyk-Citko Sp. z o.o.
+1095,PPUH Opoka-Wiech Sp.j.
+1096,Taranek s.c.
+1097,Pokrzywa-Mikus i syn s.c.
+1098,Grupa Pryk Sp. z o.o.
+1099,Hałka Sp.j.
+1100,Latuszek Sp.j.
+1101,Guzdek-Gaudyn Sp.k.
+1102,Kubanek-Michnik S.A.
+1103,Grupa Tomaszkiewicz Sp.j.
+1104,Spółdzielnia Styn s.c.
+1105,Grupa Korkosz i syn s.c.
+1106,Feluś-Dłubak i syn s.c.
+1107,Myga-Roda s.c.
+1108,Dynak-Gęca Sp. z o.o. Sp.k.
+1109,FPUH Kozok
+1110,Grupa Siwka-Gałęza Sp.j.
+1111,Spółdzielnia Strawa S.A.
+1112,Fundacja Zięciak
+1113,PPUH Araszkiewicz
+1114,Fundacja Niedojadło-Mazepa Sp.k.
+1115,Fundacja Uziębło-Knysak Sp.j.
+1116,PPUH Piesik
+1117,Grupa Balawender-Judek Sp.j.
+1118,Żmija S.A.
+1119,FPUH Cogiel Sp. z o.o.
+1120,PPUH Dycha-Galica Sp.j.
+1121,Spółdzielnia Panasiewicz-Wałek Sp.k.
+1122,Grupa Pyś Sp.j.
+1123,FPUH Gomuła-Pawełko s.c.
+1124,Gabinety Ciapa Sp. z o.o.
+1125,Spółdzielnia Rezler-Tryc S.A.
+1126,Gabinety Kapcia S.A.
+1127,Spółdzielnia Kuzior
+1128,FPUH Hanusiak S.A.
+1129,Kudela-Morka s.c.
+1130,Zyga-Borzym Sp.k.
+1131,Gabinety Bugiel
+1132,Wacławiak-Kobza i syn s.c.
+1133,Symonowicz Sp. z o.o. Sp.k.
+1134,Spółdzielnia Megger
+1135,Fundacja Ciepła Sp. z o.o.
+1136,Doroszkiewicz Sp.k.
+1137,Figat-Gałęza Sp. z o.o. Sp.k.
+1138,Stowarzyszenie Jonczyk-Mały Sp.j.
+1139,Stowarzyszenie Zieja s.c.
+1140,FPUH Adamaszek
+1141,Fundacja Cygal
+1142,Gabinety Glazer
+1143,Grupa Smyl
+1144,Spółdzielnia Poreda
+1145,PPUH Domka-Dmoch S.A.
+1146,FPUH Kinal-Krauz Sp.j.
+1147,Spółdzielnia Konrad Sp.k.
+1148,FPUH Armatys
+1149,Fundacja Lenarcik s.c.
+1150,Wojtaszak-Olewniczak Sp. z o.o. Sp.k.
+1151,Lelonek s.c.
+1152,PPUH Godyń
+1153,Spółdzielnia Welenc-Bik i syn s.c.
+1154,Fundacja Sobisz
+1155,FPUH Surdel-Brańka Sp. z o.o. Sp.k.
+1156,Niewola-Zimoląg S.A.
+1157,Spółdzielnia Wiertelak-Deluga Sp. z o.o. Sp.k.
+1158,Stowarzyszenie Adamiuk Sp.j.
+1159,FPUH Majsterek-Węgier s.c.
+1160,Fundacja Bulanda-Dytko i syn s.c.
+1161,PPUH Paszkowiak Sp.k.
+1162,Starościak-Pasierbek Sp. z o.o. Sp.k.
+1163,PPUH Kubina
+1164,Fundacja Gietka i syn s.c.
+1165,Grupa Romaniak
+1166,Gabinety Sydor-Kozdroń Sp. z o.o. Sp.k.
+1167,Spółdzielnia Dąbroś-Osman i syn s.c.
+1168,Grupa Przewłoka-Frost S.A.
+1169,Grupa Łyjak
+1170,FPUH Galik i syn s.c.
+1171,Gabinety Pułka-Szymocha Sp. z o.o. Sp.k.
+1172,Stowarzyszenie Jankowicz Sp. z o.o.
+1173,Rajczak Sp.j.
+1174,PPUH Klyszcz-Karmelita i syn s.c.
+1175,Waniek-Sołtysek i syn s.c.
+1176,Spółdzielnia Kudela Sp.j.
+1177,Bryzek S.A.
+1178,Gierat Sp. z o.o.
+1179,Siedlik Sp. z o.o.
+1180,Gabinety Jargieło
+1181,Kozon i syn s.c.
+1182,Karwan i syn s.c.
+1183,Skwira S.A.
+1184,FPUH Zyga Sp. z o.o. Sp.k.
+1185,Grupa Ciechowicz
+1186,Stowarzyszenie Kononowicz
+1187,Grupa Topa-Pupek s.c.
+1188,FPUH Langa Sp. z o.o.
+1189,Gabinety Martin-Cegła s.c.
+1190,Gabinety Bojdo-Megger Sp. z o.o.
+1191,Fundacja Zbróg
+1192,Zdobylak s.c.
+1193,Spółdzielnia Sugier-Fechner Sp.j.
+1194,Spółdzielnia Wosiak-Cis Sp.j.
+1195,PPUH Matura-Makar i syn s.c.
+1196,Ciapa Sp. z o.o.
+1197,Brzęk-Siewert i syn s.c.
+1198,Roda s.c.
+1199,PPUH Solarczyk
+1200,Wiak Sp. z o.o. Sp.k.
+1201,PPUH Raźny-Morka Sp.k.
+1202,Madzia s.c.
+1203,Grupa Jarczyk-Myszor Sp.j.
+1204,Stowarzyszenie Piksa
+1205,Spółdzielnia Burnat-Walenciak i syn s.c.
+1206,Haponiuk-Tofil Sp. z o.o. Sp.k.
+1207,Drobnik S.A.
+1208,Grupa Salomon
+1209,Gabinety Szałas
+1210,Spółdzielnia Sopata-Klin Sp.j.
+1211,Stowarzyszenie Trzmiel-Mol Sp. z o.o. Sp.k.
+1212,Grupa Miozga Sp.j.
+1213,Spółdzielnia Radke
+1214,Stein Sp. z o.o. Sp.k.
+1215,Ostapczuk-Feret S.A.
+1216,PPUH Wyrostek-Przystupa Sp.j.
+1217,FPUH Łuczkiewicz
+1218,Bryja s.c.
+1219,PPUH Półchłopek
+1220,Gabinety Jodko Sp. z o.o.
+1221,Supeł-Dobrosz i syn s.c.
+1222,Grupa Kuryś s.c.
+1223,Grupa Dolega
+1224,Lepka-Ragus Sp.k.
+1225,PPUH Abramczuk-Zdziech Sp. z o.o. Sp.k.
+1226,Smagała Sp. z o.o.
+1227,Matula-Jędrasiak Sp.j.
+1228,Gabinety Janka Sp. z o.o. Sp.k.
+1229,Polaszek-Kurnik Sp. z o.o.
+1230,Domka-Kudela s.c.
+1231,Gabinety Dawidczyk-Kubów Sp.k.
+1232,Gabinety Gregorczuk-Bieniak Sp.k.
+1233,Małota S.A.
+1234,Bartoszak-Wijata Sp.j.
+1235,Gabinety Labocha
+1236,Stowarzyszenie Januchta
+1237,Dobroń S.A.
+1238,PPUH Sito Sp.k.
+1239,Fundacja Dziurdzia-Wieja Sp.j.
+1240,Cal Sp.k.
+1241,Moroń s.c.
+1242,Stowarzyszenie Uzar s.c.
+1243,Wawrzynek-Banachowicz Sp. z o.o.
+1244,FPUH Czak-Steinke Sp.j.
+1245,Sochaj-Bojarczuk s.c.
+1246,Spółdzielnia Prucnal
+1247,Grupa Szkoła-Brzykcy Sp. z o.o.
+1248,PPUH Matulewicz
+1249,PPUH Jonak
+1250,Fundacja Tórz S.A.
+1251,Cyroń Sp.k.
+1252,Rzucidło S.A.
+1253,FPUH Worach-Kondej Sp.k.
+1254,Stowarzyszenie Pawliczek-Waraksa S.A.
+1255,Gabinety Heller-Szyja Sp. z o.o.
+1256,Gozdur-Fabiszak Sp. z o.o.
+1257,Praczyk Sp. z o.o.
+1258,Parada-Gumuła Sp.j.
+1259,Kuźnia-Puch Sp. z o.o.
+1260,Patoka Sp. z o.o.
+1261,Działo i syn s.c.
+1262,Gabinety Prucnal-Gordon S.A.
+1263,Gabinety Tokarek-Boba Sp. z o.o.
+1264,Krężołek Sp.j.
+1265,Dusik-Bicz i syn s.c.
+1266,Spółdzielnia Wawak-Rolak s.c.
+1267,FPUH Pioch
+1268,Osojca-Czermak Sp.j.
+1269,FPUH Pabis-Pianka S.A.
+1270,Rzeźniczak S.A.
+1271,PPUH Styrna
+1272,Fundacja Soczówka
+1273,Ziemak-Duc s.c.
+1274,Filiks Sp. z o.o.
+1275,Gabinety Mordak-Leszczuk Sp. z o.o. Sp.k.
+1276,Stowarzyszenie Czerepak-Kubek S.A.
+1277,PPUH Pich-Tabiś Sp. z o.o.
+1278,Zdobylak i syn s.c.
+1279,Stowarzyszenie Łyp-Maron Sp.j.
+1280,FPUH Żabierek-Symonowicz Sp.j.
+1281,PPUH Gałach
+1282,Andrzejuk Sp. z o.o.
+1283,Hadam Sp. z o.o.
+1284,Korzeniak i syn s.c.
+1285,PPUH Świerkosz
+1286,Lelonek Sp. z o.o. Sp.k.
+1287,Ostapczuk-Tadla Sp.j.
+1288,Gabinety Jarmuła
+1289,Stowarzyszenie Grochowina
+1290,FPUH Słysz Sp. z o.o.
+1291,Grupa Martyka-Witka s.c.
+1292,Wacławczyk s.c.
+1293,Stowarzyszenie Kałwa Sp.j.
+1294,Deszcz-Ryguła s.c.
+1295,Nazar-Motak i syn s.c.
+1296,Koczy-Czulak i syn s.c.
+1297,Gabinety Niemira-Kubanek Sp. z o.o. Sp.k.
+1298,Gabinety Pal
+1299,Bartkowicz-Zasępa Sp.j.
+1300,PPUH Majak
+1301,Gabinety Szymaniuk Sp.j.
+1302,Gabinety Kupaj-Wiencek Sp. z o.o.
+1303,Gabinety Cąkała Sp. z o.o.
+1304,Gabinety Dryka
+1305,Gabinety Kunda
+1306,Spółdzielnia Szulist-Durlej s.c.
+1307,Grupa Szwaj-Windak S.A.
+1308,Bałazy-Kuczaj Sp. z o.o. Sp.k.
+1309,Szkoda Sp.j.
+1310,Karwan-Stein Sp.j.
+1311,Grupa Siejak
+1312,Gabinety Bajak-Jasica Sp. z o.o. Sp.k.
+1313,PPUH Ładniak-Kansy Sp.j.
+1314,Wardzała-Domka i syn s.c.
+1315,Grupa Latek
+1316,Spółdzielnia Morka-Pawliczak Sp.k.
+1317,FPUH Wiszowata-Krzystek Sp. z o.o.
+1318,Spółdzielnia Lemieszek i syn s.c.
+1319,Grupa Giedrojć-Czura S.A.
+1320,Basa Sp. z o.o.
+1321,Fundacja Kęsek
+1322,Grupa Olkowicz
+1323,Spółdzielnia Wochna s.c.
+1324,Gwizdek i syn s.c.
+1325,Grupa Dukat-Dawidek i syn s.c.
+1326,Thiel-Szpyrka i syn s.c.
+1327,Stowarzyszenie Stąpor i syn s.c.
+1328,Strycharz s.c.
+1329,Fundacja Piaścik-Cichos S.A.
+1330,PPUH Prochownik-Zięcik Sp. z o.o.
+1331,Spółdzielnia Adrian
+1332,Grupa Gładka i syn s.c.
+1333,Bembenek-Nagel S.A.
+1334,FPUH Błażejak-Majzner Sp. z o.o.
+1335,Gabinety Żołądź-Pachnik i syn s.c.
+1336,Stowarzyszenie Gerlach
+1337,Zajko-Dacko S.A.
+1338,Fundacja Szpyra S.A.
+1339,Mydlak Sp. z o.o. Sp.k.
+1340,Maszkiewicz Sp.k.
+1341,Fundacja Zgoła-Goska i syn s.c.
+1342,Gabinety Smolec-Fogiel i syn s.c.
+1343,Stowarzyszenie Ragan
+1344,Rurarz-Ludwik S.A.
+1345,FPUH Jasionek-Szulist Sp. z o.o.
+1346,Hanzel-Gotfryd S.A.
+1347,Fundacja Miszkiel-Banachowicz s.c.
+1348,Nurkiewicz Sp. z o.o. Sp.k.
+1349,Stowarzyszenie Buza Sp.j.
+1350,Fundacja Grzech-Lica S.A.
+1351,Drózd Sp.k.
+1352,FPUH Parzonka
+1353,Gabinety Witoń s.c.
+1354,Spółdzielnia Kurzaj-Oleksak Sp. z o.o.
+1355,Gabinety Cegła i syn s.c.
+1356,Prasek-Latacz Sp. z o.o.
+1357,Stowarzyszenie Żyto-Fidler Sp. z o.o.
+1358,Stowarzyszenie Toma-Kałwa i syn s.c.
+1359,Fundacja Wendt-Dziadowicz Sp.j.
+1360,Spółdzielnia Dziadkiewicz
+1361,PPUH Pyrkosz
+1362,Gabinety Hus
+1363,PPUH Dubik
+1364,Spółdzielnia Kostro Sp. z o.o. Sp.k.
+1365,Grupa Frelek
+1366,PPUH Drewa-Zubowicz Sp.k.
+1367,PPUH Potoczek s.c.
+1368,Truchan-Lelito s.c.
+1369,Dorna s.c.
+1370,Paszkowiak-Klekot i syn s.c.
+1371,Ciaś-Fit Sp.j.
+1372,Spółdzielnia Spychaj Sp.k.
+1373,Gałat s.c.
+1374,Cal-Kubów Sp.k.
+1375,Kurzak-Siewiera Sp.k.
+1376,FPUH Kostek
+1377,Gabinety Niedźwiadek Sp.k.
+1378,Tasarz-Podeszwa Sp.k.
+1379,Spółdzielnia Filusz Sp. z o.o. Sp.k.
+1380,Gruza-Kadela s.c.
+1381,Spółdzielnia Kopczyk s.c.
+1382,Grupa Naczk
+1383,Tylek Sp. z o.o.
+1384,Bancerz Sp.k.
+1385,Thomas-Ziemann Sp.k.
+1386,Okła-Folta i syn s.c.
+1387,Grupa Gosik
+1388,PPUH Pietrusiewicz-Maszota Sp.k.
+1389,Galos Sp.j.
+1390,PPUH Czupryn Sp. z o.o. Sp.k.
+1391,Grupa Jonczyk-Leszkiewicz Sp. z o.o.
+1392,Mierzwiak-Sibiga Sp.j.
+1393,Spółdzielnia Gęsiarz-Famuła Sp. z o.o.
+1394,FPUH Kubowicz-Tyczka s.c.
+1395,Grupa Kusyk-Policht i syn s.c.
+1396,PPUH Sus
+1397,Spółdzielnia Subocz Sp.k.
+1398,Spółdzielnia Berg Sp. z o.o. Sp.k.
+1399,Przeklasa S.A.
+1400,Warzybok Sp. z o.o.
+1401,Preś Sp.j.
+1402,Buza Sp. z o.o.
+1403,FPUH Byzdra-Mueller Sp.k.
+1404,Fundacja Hadała Sp. z o.o. Sp.k.
+1405,Fundacja Oziębło S.A.
+1406,Szajna-Zontek Sp. z o.o. Sp.k.
+1407,FPUH Januszewicz
+1408,Grupa Pierz s.c.
+1409,FPUH Mendyka i syn s.c.
+1410,Posłuszna Sp. z o.o.
+1411,PPUH Siatka-Goś S.A.
+1412,Pniak-Grzelczyk Sp.k.
+1413,Łyczak-Szczudło Sp. z o.o. Sp.k.
+1414,Wrześniak s.c.
+1415,Grupa Rosłoń Sp.j.
+1416,Gabinety Klaus
+1417,Gabinety Sondej-Browarczyk i syn s.c.
+1418,Styrna-Jonczyk Sp.k.
+1419,Stowarzyszenie Langiewicz-Harasimiuk s.c.
+1420,Fundacja Gajownik-Uzar Sp.k.
+1421,Gabinety Ciechowicz Sp. z o.o. Sp.k.
+1422,Gabinety Sondej-Bartoszczyk s.c.
+1423,Pesta s.c.
+1424,Fundacja Bitner
+1425,PPUH Wons
+1426,Rozum Sp.k.
+1427,Fundacja Cukier S.A.
+1428,FPUH Wandas-Holc Sp. z o.o. Sp.k.
+1429,Krzyśków Sp.j.
+1430,Grupa Skotarek Sp. z o.o.
+1431,Grupa Długajczyk-Solarczyk Sp.j.
+1432,Popielarczyk S.A.
+1433,Stój-Szmajda Sp.j.
+1434,Madera-Budkiewicz i syn s.c.
+1435,PPUH Buśko
+1436,Gorzelańczyk i syn s.c.
+1437,Matyka Sp.k.
+1438,Kuza-Roś S.A.
+1439,Grupa Zębik
+1440,Stowarzyszenie Szulczyk-Wojtach Sp. z o.o.
+1441,Fundacja Kijanka-Kopytko s.c.
+1442,Spółdzielnia Korkosz
+1443,FPUH Pinda-Deryło Sp. z o.o. Sp.k.
+1444,Kiełek-Fugiel S.A.
+1445,Związek-Latoszek i syn s.c.
+1446,Citko Sp. z o.o. Sp.k.
+1447,Samol-Fabiszak Sp.j.
+1448,FPUH Gosik-Drążyk s.c.
+1449,Leonowicz-Lisoń i syn s.c.
+1450,Grupa Zegar s.c.
+1451,Chołody Sp. z o.o. Sp.k.
+1452,PPUH Gruza
+1453,Stowarzyszenie Plizga S.A.
+1454,Malarczyk-Olchawa Sp. z o.o. Sp.k.
+1455,Kurzyna-Lisak S.A.
+1456,Gabinety Świerkosz
+1457,Gabinety Podeszwa
+1458,Stowarzyszenie Miśko
+1459,Gabinety Chwalisz Sp.j.
+1460,Kempka-Kruś Sp.j.
+1461,Wita s.c.
+1462,Wojak s.c.
+1463,PPUH Maruszczyk
+1464,Stowarzyszenie Kazek Sp.j.
+1465,Flasza-Wawszczyk s.c.
+1466,Spółdzielnia Ślęczka
+1467,Spółdzielnia Moździerz-Ryszkiewicz Sp.j.
+1468,Paczos S.A.
+1469,Larysz-Superson Sp. z o.o.
+1470,Fundacja Ksel
+1471,Korzekwa Sp. z o.o. Sp.k.
+1472,Spółdzielnia Tymczyszyn-Dmoch Sp. z o.o.
+1473,Kloska i syn s.c.
+1474,Węgrzyk-Judek Sp.k.
+1475,Stowarzyszenie Zander Sp. z o.o.
+1476,FPUH Juśkiewicz
+1477,Grupa Cis-Drozdowicz Sp.j.
+1478,Bobik s.c.
+1479,Durlik-Słaba S.A.
+1480,Stowarzyszenie Słonka
+1481,Roskosz Sp.j.
+1482,Grupa Sornat Sp. z o.o. Sp.k.
+1483,Kargol Sp. z o.o. Sp.k.
+1484,Winek S.A.
+1485,Mortka Sp.j.
+1486,Spółdzielnia Broniek Sp. z o.o. Sp.k.
+1487,Stowarzyszenie Trzcionka
+1488,Stowarzyszenie Zontek
+1489,FPUH Paździora
+1490,Fundacja Gorol
+1491,PPUH Małysiak
+1492,Jasionek-Gula Sp. z o.o. Sp.k.
+1493,Spółdzielnia Gal Sp. z o.o. Sp.k.
+1494,Stowarzyszenie Kazior Sp.k.
+1495,Stanisławczyk-Gryta s.c.
+1496,FPUH Twardosz-Mysiak Sp.j.
+1497,Rorat i syn s.c.
+1498,Spółdzielnia Krysta
+1499,Gabinety Jakimiak
+1500,PPUH Kalisiak Sp.k.
+1501,Grupa Feliksiak-Puch s.c.
+1502,Grupa Fronczyk
+1503,Paśnik s.c.
+1504,Grupa Strzelczak Sp.j.
+1505,Gabinety Wnuczek-Lelonek Sp. z o.o. Sp.k.
+1506,Grupa Karol-Stanclik Sp.j.
+1507,Grupa Rapa-Czubaszek s.c.
+1508,Grupa Błażejak-Politowicz Sp. z o.o. Sp.k.
+1509,PPUH Kawulok Sp. z o.o. Sp.k.
+1510,Gabinety Rzeźniczak
+1511,Nijak-Słoka Sp. z o.o.
+1512,Piekart-Parus Sp. z o.o. Sp.k.
+1513,Grupa Utrata
+1514,FPUH Małycha
+1515,Jachna-Kurbiel s.c.
+1516,Fundacja Płocharczyk
+1517,FPUH Piekacz
+1518,PPUH Perczak
+1519,Spółdzielnia Dziadowicz
+1520,FPUH Węgrzyk-Balas Sp. z o.o.
+1521,Gieroń i syn s.c.
+1522,Galek-Uryga Sp. z o.o.
+1523,Fundacja Madera Sp.k.
+1524,Gabinety Molka
+1525,Fundacja Kuran Sp.j.
+1526,FPUH Romejko i syn s.c.
+1527,Smal Sp.j.
+1528,Spółdzielnia Sereda s.c.
+1529,Boryczko i syn s.c.
+1530,Kurz S.A.
+1531,Macias-Twardy Sp.j.
+1532,Grupa Winek Sp. z o.o.
+1533,FPUH Piwowarek Sp. z o.o. Sp.k.
+1534,FPUH Sierżant-Nastały Sp.j.
+1535,Gabinety Ludwik Sp.k.
+1536,Stowarzyszenie Pompa-Dawiec Sp.j.
+1537,FPUH Martyn Sp.j.
+1538,Krężołek-Mućka S.A.
+1539,Kościołek Sp. z o.o. Sp.k.
+1540,Fundacja Bender i syn s.c.
+1541,Fundacja Włodyka s.c.
+1542,Spółdzielnia Wojtyś
+1543,Kudlak-Pawełko s.c.
+1544,Bździuch Sp.j.
+1545,Spółdzielnia Grębowiec-Staś Sp. z o.o.
+1546,Drobisz s.c.
+1547,Grupa Czerner-Komuda S.A.
+1548,Misiaszek Sp. z o.o.
+1549,Spółdzielnia Kopczyk
+1550,Spółdzielnia Mazepa i syn s.c.
+1551,FPUH Kleinschmidt Sp.j.
+1552,Jankowicz S.A.
+1553,Fundacja Trybuś
+1554,Gabinety Osica
+1555,Spółdzielnia Garncarz s.c.
+1556,Fundacja Picheta i syn s.c.
+1557,Dzwonnik s.c.
+1558,Stowarzyszenie Surdel Sp.j.
+1559,Stowarzyszenie Galik
+1560,Fundacja Wujec-Sterna Sp. z o.o.
+1561,Pawlos Sp. z o.o.
+1562,Stowarzyszenie Jędruch-Kudlak Sp. z o.o. Sp.k.
+1563,Spółdzielnia Maćków-Golonko s.c.
+1564,Grupa Nawrotek S.A.
+1565,Zapiór s.c.
+1566,Wywiał-Słabosz Sp. z o.o.
+1567,Spółdzielnia Poreda S.A.
+1568,PPUH Wawszczak Sp.k.
+1569,Jędruszczak-Kacperczyk i syn s.c.
+1570,Grupa Korab
+1571,Wakuła-Cogiel s.c.
+1572,Spółdzielnia Solis-Drela Sp.j.
+1573,Fundacja Zbylut Sp. z o.o. Sp.k.
+1574,Szczerbiak-Dzienisz Sp. z o.o. Sp.k.
+1575,Kostera-Wlaźlak Sp. z o.o.
+1576,Gryska-Parus s.c.
+1577,Fundacja Garncarek i syn s.c.
+1578,Faruga S.A.
+1579,Spółdzielnia Kasper Sp. z o.o. Sp.k.
+1580,Fundacja Hass-Kuropatwa s.c.
+1581,Słomian s.c.
+1582,Karkocha i syn s.c.
+1583,Mysior-Monkiewicz Sp. z o.o. Sp.k.
+1584,Sykała-Irla i syn s.c.
+1585,Stowarzyszenie Jeżyna
+1586,Gabinety Balawender
+1587,Grupa Gorgol-Gnyp S.A.
+1588,Dyś-Łęgowik Sp. z o.o.
+1589,Gabinety Janowiak i syn s.c.
+1590,Spółdzielnia Wojak
+1591,FPUH Kursa
+1592,Stowarzyszenie Szmagaj
+1593,Pęciak Sp. z o.o. Sp.k.
+1594,Gajownik-Kusik Sp. z o.o.
+1595,Stowarzyszenie Foit Sp. z o.o. Sp.k.
+1596,Gomuła-Szajna Sp.j.
+1597,FPUH Chomiuk S.A.
+1598,Majnusz-Wylegała Sp. z o.o.
+1599,Stowarzyszenie Cieniuch-Sowała Sp.j.
+1600,Spółdzielnia Dzienniak
+1601,Gęsiarz-Leszcz i syn s.c.
+1602,FPUH Drewa-Czerniakiewicz Sp.j.
+1603,Spółdzielnia Karalus
+1604,PPUH Piechura S.A.
+1605,Gabinety Janiuk-Gryga Sp. z o.o. Sp.k.
+1606,Fundacja Kozień-Panasewicz Sp.j.
+1607,Gabinety Mroczko Sp. z o.o. Sp.k.
+1608,Dziadkiewicz-Bąkiewicz Sp.k.
+1609,Stowarzyszenie Ciereszko-Szumiło S.A.
+1610,Fundacja Kopyto-Pyś S.A.
+1611,Tomys Sp.j.
+1612,Mędrala Sp.j.
+1613,Kolman-Grys s.c.
+1614,Spółdzielnia Pietraszkiewicz Sp. z o.o. Sp.k.
+1615,Stowarzyszenie Cieloch-Droździel Sp.j.
+1616,Gromala-Wójt Sp.j.
+1617,Kinder Sp.j.
+1618,Spółdzielnia Nesterowicz S.A.
+1619,Pyziak s.c.
+1620,Początek-Koziatek Sp.k.
+1621,Spółdzielnia Klepka
+1622,Tlałka-Pawliczak Sp. z o.o. Sp.k.
+1623,FPUH Czapiga-Kuśnierek S.A.
+1624,Dorawa Sp.k.
+1625,Stowarzyszenie Cisoń
+1626,Ważny-Szyma Sp.k.
+1627,Stowarzyszenie Wawrzyczek-Chochół s.c.
+1628,Spółdzielnia Hyży Sp. z o.o. Sp.k.
+1629,Kranc S.A.
+1630,Spółdzielnia Bartel Sp. z o.o. Sp.k.
+1631,PPUH Ćwirko-Hadaś Sp.k.
+1632,Gabinety Pela-Witkowicz s.c.
+1633,Grupa Janoszek
+1634,Grupa Jarczyk-Pogorzelec s.c.
+1635,Stowarzyszenie Soczewka
+1636,Jędral-Rorat Sp.k.
+1637,Spółdzielnia Kiciak
+1638,Stowarzyszenie Stupak-Jonik Sp. z o.o.
+1639,PPUH Wojtyś
+1640,Gabinety Pachowicz Sp. z o.o.
+1641,Neska Sp.j.
+1642,Szpara S.A.
+1643,PPUH Miśkowiec Sp. z o.o.
+1644,Grupa Kozar-Wysota S.A.
+1645,Grupa Sadoch-Pawliszyn Sp. z o.o. Sp.k.
+1646,Małyszek-Giersz S.A.
+1647,Powierża i syn s.c.
+1648,Jasnoch Sp.j.
+1649,Gabinety Maruszczak Sp. z o.o. Sp.k.
+1650,Lewko Sp.k.
+1651,Gabinety Gajdzik
+1652,Jancewicz s.c.
+1653,Grupa Kapuścik-Frydrychowicz Sp. z o.o.
+1654,Kozubal-Skoneczna Sp.k.
+1655,Misior-Nieścior i syn s.c.
+1656,Spólnik-Kawula i syn s.c.
+1657,Wołoszyk Sp.j.
+1658,Grupa Balik-Oleksak s.c.
+1659,Jonak s.c.
+1660,Fundacja Siudek-Józwik Sp. z o.o. Sp.k.
+1661,PPUH Łachacz-Ludwisiak i syn s.c.
+1662,PPUH Lukas-Łasica Sp.j.
+1663,Połetek S.A.
+1664,Gabinety Sarota-Siejak S.A.
+1665,Szulczyk-Olesiejuk Sp. z o.o.
+1666,Jantos-Kleina i syn s.c.
+1667,Fundacja Sojda-Kuza Sp. z o.o.
+1668,Grupa Irla
+1669,Spółdzielnia Koniecko
+1670,FPUH Szymula-Kmak s.c.
+1671,Spółdzielnia Forysiak
+1672,Grupa Osada
+1673,Stowarzyszenie Kulon
+1674,Jancewicz Sp. z o.o.
+1675,Grupa Różewicz
+1676,Stowarzyszenie Steckiewicz-Kocoł Sp.j.
+1677,Skubała-Kuzior i syn s.c.
+1678,PPUH Kołpak-Grzela i syn s.c.
+1679,Wąsiewicz s.c.
+1680,PPUH Latko
+1681,Grupa Pazoła Sp.k.
+1682,PPUH Bazyluk-Panuś S.A.
+1683,Czochara S.A.
+1684,Stowarzyszenie Oleszko
+1685,Podeszwa-Buza Sp. z o.o. Sp.k.
+1686,Stowarzyszenie Kominiak-Pieszak Sp.j.
+1687,PPUH Hajdasz-Gniewek Sp. z o.o.
+1688,Jaremko Sp. z o.o.
+1689,Bobel-Rok Sp. z o.o.
+1690,PPUH Siemek-Kramer Sp.j.
+1691,Burza-Matyszczak s.c.
+1692,Babij Sp. z o.o.
+1693,Pych-Sajda i syn s.c.
+1694,Spółdzielnia Stanisławek-Janoszek Sp. z o.o. Sp.k.
+1695,Bujko-Mandrysz s.c.
+1696,Gabinety Opyrchał-Nestorowicz Sp.k.
+1697,Grupa Borysiuk
+1698,Stowarzyszenie Danisz-Hawro Sp. z o.o. Sp.k.
+1699,Fundacja Chwedczuk-Pakosz i syn s.c.
+1700,Rozmiarek-Brygoła S.A.
+1701,Stowarzyszenie Goik-Sędek s.c.
+1702,Rychcik-Skupin s.c.
+1703,Wakuła Sp. z o.o.
+1704,Stowarzyszenie Walentynowicz i syn s.c.
+1705,Semik Sp. z o.o. Sp.k.
+1706,PPUH Ksel Sp. z o.o. Sp.k.
+1707,Ławniczek Sp.k.
+1708,Fundacja Materek
+1709,FPUH Miara-Jędryczka Sp. z o.o. Sp.k.
+1710,FPUH Wójs
+1711,Odrzywołek-Polewka Sp. z o.o.
+1712,Grupa Prasek
+1713,Migda i syn s.c.
+1714,Fundacja Staciwa
+1715,FPUH Aleksiejuk-Jerzyk Sp. z o.o.
+1716,Górkiewicz i syn s.c.
+1717,PPUH Zander-Szpyra i syn s.c.
+1718,Sajnóg Sp. z o.o. Sp.k.
+1719,Duszczyk-Sadlak Sp.j.
+1720,Fundacja Szczypiór s.c.
+1721,Gabinety Dębniak
+1722,Gabinety Ruszel-Zamora Sp. z o.o. Sp.k.
+1723,Majczyna-Kościołek Sp. z o.o. Sp.k.
+1724,Grupa Sroga
+1725,FPUH Rajczak
+1726,Stowarzyszenie Zygmuntowicz i syn s.c.
+1727,PPUH Mularz Sp. z o.o. Sp.k.
+1728,Stowarzyszenie Siara i syn s.c.
+1729,Żabka S.A.
+1730,Spółdzielnia Prostak-Cieciora i syn s.c.
+1731,PPUH Gryska
+1732,Spółdzielnia Bancerz
+1733,Fundacja Furmankiewicz
+1734,Kałwak Sp.j.
+1735,Gabinety Kuder
+1736,Rzeźniczak-Pieczarka S.A.
+1737,Szwaj-Zawiasa i syn s.c.
+1738,FPUH Widłak
+1739,Mitera-Wyroba Sp.j.
+1740,Gabinety Ziemak
+1741,Związek-Sobstyl Sp. z o.o. Sp.k.
+1742,Heller Sp. z o.o.
+1743,Mejer-Teodorowicz Sp. z o.o.
+1744,Stowarzyszenie Pyszka s.c.
+1745,Kuba-Daniec Sp.k.
+1746,Spółdzielnia Bidas
+1747,Grupa Kosałka Sp. z o.o. Sp.k.
+1748,FPUH Łapot-Ciak Sp.k.
+1749,Grupa Bazyluk
+1750,Stowarzyszenie Mazek
+1751,Fundacja Oleksiewicz
+1752,Stowarzyszenie Kleban-Pyziak i syn s.c.
+1753,Zbrzeźniak Sp. z o.o.
+1754,Smagacz S.A.
+1755,Stowarzyszenie Lemke
+1756,FPUH Matus-Golon Sp. z o.o. Sp.k.
+1757,FPUH Madura-Nazarewicz s.c.
+1758,PPUH Tabak-Andreasik Sp.k.
+1759,Pietrusiak-Sieg Sp.j.
+1760,FPUH Jędra
+1761,Fundacja Hallmann
+1762,PPUH Gasek-Giel i syn s.c.
+1763,Grupa Dubel
+1764,Grupa Hadała-Jankowicz Sp.k.
+1765,Potoczna-Perka i syn s.c.
+1766,FPUH Dąbrowicz
+1767,Banachowicz i syn s.c.
+1768,Gabinety Kuliberda-Bobko Sp. z o.o.
+1769,Buchholz-Baster i syn s.c.
+1770,Gabinety Szyca-Koziatek Sp.j.
+1771,PPUH Kranc i syn s.c.
+1772,Kutek-Chaberek Sp. z o.o. Sp.k.
+1773,Dybiec Sp. z o.o.
+1774,Wójcikiewicz Sp. z o.o. Sp.k.
+1775,Gabinety Strządała s.c.
+1776,Mydlak-Siwczak i syn s.c.
+1777,Kochanowicz-Pindor i syn s.c.
+1778,Stowarzyszenie Ścibior Sp.j.
+1779,Milewczyk-Wyrostek S.A.
+1780,Organiściak S.A.
+1781,Krzyśków-Lica S.A.
+1782,Toma-Rolek Sp.k.
+1783,FPUH Olewniczak S.A.
+1784,Wittbrodt-Wiencek Sp. z o.o. Sp.k.
+1785,Holewa Sp. z o.o. Sp.k.
+1786,Gabinety Parkitna
+1787,Gabinety Dyczko-Lenc s.c.
+1788,Grupa Hermanowicz-Witas Sp. z o.o.
+1789,Kycia Sp.k.
+1790,Spółdzielnia Kott-Jewuła s.c.
+1791,FPUH Dziedzina i syn s.c.
+1792,Spółdzielnia Imiołczyk-Garczyk Sp. z o.o. Sp.k.
+1793,FPUH Dzika Sp.j.
+1794,Grupa Wyderka
+1795,Spółdzielnia Jantos-Kajdan Sp. z o.o. Sp.k.
+1796,Korbel Sp.k.
+1797,Grupa Konieczek-Subocz Sp. z o.o. Sp.k.
+1798,Pyrz s.c.
+1799,Malcharek-Klekot Sp.k.
+1800,Spółdzielnia Molga
+1801,Grupa Giedrojć-Hermanowicz s.c.
+1802,Zemanek Sp.j.
+1803,Fundacja Bulanda
+1804,Stowarzyszenie Salomon-Drygas Sp.j.
+1805,FPUH Duszkiewicz-Kolarczyk S.A.
+1806,Warchał-Kunysz S.A.
+1807,Stowarzyszenie Pazera
+1808,PPUH Rezmer
+1809,Gabinety Kuliberda
+1810,Spółdzielnia Węgrzyk S.A.
+1811,Buśko-Labus Sp.j.
+1812,Strzyż-Młotek Sp. z o.o.
+1813,Fundacja Wygoda
+1814,Fundacja Ogłaza
+1815,Grupa Dłubak-Surdyk Sp.k.
+1816,Spółdzielnia Wieja-Cieciora S.A.
+1817,Fundacja Matela Sp. z o.o. Sp.k.
+1818,Piotrowiak-Bąbol Sp.k.
+1819,Grymuza-Kudłacik Sp. z o.o. Sp.k.
+1820,FPUH Czerner-Kryszczuk Sp. z o.o. Sp.k.
+1821,Stowarzyszenie Łosiak Sp.k.
+1822,FPUH Wacławczyk-Słoboda Sp.j.
+1823,Stowarzyszenie Cimoch-Faltyn Sp. z o.o. Sp.k.
+1824,Stowarzyszenie Połetek
+1825,FPUH Kosznik Sp. z o.o.
+1826,Stowarzyszenie Ciepłuch-Lindner S.A.
+1827,Molka Sp.k.
+1828,Gabinety Karpeta s.c.
+1829,Grupa Klinkosz
+1830,Grupa Waloszczyk
+1831,Fundacja Błądek
+1832,Stowarzyszenie Soczewka Sp.j.
+1833,FPUH Karwot Sp.j.
+1834,FPUH Ziegert-Kęsek i syn s.c.
+1835,Smoczyk i syn s.c.
+1836,Gabinety Szkoda
+1837,Kołata-Drozda Sp.j.
+1838,FPUH Jakimiak-Wiertelak s.c.
+1839,Gabinety Pęksa s.c.
+1840,Spółdzielnia Konrad
+1841,PPUH Domka-Cieciora Sp.j.
+1842,Stowarzyszenie Wójt
+1843,PPUH Pronobis i syn s.c.
+1844,PPUH Klucznik Sp.k.
+1845,FPUH Pawlaczek
+1846,Fundacja Faryna Sp. z o.o.
+1847,Szulczyk S.A.
+1848,Gabinety Makosz s.c.
+1849,Spółdzielnia Filus-Ochwat Sp. z o.o.
+1850,Spółdzielnia Wężyk s.c.
+1851,Grupa Nyk-Hojka Sp. z o.o. Sp.k.
+1852,Spółdzielnia Bluszcz
+1853,Działak s.c.
+1854,Jakimiak-Walo Sp. z o.o.
+1855,Gabinety Wichłacz Sp.k.
+1856,Manista-Wasilewicz s.c.
+1857,Grupa Janoszka-Podkowa Sp. z o.o. Sp.k.
+1858,Abramczuk i syn s.c.
+1859,Gabinety Hanke Sp. z o.o. Sp.k.
+1860,Spółdzielnia Józefczak-Zieja Sp.j.
+1861,Stowarzyszenie Kubasiewicz i syn s.c.
+1862,PPUH Męcik i syn s.c.
+1863,Wójcikiewicz i syn s.c.
+1864,Fundacja Marchlewicz
+1865,Fundacja Pacocha S.A.
+1866,Skutnik-Wendt Sp.j.
+1867,FPUH Sołek s.c.
+1868,Gabinety Chomiak
+1869,Glaza-Golan S.A.
+1870,FPUH Stiller Sp. z o.o.
+1871,Gabinety Ropiak
+1872,Skierka Sp. z o.o.
+1873,Grupa Lizurej Sp. z o.o.
+1874,Bączkiewicz-Pal Sp. z o.o. Sp.k.
+1875,Fundacja Morka-Kokosza s.c.
+1876,PPUH Osipowicz-Sznura Sp.k.
+1877,Furgała-Mateusiak s.c.
+1878,Jargieło Sp.j.
+1879,Fundacja Gruza i syn s.c.
+1880,Fundacja Amanowicz-Bachanek s.c.
+1881,Bejm-Wojtyna Sp. z o.o.
+1882,Fundacja Dankiewicz-Stosio S.A.
+1883,Chwalisz Sp. z o.o. Sp.k.
+1884,Gabinety Stróż-Okraska i syn s.c.
+1885,Luks-Para S.A.
+1886,PPUH Majewicz-Ignatiuk Sp.k.
+1887,Stowarzyszenie Pasieczna
+1888,Fundacja Mleczek Sp.j.
+1889,Stowarzyszenie Szmelter-Elert Sp.j.
+1890,Gabinety Jarczak-Terka i syn s.c.
+1891,Chmara-Serwach S.A.
+1892,Stowarzyszenie Jarmużek Sp. z o.o. Sp.k.
+1893,Stowarzyszenie Powała
+1894,Gabinety Neska
+1895,Grupa Chomiak Sp. z o.o.
+1896,Grupa Pieczarka
+1897,FPUH Hermanowicz i syn s.c.
+1898,Bazydło s.c.
+1899,FPUH Sąsiadek Sp. z o.o.
+1900,Strzyż-Pasztaleniec Sp. z o.o.
+1901,Spółdzielnia Fiedler-Fogt Sp. z o.o. Sp.k.
+1902,Barej-Orzeszek Sp.j.
+1903,Kretowicz-Kontny Sp.k.
+1904,Cybul-Kuza s.c.
+1905,Gabinety Pabiś Sp.k.
+1906,Bajak-Litwińczuk Sp. z o.o. Sp.k.
+1907,Stowarzyszenie Waszczyk-Golisz Sp. z o.o. Sp.k.
+1908,PPUH Wietecha-Honkisz Sp.j.
+1909,Fundacja Granat S.A.
+1910,PPUH Drabczyk-Makles Sp.j.
+1911,Pszczółka Sp.j.
+1912,Skotarczak-Zawalich Sp.k.
+1913,Dobrosz-Łągiewka i syn s.c.
+1914,Bartman Sp.j.
+1915,Gabinety Wawrzyńczyk-Malcher Sp.k.
+1916,Gabinety Dziadura Sp.k.
+1917,Ryguła i syn s.c.
+1918,Fundacja Twardzik-Laszczyk S.A.
+1919,Karwan s.c.
+1920,FPUH Nijak-Pilipczuk Sp. z o.o.
+1921,Gadzała Sp.k.
+1922,Stowarzyszenie Neubauer Sp. z o.o. Sp.k.
+1923,Stowarzyszenie Bździuch Sp.j.
+1924,Spółdzielnia Nurek Sp. z o.o. Sp.k.
+1925,Spółdzielnia Lew
+1926,Grupa Hejna
+1927,Gabinety Fołta Sp. z o.o.
+1928,Gabinety Ficner i syn s.c.
+1929,Grupa Budkiewicz S.A.
+1930,Stowarzyszenie Kalarus i syn s.c.
+1931,Fundacja Herbut S.A.
+1932,Spółdzielnia Hass Sp.k.
+1933,Fundacja Buksa
+1934,Fundacja Przekop i syn s.c.
+1935,Pacholik-Morgała s.c.
+1936,Żelazek Sp. z o.o.
+1937,Fundacja Siciarz-Osada Sp.k.
+1938,Gabinety Litwa
+1939,PPUH Fudalej Sp. z o.o.
+1940,Dyszy-Duchnik s.c.
+1941,Kwak-Dyjach S.A.
+1942,Taciak-Procek Sp.k.
+1943,Neugebauer Sp.k.
+1944,Poreda Sp.k.
+1945,Spółdzielnia Faltyn
+1946,PPUH Kajstura-Nagórka Sp. z o.o.
+1947,Ochal-Wocial Sp. z o.o. Sp.k.
+1948,Stowarzyszenie Michniak-Hołubowicz Sp.k.
+1949,PPUH Smalec i syn s.c.
+1950,Spółdzielnia Pleskot Sp.j.
+1951,Thiel-Bubel Sp.k.
+1952,FPUH Nyk Sp.k.
+1953,Matejczuk Sp. z o.o. Sp.k.
+1954,Kocaj Sp.k.
+1955,Nieszporek-Chlebek i syn s.c.
+1956,PPUH Fyda-Golenia s.c.
+1957,Spółdzielnia Rycerz
+1958,Spółdzielnia Kulis-Ziętal i syn s.c.
+1959,Stowarzyszenie Banek Sp.j.
+1960,Gabinety Putek Sp.k.
+1961,Jaśko Sp. z o.o. Sp.k.
+1962,Fundacja Job-Jaremko i syn s.c.
+1963,PPUH Przewoźna
+1964,Klamka Sp. z o.o. Sp.k.
+1965,Toczko s.c.
+1966,Palej s.c.
+1967,Kałwak-Myszor s.c.
+1968,FPUH Fidos s.c.
+1969,Fundacja Damps-Durlik Sp.j.
+1970,Furgała S.A.
+1971,Stowarzyszenie Żuberek-Dankiewicz s.c.
+1972,PPUH Larysz-Kopa s.c.
+1973,Sypuła-Rurka Sp. z o.o. Sp.k.
+1974,Gabinety Drynda
+1975,PPUH Skup-Lukas Sp. z o.o.
+1976,Grupa Męcik Sp.k.
+1977,PPUH Kaluga-Klupś Sp.j.
+1978,Tatarek Sp. z o.o. Sp.k.
+1979,PPUH Melaniuk
+1980,FPUH Wandas
+1981,Gogola s.c.
+1982,Sarniak-Kurtyka Sp.k.
+1983,Spółdzielnia Księżak
+1984,Gabinety Tytko
+1985,Stowarzyszenie Kurpisz
+1986,FPUH Biernacik
+1987,Gabinety Minkina
+1988,Zapadka Sp. z o.o.
+1989,Polakiewicz-Paluszak Sp. z o.o. Sp.k.
+1990,Kiciak i syn s.c.
+1991,Kurczab-Kiełek Sp.k.
+1992,PPUH Gajdzik
+1993,FPUH Joszko Sp.k.
+1994,Fundacja Mostek-Rykała Sp.j.
+1995,Janiuk-Brodawka s.c.
+1996,Stowarzyszenie Wojtera Sp.k.
+1997,Jażdżyk-Dulik Sp. z o.o. Sp.k.
+1998,Stowarzyszenie Fronczyk
+1999,PPUH Ruszczak Sp. z o.o. Sp.k.
+2000,Spółdzielnia Golon-Sommer Sp. z o.o.
+2001,Nazimek Sp. z o.o.
+2002,FPUH Szczerek-Stasica Sp. z o.o.
+2003,FPUH Karmelita-Danisz Sp. z o.o. Sp.k.
+2004,Fundacja Klemens
+2005,Gabinety Palak
+2006,Orman-Picheta Sp.k.
+2007,Grupa Kubowicz-Warczak Sp. z o.o. Sp.k.
+2008,Fundacja Sośniak S.A.
+2009,Grupa Stefanik S.A.
+2010,Grupa Czerwionka-Famuła Sp. z o.o. Sp.k.
+2011,Sławik s.c.
+2012,Gabinety Lubera Sp.k.
+2013,Spółdzielnia Golczyk-Kazek Sp. z o.o. Sp.k.
+2014,Maćków Sp. z o.o.
+2015,Fundacja Jędryczka Sp. z o.o.
+2016,Fundacja Makosz-Boruń Sp.k.
+2017,FPUH Zbylut-Nazarko s.c.
+2018,Bałazy-Smyl Sp.j.
+2019,Składanek-John Sp.k.
+2020,Gabinety Wężyk
+2021,Klyta i syn s.c.
+2022,Kuster-Lelonek Sp.k.
+2023,PPUH Palak
+2024,FPUH Łukowicz-Boruń Sp. z o.o. Sp.k.
+2025,Stowarzyszenie Mirga-Stochmal S.A.
+2026,Gabinety Tomal
+2027,Józwik Sp.k.
+2028,Gabinety Rząca
+2029,Gabinety Michalczak S.A.
+2030,Muskała i syn s.c.
+2031,Mrózek-Matejczyk Sp.j.
+2032,PPUH Stoltman-Sado Sp. z o.o.
+2033,Kaletka-Samiec i syn s.c.
+2034,Kornak Sp. z o.o.
+2035,Stowarzyszenie Warwas-Penar i syn s.c.
+2036,Grupa Klęk-Kuświk S.A.
+2037,Grupa Makar s.c.
+2038,Gabara-Feluś i syn s.c.
+2039,Kozieja-Witkowicz Sp. z o.o. Sp.k.
+2040,Gabinety Kuffel
+2041,Spółdzielnia Ignatiuk-Bacik s.c.
+2042,Fundacja Kurtyka
+2043,Kryza Sp.k.
+2044,PPUH Bacik Sp. z o.o.
+2045,Grupa Karyś Sp.k.
+2046,FPUH Korzonek
+2047,Rzeźniczak S.A.
+2048,Maćków i syn s.c.
+2049,FPUH Matwiejczyk S.A.
+2050,Warchał S.A.
+2051,Fundacja Woroch-Szpala Sp. z o.o. Sp.k.
+2052,Spółdzielnia Ostasz
+2053,Dorawa-Sierota Sp. z o.o.
+2054,Śmieja Sp.j.
+2055,Frelich s.c.
+2056,Gabinety Bartoś Sp. z o.o. Sp.k.
+2057,Gnyp S.A.
+2058,Oziębło-Zugaj Sp.j.
+2059,Maruszczak S.A.
+2060,Jędrak-Hojda Sp.k.
+2061,PPUH Martyka-Buława i syn s.c.
+2062,Pruchnik s.c.
+2063,Skutnik Sp. z o.o. Sp.k.
+2064,Szłapka-Kulus Sp. z o.o.
+2065,Chalimoniuk i syn s.c.
+2066,Cabała Sp. z o.o. Sp.k.
+2067,Grupa Zdobylak Sp. z o.o.
+2068,FPUH Meissner
+2069,Grupa Idec-Patyna i syn s.c.
+2070,Grześków Sp. z o.o.
+2071,Dryka-Wężyk Sp. z o.o. Sp.k.
+2072,Grupa Kubrak i syn s.c.
+2073,Grupa Dylong S.A.
+2074,Fundacja Matuszyk
+2075,FPUH Kutera
+2076,Stowarzyszenie Golon-Makosz S.A.
+2077,FPUH Skubała-Gabryelczyk Sp. z o.o.
+2078,Stowarzyszenie Pawliczak
+2079,Fundacja Deluga-Filak Sp. z o.o. Sp.k.
+2080,Kruś Sp.j.
+2081,Powałka-Brach Sp. z o.o. Sp.k.
+2082,FPUH Kubisz-Prochownik Sp.j.
+2083,FPUH Tatarczuk s.c.
+2084,Borysiak-Macias Sp. z o.o. Sp.k.
+2085,PPUH Konieczek-Buława Sp.k.
+2086,PPUH Węgrzynowicz
+2087,Chachaj Sp.k.
+2088,FPUH Doroszuk
+2089,Gabinety Bogumił-Tomzik s.c.
+2090,Gabinety Prygiel
+2091,Stowarzyszenie Tonder-Srokosz Sp.k.
+2092,PPUH Ślimak
+2093,Spółdzielnia Dubel Sp.j.
+2094,FPUH Bracha Sp. z o.o. Sp.k.
+2095,Stowarzyszenie Bogusiewicz Sp.k.
+2096,Gabinety Hak Sp. z o.o.
+2097,Fundacja Wejman-Mytnik s.c.
+2098,Ciuła Sp. z o.o.
+2099,Stebel S.A.
+2100,Sadza Sp. z o.o. Sp.k.
+2101,Bik s.c.
+2102,Stowarzyszenie Bąkiewicz Sp.j.
+2103,Cholewka Sp. z o.o.
+2104,Paździora-Klebba Sp. z o.o.
+2105,Spółdzielnia Kociemba Sp.j.
+2106,Wesoły S.A.
+2107,Gabinety Kwapis-Pudełek Sp.j.
+2108,PPUH Wykręt Sp. z o.o. Sp.k.
+2109,FPUH Kozon-Barej Sp. z o.o. Sp.k.
+2110,Grycz-Madera s.c.
+2111,Grupa Przewoźniak-Leśna i syn s.c.
+2112,PPUH Danilczuk
+2113,Deryło-Pałyga i syn s.c.
+2114,PPUH Łukowiak Sp. z o.o. Sp.k.
+2115,Stowarzyszenie Szulim-Tułacz Sp.k.
+2116,PPUH Frankowicz S.A.
+2117,Gabinety Żołnierczyk-Dub s.c.
+2118,Kwarciak Sp.k.
+2119,Stowarzyszenie Folta i syn s.c.
+2120,Fydrych Sp. z o.o.
+2121,FPUH Bandyk-Lukas i syn s.c.
+2122,Wałek-Podeszwa Sp. z o.o.
+2123,FPUH Nawrotek Sp.k.
+2124,FPUH Kość
+2125,Mosur-Wenzel Sp. z o.o.
+2126,Pudełek-Zimmer Sp.j.
+2127,Gabinety Zawiasa-Rabiej Sp.k.
+2128,PPUH Drobniak-Cogiel Sp.k.
+2129,Drożdżal S.A.
+2130,Turlej-Kominiak Sp.k.
+2131,Bazyluk Sp.k.
+2132,Dargacz Sp.k.
+2133,PPUH Piątkiewicz Sp. z o.o. Sp.k.
+2134,Stowarzyszenie Karwot
+2135,Wziątek Sp. z o.o.
+2136,PPUH Księżak s.c.
+2137,Stowarzyszenie Szalast s.c.
+2138,Hennig Sp. z o.o.
+2139,FPUH Kolendo-Cherek S.A.
+2140,Geisler i syn s.c.
+2141,Grupa Frączkiewicz
+2142,Spółdzielnia Bobik
+2143,PPUH Terka
+2144,Gabinety Ziegler
+2145,FPUH Sądej-Ciepluch Sp.j.
+2146,Salwin-Płócienniczak Sp. z o.o.
+2147,Fundacja Zegar Sp.j.
+2148,Fundacja Orwat S.A.
+2149,Spółdzielnia Rochowiak
+2150,Spółdzielnia Karpiak-Miozga Sp. z o.o. Sp.k.
+2151,Grupa Sobstyl-Suszko Sp.j.
+2152,Stowarzyszenie Bisaga
+2153,Naumiuk Sp.j.
+2154,Gabinety Wesoła-Kramer s.c.
+2155,Gabinety Anders
+2156,Kudlak-Zbrzeźniak Sp. z o.o. Sp.k.
+2157,Stowarzyszenie Danisz i syn s.c.
+2158,Aleksander Sp.k.
+2159,Zbrożek Sp.k.
+2160,Burzec Sp. z o.o.
+2161,Miecznik Sp.k.
+2162,Mikoda i syn s.c.
+2163,Florian i syn s.c.
+2164,Krefta s.c.
+2165,Szwałek-Maligłówka i syn s.c.
+2166,FPUH Szymanik-Boruń Sp.k.
+2167,Spółdzielnia Hartman
+2168,Fundacja Gotfryd Sp. z o.o. Sp.k.
+2169,PPUH Kozaczuk-Kulis Sp.k.
+2170,Gruchot-Fraszczyk Sp. z o.o.
+2171,Miszta Sp.j.
+2172,Gabinety Sprycha
+2173,Domurad-Szyda Sp. z o.o.
+2174,Chomiak Sp. z o.o. Sp.k.
+2175,Grupa Flieger
+2176,Mytnik-Moskalik Sp. z o.o. Sp.k.
+2177,Grupa Janiszek Sp.k.
+2178,Fitas-Smutek Sp. z o.o.
+2179,PPUH Pyszka i syn s.c.
+2180,PPUH Stebel S.A.
+2181,Gabinety Budrewicz
+2182,PPUH Patrzałek-Sopata Sp. z o.o. Sp.k.
+2183,Zachwieja i syn s.c.
+2184,Zawodnik Sp.k.
+2185,Kociemba Sp. z o.o.
+2186,Glazer-Andreasik i syn s.c.
+2187,Grupa Malecha
+2188,FPUH Żyto-Kusek Sp.k.
+2189,Stowarzyszenie Fraś-Skalik s.c.
+2190,Spółdzielnia Morka
+2191,PPUH Guziak
+2192,PPUH Dorynek-Kryza s.c.
+2193,Wojewodzic-Wasiewicz Sp. z o.o.
+2194,Madziar Sp.k.
+2195,Grupa Niechciał i syn s.c.
+2196,Fundacja Karsznia-Miotke Sp.k.
+2197,Matraszek-Kubisz s.c.
+2198,Fundacja Łasica-Krzyk Sp. z o.o. Sp.k.
+2199,Stowarzyszenie Księżak
+2200,Bystrek i syn s.c.
+2201,Pokrzywa-Sporysz Sp. z o.o.
+2202,PPUH Dub s.c.
+2203,Młodzik Sp. z o.o.
+2204,Spółdzielnia Wacław
+2205,PPUH Majewicz
+2206,PPUH Ochwat Sp.j.
+2207,PPUH Rup s.c.
+2208,Barteczko-Drewa Sp. z o.o. Sp.k.
+2209,Andrejczuk Sp. z o.o.
+2210,Fundacja Sereda Sp. z o.o.
+2211,Spółdzielnia Palonek
+2212,Gabinety Popielarczyk S.A.
+2213,Pasiak-Dzienis Sp.j.
+2214,Korkosz-Szyja Sp. z o.o.
+2215,Zackiewicz Sp.k.
+2216,Gabinety Deszcz-Rusnak Sp.j.
+2217,Stowarzyszenie Nagórka-Kościelak S.A.
+2218,Staśko Sp. z o.o.
+2219,FPUH Filus
+2220,Wolan Sp. z o.o.
+2221,Macias Sp. z o.o.
+2222,Fundacja Jarmuż i syn s.c.
+2223,Spółdzielnia Jasina Sp. z o.o. Sp.k.
+2224,FPUH Tułacz-Gonsior Sp. z o.o. Sp.k.
+2225,Spółdzielnia Kalarus
+2226,Fundacja Lisoń Sp. z o.o. Sp.k.
+2227,Wydrych-Brach S.A.
+2228,Spółdzielnia Pochroń-Gul Sp. z o.o.
+2229,Zajko-Buszko Sp. z o.o.
+2230,Kęsek-Nowotka Sp.j.
+2231,Spółdzielnia Stępka-Pałac Sp.k.
+2232,PPUH Wojtyś-Zapiór Sp.j.
+2233,Spółdzielnia Boryczko-Kenig s.c.
+2234,Pawela-Fikus S.A.
+2235,Staniczek Sp.k.
+2236,Fundacja Detka
+2237,Fundacja Świątkiewicz
+2238,Fundacja Wośko-Musiała s.c.
+2239,Wilusz-Ziemann Sp.k.
+2240,PPUH Mazan-Pasieczna Sp. z o.o.
+2241,Gabinety Jurczuk-Staciwa Sp.k.
+2242,Dulewicz-Cyrek Sp. z o.o. Sp.k.
+2243,Block Sp.j.
+2244,Gabinety Gniewek-Dawiec s.c.
+2245,Kałwa-Szkoła Sp.j.
+2246,Milej-Giec Sp. z o.o. Sp.k.
+2247,PPUH Pusz-Bacia Sp.j.
+2248,PPUH Teter-Makar i syn s.c.
+2249,Fundacja Kala
+2250,Mądrzak i syn s.c.
+2251,Gabinety Sutor Sp.j.
+2252,Stowarzyszenie Łyczek-Małyszka S.A.
+2253,Zawartka-Liedtke Sp. z o.o. Sp.k.
+2254,Stowarzyszenie Halama
+2255,Złotek-Strzępek i syn s.c.
+2256,Gabinety Mrózek-Sadza Sp.k.
+2257,Szarejko Sp.k.
+2258,Spółdzielnia Wielgos S.A.
+2259,Ziółko s.c.
+2260,Tomalik Sp.k.
+2261,Grupa Pysz i syn s.c.
+2262,Gasek Sp. z o.o.
+2263,Zbrzeźniak s.c.
+2264,Fundacja Folga-Pyszczek Sp. z o.o. Sp.k.
+2265,Schwarz-Antoszczyk s.c.
+2266,Gabinety Woszczak Sp. z o.o. Sp.k.
+2267,Lesik s.c.
+2268,Gabinety Matusewicz S.A.
+2269,Picheta-Budrewicz Sp.j.
+2270,Spółdzielnia Ziarnik Sp. z o.o.
+2271,Korzekwa-Sochaj i syn s.c.
+2272,Kopij Sp.j.
+2273,Fundacja Zaranek-Pawlonka Sp. z o.o. Sp.k.
+2274,Gabinety Jakóbik-Paprotny Sp. z o.o. Sp.k.
+2275,Spółdzielnia Bachanek
+2276,Perlik Sp. z o.o.
+2277,Stowarzyszenie Reich
+2278,Fundacja Orkisz Sp.j.
+2279,Stowarzyszenie Nałęcz Sp. z o.o. Sp.k.
+2280,Spółdzielnia Żołnierczyk i syn s.c.
+2281,Fundacja Witan Sp.k.
+2282,Fundacja Brzeźniak-Kawiak i syn s.c.
+2283,Zimoń-Strycharz Sp. z o.o. Sp.k.
+2284,Wojtyna s.c.
+2285,Cieciora Sp. z o.o.
+2286,Grupa Dubik
+2287,Sito-Starościak Sp.k.
+2288,Kujda Sp. z o.o.
+2289,Spółdzielnia Pelka
+2290,Dąbkiewicz-Broś s.c.
+2291,Miszta-Malewicz Sp. z o.o. Sp.k.
+2292,FPUH Kasperczak-Czupryna S.A.
+2293,Kornek-Płocharczyk i syn s.c.
+2294,Tryc Sp.k.
+2295,Stowarzyszenie Wojewódka-Knapek i syn s.c.
+2296,Grupa Żołądkiewicz
+2297,PPUH Żal i syn s.c.
+2298,Fundacja Wosiak Sp.k.
+2299,Fundacja Uliasz-Balcewicz i syn s.c.
+2300,Foremniak Sp. z o.o. Sp.k.
+2301,Fundacja Maćków i syn s.c.
+2302,Spółdzielnia Kyc
+2303,Fundacja Szpara
+2304,Grupa Fronczyk
+2305,Spółdzielnia Bieszke
+2306,Gabinety Czuj Sp.j.
+2307,Jaje S.A.
+2308,Bancerz s.c.
+2309,Kurczab-Jarmużek i syn s.c.
+2310,Spółdzielnia Kubrak Sp. z o.o. Sp.k.
+2311,Parzonka-Kolendo i syn s.c.
+2312,Trochim-Starostka Sp.j.
+2313,Przerwa-Mikusek Sp.j.
+2314,Roczniak S.A.
+2315,Cybul-Lew Sp.k.
+2316,Glonek-Pelka Sp. z o.o.
+2317,Trzop Sp. z o.o.
+2318,Spółdzielnia Pniak i syn s.c.
+2319,Gabinety Roter-Skała Sp. z o.o. Sp.k.
+2320,Spółdzielnia Legutko-Plaskota Sp.j.
+2321,PPUH Stąpór
+2322,Stempel-Gajownik Sp.j.
+2323,Fundacja Wincenciak-Kwapień Sp.j.
+2324,FPUH Wojak
+2325,Spółdzielnia Pakos
+2326,Stupak Sp.k.
+2327,FPUH Mitoraj
+2328,Szmuc Sp. z o.o. Sp.k.
+2329,Kotlarek-Cyba i syn s.c.
+2330,FPUH Pochroń
+2331,Skałka-Sakwa i syn s.c.
+2332,Pachnik-Majerczyk Sp. z o.o. Sp.k.
+2333,Fundacja Wosiak-Mendak S.A.
+2334,Matyjasek i syn s.c.
+2335,FPUH Midura-Sidorczuk s.c.
+2336,Stowarzyszenie Kultys-Macek Sp.j.
+2337,Nieroda-Jewuła Sp.k.
+2338,Gabinety Łabaj Sp.j.
+2339,PPUH Miętus
+2340,Fundacja Wita s.c.
+2341,Sołtysek-Kuboń Sp. z o.o.
+2342,Gabinety Drygała Sp. z o.o. Sp.k.
+2343,Grupa Bork
+2344,Gabinety Kupś s.c.
+2345,Spółdzielnia Giedrojć-Wrochna Sp. z o.o. Sp.k.
+2346,Fundacja Bajko
+2347,Spółdzielnia Kubisz Sp.j.
+2348,Spółdzielnia Gowin-Karłowicz Sp. z o.o.
+2349,PPUH Wiszowata-Hojda Sp. z o.o.
+2350,FPUH Romejko
+2351,Bona-Dukat s.c.
+2352,Holewa Sp.k.
+2353,Grupa Laszuk-Pikor Sp.k.
+2354,Grupa Fiołka Sp. z o.o.
+2355,Grupa Kozłowicz i syn s.c.
+2356,Spółdzielnia Wojtczuk-Gregorek Sp. z o.o. Sp.k.
+2357,Spółdzielnia Muskała s.c.
+2358,FPUH Łasak i syn s.c.
+2359,Spółdzielnia Idzi
+2360,Plak-Waloszek s.c.
+2361,Grupa Sadowy Sp. z o.o. Sp.k.
+2362,Gabinety Dynak Sp.j.
+2363,Stowarzyszenie Pasierbek S.A.
+2364,PPUH Kowalak-Wołkowicz i syn s.c.
+2365,Fundacja Starostka-Polasik Sp. z o.o.
+2366,Ochnio S.A.
+2367,Tyczka Sp. z o.o. Sp.k.
+2368,Szłapka-Dietrich Sp.j.
+2369,Jacak-Drożdżal Sp.j.
+2370,Szyda Sp.k.
+2371,FPUH Staręga
+2372,Franik-Pancerz Sp. z o.o. Sp.k.
+2373,Kozubal Sp. z o.o. Sp.k.
+2374,Hajder Sp. z o.o. Sp.k.
+2375,Stanclik Sp.j.
+2376,Stowarzyszenie Berdzik S.A.
+2377,PPUH Kośnik-Sudnik Sp. z o.o.
+2378,Grupa Twardosz Sp. z o.o.
+2379,Sorbian s.c.
+2380,Stowarzyszenie Kajak Sp. z o.o.
+2381,Fundacja Jaroszuk Sp.j.
+2382,FPUH Cymbała-Woźniczko i syn s.c.
+2383,Spółdzielnia Flieger-Ceynowa i syn s.c.
+2384,Spółdzielnia Krystkowiak i syn s.c.
+2385,FPUH Knych
+2386,Buława s.c.
+2387,Łokaj Sp.j.
+2388,Bereda Sp. z o.o. Sp.k.
+2389,Grupa Prucnal i syn s.c.
+2390,Fundacja Bąkiewicz-Minta Sp. z o.o. Sp.k.
+2391,Spółdzielnia Byra S.A.
+2392,PPUH Andrukiewicz
+2393,Białach-Matacz Sp. z o.o.
+2394,Kuzia Sp. z o.o.
+2395,Stowarzyszenie Kramer
+2396,Gabinety Franków
+2397,Narożna i syn s.c.
+2398,Spółdzielnia Borzych Sp. z o.o. Sp.k.
+2399,FPUH Wołos-Gebauer s.c.
+2400,PPUH Helman i syn s.c.
+2401,FPUH Przewoźnik
+2402,Grupa Cuch i syn s.c.
+2403,Spółdzielnia Wołczyk-Ślimak Sp.j.
+2404,Dąbroś-Jenek Sp. z o.o.
+2405,Gregorczuk-Hnat Sp.k.
+2406,Stowarzyszenie Wołoch Sp.j.
+2407,Cebulak-Głuszko Sp.j.
+2408,Salach-Machowiak Sp.k.
+2409,Pastuszek-Wołos Sp.k.
+2410,FPUH Murat
+2411,Stowarzyszenie Kuciel Sp. z o.o. Sp.k.
+2412,Fundacja Kamyk Sp. z o.o. Sp.k.
+2413,Stowarzyszenie Jędrys-Bandyk Sp. z o.o.
+2414,Grupa Taranek Sp. z o.o.
+2415,Franczuk-Janasik s.c.
+2416,Becker-Nawój S.A.
+2417,Spółdzielnia Jaśko
+2418,Gabinety Mieszała Sp.j.
+2419,Grupa Cygal-Wiesiołek Sp.k.
+2420,Gabinety Irla Sp. z o.o. Sp.k.
+2421,Rajch-Gruszczyk i syn s.c.
+2422,Kretek i syn s.c.
+2423,Wakuła-Karol Sp. z o.o.
+2424,Stowarzyszenie Marosz
+2425,Spółdzielnia Gołoś-Zachwieja Sp.k.
+2426,Podkowa-Potyrała s.c.
+2427,Fundacja Elert-Sołtysek s.c.
+2428,Fundacja Nałęcz
+2429,Gabinety Strzyż
+2430,Grupa Koterba
+2431,Świętoń-Pych Sp.k.
+2432,Fundacja Czulak i syn s.c.
+2433,Rduch i syn s.c.
+2434,Fundacja Straszak S.A.
+2435,Fundacja Szczepan Sp.k.
+2436,FPUH Jarka
+2437,Młotek-Pudełek s.c.
+2438,Paleń i syn s.c.
+2439,Gabinety Wawrzonek
+2440,Spółdzielnia Citko
+2441,FPUH Makieła
+2442,Wikło S.A.
+2443,Spółdzielnia Reich-Wesoły i syn s.c.
+2444,Grupa Wiekiera
+2445,PPUH Andruszko
+2446,Wężyk-Komisarek Sp. z o.o.
+2447,PPUH Młyńczyk Sp.k.
+2448,Gabinety Świętoń-Kyc s.c.
+2449,Kala-Glanc Sp.j.
+2450,PPUH Wosiek-Świerkot i syn s.c.
+2451,Talaśka Sp.j.
+2452,Drewniok-Kozieja Sp.j.
+2453,Fundacja Błaszyk
+2454,Stowarzyszenie Kołak-Liss Sp.k.
+2455,Drobniak-Wylegała Sp.j.
+2456,Zamora S.A.
+2457,Grupa Madajczyk-Radzio S.A.
+2458,Grupa Ćwirko-Ragus Sp.j.
+2459,Kamyk-Huber Sp.k.
+2460,Koterba-Tytko i syn s.c.
+2461,Rutowicz-Cichowlas Sp. z o.o. Sp.k.
+2462,Kozaczuk Sp.k.
+2463,Wolff Sp.j.
+2464,Grupa Majnusz-Małysiak S.A.
+2465,Grupa Szpila-Karpik Sp. z o.o. Sp.k.
+2466,Grupa Waraksa Sp.j.
+2467,Grupa Taciak-Maksym Sp. z o.o. Sp.k.
+2468,Fundacja Miecznik-Giża S.A.
+2469,Stowarzyszenie Senger
+2470,FPUH Lesik
+2471,Hubert Sp. z o.o.
+2472,Stowarzyszenie Kwoka-Aleksiejuk Sp.k.
+2473,Idec-Śnieg S.A.
+2474,Rybus Sp. z o.o.
+2475,Grupa Swiątek
+2476,PPUH Pielech-Jałowiec Sp.k.
+2477,Knysak s.c.
+2478,PPUH Wysota-Kargol Sp.j.
+2479,Gabinety Mrózek-Lampa Sp.k.
+2480,Szlufik-Grzywnowicz s.c.
+2481,Rozumek S.A.
+2482,PPUH Ratka-Walus i syn s.c.
+2483,Dziadowicz-Antoń Sp.k.
+2484,Penkala Sp. z o.o.
+2485,Fundacja Kryza
+2486,Stowarzyszenie Garczyk
+2487,Stowarzyszenie Stefanik-Strycharz S.A.
+2488,Fundacja Bryndza-Miechowicz Sp. z o.o.
+2489,Łuczyk S.A.
+2490,Jakóbiak s.c.
+2491,Gabinety Fojt
+2492,Stowarzyszenie Kopała S.A.
+2493,Stefankiewicz s.c.
+2494,Stowarzyszenie Naumiuk-Latko Sp. z o.o.
+2495,Spółdzielnia Ciołczyk-Zagozda Sp. z o.o.
+2496,Gabinety Wypiór-Wiencek i syn s.c.
+2497,Majzner-Materka i syn s.c.
+2498,Stowarzyszenie Majorczyk
+2499,PPUH Kukuczka
+2500,Spółdzielnia Dorawa Sp.k.
+2501,Spółdzielnia Juroszek
+2502,FPUH Bok-Anders Sp. z o.o.
+2503,Fundacja Zgoła
+2504,Spółdzielnia Grosz-Koperek S.A.
+2505,Prostak-Zubel Sp. z o.o.
+2506,Gabinety Janoszek Sp. z o.o. Sp.k.
+2507,Franków-Serwach Sp.k.
+2508,Fundacja Basak S.A.
+2509,Fundacja Kosiak-Rozynek Sp.j.
+2510,Gabinety Żółkiewicz
+2511,Grupa Błasik S.A.
+2512,Salawa Sp. z o.o.
+2513,Spółdzielnia Żakiewicz-Szymków s.c.
+2514,Spółdzielnia Dorobisz
+2515,Zarzeczna s.c.
+2516,Ostafin S.A.
+2517,Sypień-Frącz s.c.
+2518,Siedlarz Sp.k.
+2519,Wawrzynek-Krzempek Sp.j.
+2520,Spółdzielnia Koss Sp.k.
+2521,Lizurej Sp. z o.o. Sp.k.
+2522,Gabinety Bakalarczyk-Piotrowiak Sp. z o.o. Sp.k.
+2523,Sieg-Calik Sp.j.
+2524,Siejak i syn s.c.
+2525,Gabinety Wojak i syn s.c.
+2526,Fundacja Pruchnik
+2527,Kultys i syn s.c.
+2528,Żach-Armatys Sp. z o.o. Sp.k.
+2529,Ciechowicz i syn s.c.
+2530,Koman-Frączkiewicz S.A.
+2531,Stowarzyszenie Łyp
+2532,Grupa Litwinowicz Sp.k.
+2533,Fundacja Nagórka-Motak Sp. z o.o. Sp.k.
+2534,Stowarzyszenie Marcińczyk i syn s.c.
+2535,Gabinety Kidawa S.A.
+2536,Stowarzyszenie Feret
+2537,FPUH Kornak s.c.
+2538,Grupa Wziątek Sp. z o.o.
+2539,Chaba-Ostafin Sp.k.
+2540,Stowarzyszenie Kapera
+2541,Grupa Błądek-Potoczek s.c.
+2542,Jaszcz S.A.
+2543,Narożny-Pieczyrak S.A.
+2544,Gabinety Piguła-Gogola S.A.
+2545,Stowarzyszenie Lampa Sp. z o.o. Sp.k.
+2546,Stowarzyszenie Durlik-Strządała Sp.k.
+2547,Leszcz Sp.k.
+2548,Gabinety Gnyp-Piersa i syn s.c.
+2549,Spółdzielnia Kruszka-Bochnak Sp. z o.o.
+2550,Fundacja Bródka-Matla Sp.j.
+2551,Marcol-Zyguła Sp.k.
+2552,Graboń Sp.j.
+2553,Szafarz-Salawa Sp. z o.o. Sp.k.
+2554,Grupa Jaremko S.A.
+2555,Fundacja Hinca
+2556,Gabinety Szczudło-Kastelik i syn s.c.
+2557,Stiller s.c.
+2558,Kociemba Sp. z o.o. Sp.k.
+2559,Bełz Sp.j.
+2560,Fundacja Kurzydło-Tryc Sp. z o.o. Sp.k.
+2561,Fundacja Nijak S.A.
+2562,Spółdzielnia Kijas-Wykręt i syn s.c.
+2563,Kłósek-Hennig Sp. z o.o. Sp.k.
+2564,Fundacja Stawowczyk Sp. z o.o. Sp.k.
+2565,Spółdzielnia Stanisławek
+2566,FPUH Bartel Sp. z o.o. Sp.k.
+2567,Romaniak Sp. z o.o.
+2568,Grupa Ogrodowicz
+2569,Łodej S.A.
+2570,Chaber-Czermak s.c.
+2571,Stowarzyszenie Smalec S.A.
+2572,Fundacja Golon s.c.
+2573,Fitrzyk i syn s.c.
+2574,Fundacja Uliasz Sp. z o.o. Sp.k.
+2575,Grupa Skowyra
+2576,Waszczyk-Roczniak s.c.
+2577,Fundacja Matuszyk
+2578,Zielke-Trepczyk i syn s.c.
+2579,FPUH Wicha
+2580,Rudyk-Konsek s.c.
+2581,Gabinety Skonieczka
+2582,PPUH Szłapa Sp.j.
+2583,Grupa Mikołajewicz Sp.j.
+2584,Szklarek Sp.j.
+2585,Kupidura S.A.
+2586,Dziób-Harasimiuk Sp. z o.o. Sp.k.
+2587,Grupa Sito-Matyjaszek Sp.k.
+2588,PPUH Janczura
+2589,Lulek Sp.k.
+2590,Kulma Sp. z o.o.
+2591,Stowarzyszenie Macioł s.c.
+2592,PPUH Swaczyna Sp. z o.o. Sp.k.
+2593,Labus Sp. z o.o.
+2594,Cybul-Martyka Sp. z o.o.
+2595,Choroś Sp.j.
+2596,PPUH Ostapczuk-Gumienna s.c.
+2597,Stowarzyszenie Buszka-Banak Sp.k.
+2598,Kusio Sp. z o.o.
+2599,FPUH Frankowicz i syn s.c.
+2600,Schubert Sp. z o.o.
+2601,Gabinety Wołoszyk-Wołos Sp.j.
+2602,Peciak-Maruszczak Sp.j.
+2603,Grupa Mirocha
+2604,Szaj-Dzienniak Sp. z o.o.
+2605,Kabala i syn s.c.
+2606,Gabinety Smoter Sp. z o.o.
+2607,Buk Sp. z o.o.
+2608,Foit Sp. z o.o. Sp.k.
+2609,Spółdzielnia Stefankiewicz
+2610,Gabinety Warych
+2611,Talaśka-Karwot s.c.
+2612,Stowarzyszenie Szklarek-Gąszczak Sp.k.
+2613,Osial Sp. z o.o.
+2614,Stowarzyszenie Glenc-Ragus Sp.j.
+2615,Sobel-Łój Sp.j.
+2616,Spółdzielnia Gaś i syn s.c.
+2617,Mycek-Fąferek Sp. z o.o. Sp.k.
+2618,Spółdzielnia Lesner
+2619,Łuksza-Mazepa s.c.
+2620,Szkopek Sp. z o.o. Sp.k.
+2621,Frydrychowicz-Pałgan Sp. z o.o. Sp.k.
+2622,FPUH Dulewicz
+2623,Łupina Sp. z o.o.
+2624,Fundacja Halama S.A.
+2625,Pajek Sp. z o.o.
+2626,Spółdzielnia Polnik
+2627,Nasiadka-Bienia Sp. z o.o. Sp.k.
+2628,Fundacja Gnyp
+2629,Flisiak s.c.
+2630,PPUH Tomaszczyk Sp.j.
+2631,Fundacja Grunt i syn s.c.
+2632,Dyjas Sp.k.
+2633,Spółdzielnia Wyrwał-Elias Sp.k.
+2634,Buszta Sp.k.
+2635,Grupa Kornek-Noras Sp.j.
+2636,Hallmann-Grzela S.A.
+2637,Gabinety Matulewicz Sp.k.
+2638,Spółdzielnia Ciemięga-Trzepizur Sp.j.
+2639,Spółdzielnia Och-Wandas Sp.k.
+2640,PPUH Dylak
+2641,Spółdzielnia Skutnik-Hasiak s.c.
+2642,Grupa Gietka i syn s.c.
+2643,Gabinety Makulec-Zamora Sp.k.
+2644,Stowarzyszenie Gabryel-Elsner Sp.j.
+2645,Gabinety Kansy
+2646,Grupa Postawa-Żywica s.c.
+2647,Szulim Sp. z o.o.
+2648,Domoń Sp.k.
+2649,Sołtan-Jasnoch i syn s.c.
+2650,Fundacja Milej-Daraż Sp. z o.o. Sp.k.
+2651,Habdas-Majerczyk s.c.
+2652,Jaracz-Cichowlas Sp.k.
+2653,Fundacja Pera-Salwin Sp. z o.o. Sp.k.
+2654,Serwa S.A.
+2655,PPUH Siewert
+2656,Kozłowicz Sp.k.
+2657,Grupa Nesterowicz Sp.j.
+2658,PPUH Trochim Sp.k.
+2659,Stowarzyszenie Mironiuk-Moroń i syn s.c.
+2660,Fundacja Szlęk
+2661,PPUH Feluś
+2662,Grzenia S.A.
+2663,Dziopa s.c.
+2664,Grupa Karwot
+2665,Stowarzyszenie Dyjach-Fojt S.A.
+2666,Owsiany-Bulczak i syn s.c.
+2667,Felisiak-Miękina Sp. z o.o.
+2668,Gabinety Jakoniuk Sp. z o.o.
+2669,Skup-Pacholak Sp.j.
+2670,FPUH Mich Sp. z o.o. Sp.k.
+2671,PPUH Bazyluk Sp. z o.o. Sp.k.
+2672,Twardzik-Giel Sp. z o.o.
+2673,PPUH Andrys-Handke i syn s.c.
+2674,Spółdzielnia Golus
+2675,Stowarzyszenie Szmurło-Wandzel i syn s.c.
+2676,Jargiło Sp.k.
+2677,Przeklasa-Ignatiuk s.c.
+2678,Łuszczak-Hampel s.c.
+2679,Szaj-Frania s.c.
+2680,Grupa Goik-Kurp Sp.j.
+2681,Grupa Jarema
+2682,Gabinety Maćków
+2683,Spółdzielnia Fikus-Naumiuk Sp. z o.o. Sp.k.
+2684,Grupa Szczypiór-Dybaś Sp.k.
+2685,Spółdzielnia Rozumek-Kolendo Sp.k.
+2686,Kroczak Sp.j.
+2687,Kolber-Bobel Sp. z o.o.
+2688,Fundacja Wikło
+2689,Indyka Sp.k.
+2690,Malcharek Sp. z o.o. Sp.k.
+2691,Morcinek S.A.
+2692,Wdowczyk-Wygoda Sp.j.
+2693,Sadoch-Karpeta Sp. z o.o.
+2694,Szott S.A.
+2695,Dubel-Łukasz Sp. z o.o.
+2696,Stawczyk-Myk i syn s.c.
+2697,Stowarzyszenie Flasza
+2698,FPUH Bączkiewicz Sp. z o.o. Sp.k.
+2699,Stowarzyszenie Kozdrój
+2700,Gabinety Bela
+2701,Fundacja Basa Sp. z o.o.
+2702,Fundacja Krajniak-Wyroba s.c.
+2703,Fundacja Lisak-Łyjak Sp.k.
+2704,Fundacja Bogusiewicz
+2705,FPUH Gogół-Przeklasa S.A.
+2706,Grupa Rochowiak-Trojanek Sp. z o.o.
+2707,PPUH Wylegała-Skoneczna Sp. z o.o.
+2708,Melcer i syn s.c.
+2709,Grupa Groń S.A.
+2710,Łuc-Szemraj Sp. z o.o.
+2711,FPUH Skowyra-Jeszka Sp.k.
+2712,Stowarzyszenie Miśko-Melaniuk Sp.k.
+2713,Fundacja Świstek
+2714,Śnieg S.A.
+2715,Leonowicz Sp. z o.o.
+2716,Grupa Szymonik Sp. z o.o. Sp.k.
+2717,Andrejczuk s.c.
+2718,Gabinety Chalimoniuk
+2719,PPUH Pezda-Piotrak Sp. z o.o. Sp.k.
+2720,Leonowicz-Krężołek S.A.
+2721,Woda Sp.j.
+2722,Witoń-Rusiniak S.A.
+2723,Bujas-Nowrot Sp.k.
+2724,Opoka Sp.k.
+2725,Gajzler-Obiała S.A.
+2726,Stowarzyszenie Tylec
+2727,Siwka Sp.k.
+2728,Gabinety Poleszak
+2729,Grupa Grabara-Golda Sp. z o.o.
+2730,Żołna-Czubaszek S.A.
+2731,Broniek s.c.
+2732,Fundacja Szołtysik
+2733,Gabinety Drzał
+2734,Spółdzielnia Kurant-Gołofit S.A.
+2735,Przeniosło i syn s.c.
+2736,Spółdzielnia Wincenciak
+2737,Lica-Filek Sp. z o.o.
+2738,Ruchała Sp. z o.o.
+2739,Szyca-Franiak Sp. z o.o. Sp.k.
+2740,Gabinety Klaja
+2741,FPUH Kolka Sp. z o.o. Sp.k.
+2742,Fit i syn s.c.
+2743,Skonieczka Sp.j.
+2744,Stowarzyszenie Hanke-Doroz s.c.
+2745,Gabinety Kościesza S.A.
+2746,Gabinety Niedbał Sp. z o.o. Sp.k.
+2747,Stowarzyszenie Figat
+2748,Nytko Sp. z o.o.
+2749,Rzeszut Sp.j.
+2750,Spółdzielnia Staciwa-Supeł Sp.j.
+2751,Minkina Sp. z o.o.
+2752,FPUH Mich
+2753,FPUH Rykała
+2754,Fundacja Nieścioruk-Pawlaczek Sp.j.
+2755,Utrata Sp. z o.o.
+2756,Lampa s.c.
+2757,PPUH Bogdał-Klamka Sp.j.
+2758,Misiaszek Sp. z o.o. Sp.k.
+2759,FPUH Fiedorczuk Sp.j.
+2760,Grupa Wojnicz
+2761,Gabinety Zbróg
+2762,Spółdzielnia Kobos-Ziarnik Sp.j.
+2763,Solarczyk S.A.
+2764,Stowarzyszenie Byzdra Sp. z o.o.
+2765,Wnuczek Sp. z o.o.
+2766,Spółdzielnia Karwan S.A.
+2767,Spółdzielnia Kocoł Sp. z o.o. Sp.k.
+2768,Gabinety Ćwierz Sp. z o.o. Sp.k.
+2769,PPUH Wujec
+2770,Złotek Sp. z o.o.
+2771,Stowarzyszenie Kucharz S.A.
+2772,Spółdzielnia Honkisz s.c.
+2773,Fundacja Pasieczna-Sapała Sp. z o.o. Sp.k.
+2774,Toma-Smolka Sp.k.
+2775,Spółdzielnia Tadla s.c.
+2776,Fundacja Pietryga-Doliwa Sp.j.
+2777,Spółdzielnia Szkup-Kurczak Sp.k.
+2778,Laszuk Sp. z o.o.
+2779,Fundacja Grund
+2780,Grupa Wywiał-Hejna i syn s.c.
+2781,FPUH Myrcik Sp.j.
+2782,Gabinety Potoczna-Niedojadło Sp.j.
+2783,Buśko-Kluj Sp. z o.o. Sp.k.
+2784,Gabinety Zdonek-Kala Sp.j.
+2785,Gabinety Pesta-Dyszy s.c.
+2786,FPUH Satora-Kożuszek i syn s.c.
+2787,Fundacja Materek i syn s.c.
+2788,Stowarzyszenie Matla-Kędziorek Sp. z o.o. Sp.k.
+2789,Spółdzielnia Gonsior Sp. z o.o.
+2790,FPUH Cywka-Kubasiewicz S.A.
+2791,Kowala Sp.j.
+2792,FPUH Mały-Trybała Sp.k.
+2793,Sumera Sp. z o.o. Sp.k.
+2794,Spółdzielnia Majdak-Kośnik Sp. z o.o.
+2795,Stowarzyszenie Wasilewicz Sp. z o.o. Sp.k.
+2796,Fundacja Małyszka i syn s.c.
+2797,Gładka-Feluś Sp.k.
+2798,FPUH Wdowczyk
+2799,FPUH Kruś S.A.
+2800,Roskosz Sp.j.
+2801,PPUH Dorociak-Kopczyk S.A.
+2802,PPUH Wąsiewicz
+2803,Stowarzyszenie Głownia-Bak i syn s.c.
+2804,Grupa Zmuda
+2805,Gabinety Dziuban S.A.
+2806,Kwapień-Neubauer Sp. z o.o.
+2807,Grupa Litwińczuk
+2808,Sopata-Noculak Sp.j.
+2809,FPUH Durlik s.c.
+2810,Grupa Kleinschmidt-Sereda Sp. z o.o.
+2811,FPUH Mydlak
+2812,Fundacja Przybyś-Janisz Sp. z o.o. Sp.k.
+2813,Szlufik-Ogłaza Sp.k.
+2814,Kalarus Sp. z o.o.
+2815,Cymbała-Broś Sp. z o.o.
+2816,Grzegorzak-Mirończuk Sp.k.
+2817,Kwapis-Obarzanek i syn s.c.
+2818,Spółdzielnia Janoszka Sp. z o.o.
+2819,Kuncewicz S.A.
+2820,Fundacja Klin-Wołodźko Sp.k.
+2821,Kastelik-Kijas s.c.
+2822,Fundacja Zubel
+2823,Spółdzielnia Jany Sp. z o.o.
+2824,Fundacja Przewłoka S.A.
+2825,Bąkiewicz-Kozar i syn s.c.
+2826,Kurzydło Sp.j.
+2827,Galek-Plona Sp. z o.o. Sp.k.
+2828,Ryndak-Maraszek s.c.
+2829,Wyroślak i syn s.c.
+2830,Grupa Letkiewicz
+2831,Gabinety Jakóbik-Kawiak Sp.k.
+2832,Spółdzielnia Miąsik-Wacławiak Sp. z o.o. Sp.k.
+2833,Spółdzielnia Welc S.A.
+2834,Wysota i syn s.c.
+2835,Stowarzyszenie Sierota-Wziątek Sp.k.
+2836,Mysior s.c.
+2837,Rembacz Sp. z o.o. Sp.k.
+2838,Starek-Rosłon s.c.
+2839,Stowarzyszenie Wziątek S.A.
+2840,Potaczek Sp.k.
+2841,Pleskot-Dobroń s.c.
+2842,Gabinety Pich s.c.
+2843,Fundacja Waraksa Sp.k.
+2844,Stowarzyszenie Kiljan S.A.
+2845,Truchel Sp.k.
+2846,Stowarzyszenie Dąbal i syn s.c.
+2847,PPUH Kurtyka
+2848,Skotarek-Szałkiewicz S.A.
+2849,Szylar-Kręgiel s.c.
+2850,Dziewit Sp. z o.o. Sp.k.
+2851,PPUH Kijas-Sulik S.A.
+2852,PPUH Dawidczyk
+2853,Stowarzyszenie Rzucidło-Opioła Sp. z o.o.
+2854,Irzyk-Nastały i syn s.c.
+2855,Spółdzielnia Muniak-Laskus Sp.j.
+2856,Strzała-Zgoła Sp. z o.o.
+2857,Spółdzielnia Gębura
+2858,Grupa Danilczuk
+2859,Olszyna s.c.
+2860,Strzępek Sp.j.
+2861,Spółdzielnia Kurc-Stawinoga Sp. z o.o. Sp.k.
+2862,PPUH Księżak Sp. z o.o. Sp.k.
+2863,Stawowczyk s.c.
+2864,PPUH Neubauer Sp. z o.o.
+2865,Perlik-Kurzaj Sp.j.
+2866,Mytych S.A.
+2867,Fijoł i syn s.c.
+2868,Gabinety Robaszkiewicz i syn s.c.
+2869,Bona-Trojanek Sp. z o.o. Sp.k.
+2870,Grupa Opalach Sp. z o.o. Sp.k.
+2871,Fura-Maksimowicz S.A.
+2872,Krzysztoszek Sp. z o.o.
+2873,PPUH Miszkurka
+2874,Stowarzyszenie Salwin
+2875,Bełza Sp. z o.o. Sp.k.
+2876,Gabinety Jeżyk-Bronka S.A.
+2877,Duniec-Warych i syn s.c.
+2878,Stowarzyszenie Brzykcy Sp. z o.o.
+2879,Szeja i syn s.c.
+2880,Gabinety Prokopiak-Gumieniak Sp. z o.o.
+2881,Gabinety Kutera-Pasieczna S.A.
+2882,Grupa Jewuła
+2883,Grupa Korpal s.c.
+2884,Stowarzyszenie Hojda-Łaskawiec i syn s.c.
+2885,FPUH Kowaluk Sp. z o.o. Sp.k.
+2886,Gal-Bona s.c.
+2887,Buszkiewicz-Wojtyna Sp. z o.o. Sp.k.
+2888,Bartocha-Dulas S.A.
+2889,Fundacja Policht
+2890,Stowarzyszenie Rudzik Sp. z o.o.
+2891,Ksel-Składanek i syn s.c.
+2892,Makles-Szymańczak Sp. z o.o.
+2893,PPUH Rycerz Sp. z o.o. Sp.k.
+2894,Rochowiak s.c.
+2895,Gabinety Grabias s.c.
+2896,Gajownik Sp.j.
+2897,Bogumił Sp.k.
+2898,Barankiewicz-Olchawa i syn s.c.
+2899,Kubowicz i syn s.c.
+2900,FPUH Panicz-Trzyna Sp.k.
+2901,Gabinety Nalewajek-Glazik Sp. z o.o.
+2902,Jerzyk-Doroszuk i syn s.c.
+2903,Fundacja Rubin
+2904,Stowarzyszenie Araszkiewicz
+2905,Drygas-Bartoszak Sp.k.
+2906,Trąbka Sp.j.
+2907,PPUH Hajdukiewicz s.c.
+2908,Fundacja Kohut-Osipiuk s.c.
+2909,Buława Sp. z o.o. Sp.k.
+2910,Fundacja Ceynowa
+2911,Gabinety Wisła S.A.
+2912,FPUH Płaneta
+2913,PPUH Puc-Zawal Sp.j.
+2914,Gabinety Oleśkiewicz Sp. z o.o. Sp.k.
+2915,Gabinety Wita
+2916,Żołna i syn s.c.
+2917,Mućko Sp. z o.o. Sp.k.
+2918,Stowarzyszenie Gortat
+2919,Starzak i syn s.c.
+2920,Grupa Rejek
+2921,Spółdzielnia Kręcisz-Niebudek Sp.k.
+2922,FPUH Konrad-Gabryelczyk i syn s.c.
+2923,Gabinety Reich
+2924,Futyma Sp. z o.o. Sp.k.
+2925,Fundacja Jędra Sp.k.
+2926,Hornik S.A.
+2927,Jezior-Owsiany Sp.j.
+2928,Stowarzyszenie Kuciel s.c.
+2929,FPUH Sobkiewicz-Kosiak i syn s.c.
+2930,FPUH Osipiuk
+2931,Pokrzywa i syn s.c.
+2932,Buś i syn s.c.
+2933,Grupa Dybiec-Pasierbek s.c.
+2934,Fundacja Sieradzan
+2935,Penar-Irla S.A.
+2936,Balcewicz-Gajownik S.A.
+2937,PPUH Jancewicz-Kadela S.A.
+2938,Stowarzyszenie Lenc
+2939,Gabinety Fedorczyk Sp. z o.o. Sp.k.
+2940,Spółdzielnia Rakus Sp. z o.o. Sp.k.
+2941,Spółdzielnia Bacik-Bela S.A.
+2942,Tyka-Sierpień Sp. z o.o.
+2943,FPUH Supeł
+2944,Grupa Mikita
+2945,Fundacja Bajak Sp.k.
+2946,Gabinety Pawlaczek-Doroba Sp. z o.o.
+2947,Gabinety Wyrostek Sp. z o.o.
+2948,Gabinety Kuffel-Kłysz S.A.
+2949,Gabinety Roczniak-Gierasimiuk Sp.k.
+2950,Grupa Zackiewicz-Stypuła Sp.k.
+2951,Moj Sp.k.
+2952,Goska-Kieca Sp.j.
+2953,Stowarzyszenie Czesak
+2954,Tyka Sp.k.
+2955,Fundacja Ziegler
+2956,Spółdzielnia Staniaszek-Barteczko Sp. z o.o. Sp.k.
+2957,Maszczyk s.c.
+2958,Fundacja Ziarek S.A.
+2959,Gabinety Kwapis i syn s.c.
+2960,Fundacja Gietka Sp.k.
+2961,Spółdzielnia Martynowicz
+2962,Gębura Sp.j.
+2963,Stempin-Gryka Sp.j.
+2964,Gabinety Maruszczak-Kłosiewicz Sp.k.
+2965,Spółdzielnia Drgas
+2966,Kamyszek-Laszuk Sp.j.
+2967,Fundacja Stebel-Pracz i syn s.c.
+2968,Stowarzyszenie Bok-Kulczak Sp. z o.o. Sp.k.
+2969,Rejniak-Ośka Sp. z o.o.
+2970,Gabinety Narożna
+2971,Drwięga Sp. z o.o. Sp.k.
+2972,Gabinety Kruszka s.c.
+2973,Spółdzielnia Golczyk
+2974,Gabinety Sporysz
+2975,Gabinety Rusiniak-Ficoń S.A.
+2976,Gabinety Piestrzeniewicz Sp. z o.o.
+2977,PPUH Kuder
+2978,Fundacja Domińczak
+2979,Fundacja Jakóbiak
+2980,Czura-Łachut S.A.
+2981,Wojciech-Ślebioda i syn s.c.
+2982,PPUH Grygo Sp.j.
+2983,Ciesielczyk Sp.j.
+2984,Gabinety Zawiasa
+2985,Grupa Szyc-Bielas Sp.j.
+2986,Gabinety Kopytko
+2987,Bojarczuk Sp. z o.o. Sp.k.
+2988,Fundacja Borak s.c.
+2989,Szlęk-Romankiewicz Sp.k.
+2990,Fundacja Szuta Sp.k.
+2991,Grupa Jeske-Olbrych Sp.k.
+2992,Ważna s.c.
+2993,Nikel Sp. z o.o.
+2994,PPUH Abramczuk
+2995,Grzelec S.A.
+2996,Grupa Kajak-Karmelita Sp. z o.o. Sp.k.
+2997,Korpal S.A.
+2998,Szuta-Kruszona Sp. z o.o. Sp.k.
+2999,Szczypek-Furgała Sp. z o.o. Sp.k.
+3000,Kalarus s.c.
+3001,Rychert i syn s.c.
+3002,Niedojadło i syn s.c.
+3003,PPUH Jakubiuk-Zmyślony s.c.
+3004,PPUH Musiała S.A.
+3005,Grupa Kik-Pyda s.c.
+3006,Spółdzielnia Dulewicz-Kajdas Sp.j.
+3007,Gabinety Świć
+3008,Maćczak-Kaliciak Sp. z o.o. Sp.k.
+3009,Leoniak-Wypiór S.A.
+3010,Fundacja Świątkiewicz
+3011,Sulik-Janke Sp.j.
+3012,Kafel s.c.
+3013,Pniak Sp. z o.o.
+3014,Grupa Gustaw-Reichel Sp.k.
+3015,Gabinety Mikosz S.A.
+3016,Stowarzyszenie Frydrychowicz-Bździuch Sp. z o.o. Sp.k.
+3017,Kwasek s.c.
+3018,Gabinety Joniak
+3019,Gogol-Bartuś S.A.
+3020,Gabinety Kłoczko Sp.j.
+3021,Trzepizur Sp.j.
+3022,Waloszczyk s.c.
+3023,FPUH Baka-Dąbrówka Sp. z o.o. Sp.k.
+3024,Konat-Rudyk i syn s.c.
+3025,Szumny Sp.k.
+3026,Gabinety Rajman-Michalczak Sp. z o.o. Sp.k.
+3027,Mateusiak Sp.j.
+3028,Spółdzielnia Obuchowicz-Wojaczek Sp.k.
+3029,Gabinety Naumiuk Sp.k.
+3030,Stowarzyszenie Trepka
+3031,Lepianka s.c.
+3032,FPUH Dukat Sp.k.
+3033,Grupa Koczara S.A.
+3034,Uss-Szpara i syn s.c.
+3035,Fundacja Kasperczak-Bek Sp. z o.o.
+3036,PPUH Starek
+3037,Łukasz-Wudarczyk i syn s.c.
+3038,PPUH Pitura Sp.j.
+3039,Sady S.A.
+3040,Grupa Świstek
+3041,Janczarek S.A.
+3042,Fundacja Osica S.A.
+3043,Stowarzyszenie Burkiewicz
+3044,Kajak Sp. z o.o.
+3045,Tadla Sp.k.
+3046,Antoń i syn s.c.
+3047,Gabinety Meler-Maszota i syn s.c.
+3048,Fundacja Eckert Sp. z o.o.
+3049,Bulak Sp. z o.o.
+3050,PPUH Janc Sp. z o.o.
+3051,Chmielak Sp. z o.o.
+3052,Fundacja Osial-Glaza Sp. z o.o.
+3053,Barszczak-Szywała S.A.
+3054,PPUH Durlik-Rykała s.c.
+3055,Lukas i syn s.c.
+3056,Grupa Błażejak Sp. z o.o. Sp.k.
+3057,Klos-Pyszny Sp.j.
+3058,Grupa Walasik
+3059,Fundacja Jaźwiec
+3060,Wajdzik i syn s.c.
+3061,Drewnik-Kotala Sp.k.
+3062,PPUH Nowrot S.A.
+3063,Spółdzielnia Korda
+3064,Gabinety Szykuła-Bandyk Sp. z o.o.
+3065,FPUH Kozar-Gruchot Sp. z o.o. Sp.k.
+3066,Botor s.c.
+3067,FPUH Dułak
+3068,Stowarzyszenie Kolanek
+3069,Dering Sp. z o.o.
+3070,Jamroży-Kucab Sp.k.
+3071,Fundacja Jarczak
+3072,Stosio Sp. z o.o.
+3073,Fundacja Rolak
+3074,Fundacja Wawrzynek-Mazanek S.A.
+3075,Gabinety Dankiewicz S.A.
+3076,Parus-Motak s.c.
+3077,Fundacja Ziegert Sp.k.
+3078,FPUH Pałac-Mostek s.c.
+3079,FPUH Pachuta-Rorat Sp.j.
+3080,Gabinety Mieloch
+3081,Urynowicz-Mroczko Sp.k.
+3082,Kuczak-Kochman S.A.
+3083,Gabinety Damian Sp. z o.o.
+3084,Gula-Skoneczna i syn s.c.
+3085,Stowarzyszenie Mazik Sp.j.
+3086,Sito-Albin i syn s.c.
+3087,Fundacja Ostafin-Myszak Sp. z o.o. Sp.k.
+3088,PPUH Szkatuła
+3089,Porzucek Sp.k.
+3090,Gabinety Janowiak-Pyda Sp. z o.o.
+3091,FPUH Kazior Sp. z o.o.
+3092,Lepianka s.c.
+3093,PPUH Burza-Nicewicz Sp.j.
+3094,Cop Sp. z o.o. Sp.k.
+3095,Spółdzielnia Kosidło
+3096,Stowarzyszenie Ziemann
+3097,Sady Sp.k.
+3098,Gabinety Pych-Mamcarz S.A.
+3099,Dulas Sp.k.
+3100,Spółdzielnia Palus Sp. z o.o. Sp.k.
+3101,Parkitny Sp.j.
+3102,Gabinety Przekop
+3103,Kość Sp. z o.o. Sp.k.
+3104,Misior i syn s.c.
+3105,Grupa Sadłocha-Rozmiarek Sp.k.
+3106,Fundacja Nowrot Sp. z o.o. Sp.k.
+3107,Fundacja Citko-Czerner Sp.k.
+3108,Gałaj Sp. z o.o.
+3109,Grupa Matura-Myga Sp.k.
+3110,Sąsiadek-Jarosik s.c.
+3111,Olesiejuk S.A.
+3112,Stowarzyszenie Piekart-Kubasiewicz s.c.
+3113,Jaremek-Worach s.c.
+3114,Stowarzyszenie Zdonek s.c.
+3115,Galos-Koleśnik Sp.j.
+3116,FPUH Cybul-Skrobot Sp.k.
+3117,Ludwin i syn s.c.
+3118,Płaneta i syn s.c.
+3119,Herok-Kwinta Sp.k.
+3120,Kuryłowicz-Sygut Sp.k.
+3121,Fundacja Kołak-Cygal Sp. z o.o. Sp.k.
+3122,Spółdzielnia Miotke
+3123,PPUH Juras-Sadłocha Sp.k.
+3124,Fundacja Gruchot-Sadoch Sp.k.
+3125,Stowarzyszenie Chruszcz-Gumieniak s.c.
+3126,Nagel i syn s.c.
+3127,Spółdzielnia Filak-Kazberuk Sp. z o.o. Sp.k.
+3128,Gmur i syn s.c.
+3129,Stowarzyszenie Mućka-Kloch Sp. z o.o.
+3130,Fundacja Suchojad-Świć Sp.k.
+3131,Moneta-Krzyk Sp.j.
+3132,Szyda-Syldatk Sp.k.
+3133,Stowarzyszenie Dorna i syn s.c.
+3134,Grupa Miksza s.c.
+3135,Grupa Jakimiak Sp. z o.o. Sp.k.
+3136,Brodowicz s.c.
+3137,Fundacja Maraszek-Ficoń s.c.
+3138,Fundacja Trochim s.c.
+3139,Stowarzyszenie Hamerla
+3140,Gabinety Legutko Sp. z o.o. Sp.k.
+3141,Gabinety Kożuszek S.A.
+3142,Grupa Jeka Sp.k.
+3143,Albin-Frącz Sp. z o.o. Sp.k.
+3144,Gołofit Sp. z o.o.
+3145,PPUH Szatko Sp. z o.o.
+3146,Grupa Forma
+3147,PPUH Żołądkiewicz-Pawlos Sp.k.
+3148,PPUH Cąkała s.c.
+3149,Waloszczyk Sp. z o.o. Sp.k.
+3150,Gabinety Łukowicz Sp. z o.o.
+3151,Maraszek-Kuran S.A.
+3152,Molek Sp.k.
+3153,Stowarzyszenie Skonieczka i syn s.c.
+3154,Smardz Sp. z o.o. Sp.k.
+3155,Mila i syn s.c.
+3156,Gabinety Pitala-Berek Sp. z o.o. Sp.k.
+3157,Kossak-Piątkiewicz Sp. z o.o. Sp.k.
+3158,Bernatek i syn s.c.
+3159,Hass Sp. z o.o.
+3160,FPUH Kozdra
+3161,PPUH Rapa-Sankiewicz Sp. z o.o. Sp.k.
+3162,Frankowicz-Kalinka Sp.k.
+3163,FPUH Moczko
+3164,Sporysz-Kosidło Sp. z o.o. Sp.k.
+3165,Gabinety Kotala-Panasiewicz i syn s.c.
+3166,Podkowa i syn s.c.
+3167,Chochół-Łaciak Sp.j.
+3168,Fac i syn s.c.
+3169,Spółdzielnia Gumuła
+3170,Żyto-Kuzior i syn s.c.
+3171,PPUH Zieniewicz Sp. z o.o.
+3172,Frydel-Gabrych Sp. z o.o.
+3173,Kawulok-Freitag i syn s.c.
+3174,Mendak Sp. z o.o. Sp.k.
+3175,Kozdrój-Miąsko Sp.j.
+3176,Stranc s.c.
+3177,Rasała-Lew S.A.
+3178,Spółdzielnia Młotek-Lato S.A.
+3179,Fundacja Jaremek-Ciarka s.c.
+3180,Maras S.A.
+3181,Darłak-Pacholczak Sp. z o.o.
+3182,Kuliberda-Skubała i syn s.c.
+3183,Kubieniec Sp.j.
+3184,Spółdzielnia Urynowicz-Hrabia i syn s.c.
+3185,FPUH Pociask-Szumiec Sp. z o.o. Sp.k.
+3186,Fundacja Miękina
+3187,PPUH Niewiara-Jerzyk i syn s.c.
+3188,Stowarzyszenie Żugaj S.A.
+3189,Głowiak-Hutyra Sp.k.
+3190,Stowarzyszenie Czubaj Sp.k.
+3191,Spółdzielnia Kwarciak-Kościuszko Sp.j.
+3192,Sasak-Mętel s.c.
+3193,FPUH Witko-Orawiec Sp. z o.o. Sp.k.
+3194,Zaczyk-Majos S.A.
+3195,Stanisławek Sp. z o.o. Sp.k.
+3196,Marat-Jodko S.A.
+3197,Woronko i syn s.c.
+3198,FPUH Pastor-Topa Sp. z o.o. Sp.k.
+3199,FPUH Sałuda S.A.
+3200,Gabinety Kołsut
+3201,Zyga-Podsiedlik Sp. z o.o. Sp.k.
+3202,PPUH Matejczuk-Zackiewicz Sp. z o.o. Sp.k.
+3203,PPUH Brygoła Sp.j.
+3204,Heinrich-Kołton i syn s.c.
+3205,Gabinety Basaj-Łakota S.A.
+3206,Litewka s.c.
+3207,PPUH Pleśniak
+3208,PPUH Ragan i syn s.c.
+3209,Fras s.c.
+3210,Fundacja Buszta Sp. z o.o.
+3211,Majzner Sp.j.
+3212,Dzieża s.c.
+3213,FPUH Kawala-Matyjas Sp.j.
+3214,Spółdzielnia Banak
+3215,FPUH Cegła Sp.j.
+3216,Supernak Sp.j.
+3217,Armata Sp.j.
+3218,PPUH Cichos Sp.j.
+3219,Drobek-Kryza Sp. z o.o. Sp.k.
+3220,Cis s.c.
+3221,FPUH Krzyśków
+3222,Lesik-Ziarnik S.A.
+3223,PPUH Kruś-Beker Sp.j.
+3224,Gabinety Gajcy Sp. z o.o. Sp.k.
+3225,Spółdzielnia Gogola i syn s.c.
+3226,Fundacja Bancerz-Smagacz Sp. z o.o.
+3227,PPUH Rduch-Starostka Sp. z o.o.
+3228,Stowarzyszenie Siekierka
+3229,Spółdzielnia Jeżyk
+3230,FPUH Roskosz
+3231,Korzeniak-Karnas i syn s.c.
+3232,Sobków-Policht S.A.
+3233,Spółdzielnia Pyszny-Płocharczyk S.A.
+3234,Duczek S.A.
+3235,Fundacja Gabryszak-Staręga Sp.j.
+3236,Spółdzielnia Kapuścik
+3237,FPUH Bereś S.A.
+3238,FPUH Korta-Strojna Sp. z o.o. Sp.k.
+3239,Peszko i syn s.c.
+3240,Grupa Nieborak-Waloszczyk Sp. z o.o. Sp.k.
+3241,Gabinety Chatys Sp. z o.o.
+3242,Fundacja Kapka-Moj s.c.
+3243,Gabinety Saternus
+3244,Okraska s.c.
+3245,Gabinety Wyskiel
+3246,Gabinety Miękina-Cichowlas i syn s.c.
+3247,Stowarzyszenie Szmajda
+3248,Grupa Pasztaleniec-Bondaruk i syn s.c.
+3249,Stowarzyszenie Morgała
+3250,Gabinety Klyta-Kaszkowiak Sp.j.
+3251,FPUH Kidawa
+3252,Stowarzyszenie Słoń-Borysiewicz i syn s.c.
+3253,Gill Sp. z o.o. Sp.k.
+3254,Grupa Wyrwich-Wyrobek Sp. z o.o. Sp.k.
+3255,Fundacja Hutyra-Sroga S.A.
+3256,FPUH Dąbrowicz Sp. z o.o. Sp.k.
+3257,Spółdzielnia Tłuczek S.A.
+3258,Łukasz-Swacha Sp.k.
+3259,Spółdzielnia Wziątek
+3260,PPUH Józefczak Sp. z o.o.
+3261,Zastawny-Kiełbik i syn s.c.
+3262,PPUH Marcińczyk
+3263,Stowarzyszenie Jodko
+3264,Grupa Nagórka
+3265,Gabinety Walenciak-Musiała s.c.
+3266,Spółdzielnia Trąbka i syn s.c.
+3267,PPUH Melcer
+3268,PPUH Ochnik-Pachołek Sp.j.
+3269,Mycek-Ogonek s.c.
+3270,Budrewicz-Kubiaczyk Sp. z o.o. Sp.k.
+3271,PPUH Fras-Gasz Sp. z o.o.
+3272,Olszowa s.c.
+3273,Zarzeczna Sp.j.
+3274,Spółdzielnia Kuciel Sp. z o.o. Sp.k.
+3275,Doroszuk Sp.k.
+3276,Stowarzyszenie Nowotnik
+3277,Stowarzyszenie Tomaszuk Sp.k.
+3278,Dej-Pastuła S.A.
+3279,Wawszczyk S.A.
+3280,Gabinety Skomra Sp.k.
+3281,Grupa Przewoźniak-Troć Sp. z o.o. Sp.k.
+3282,Gałaj Sp. z o.o. Sp.k.
+3283,Kalarus-Bukowiec Sp. z o.o.
+3284,Peda-Zygmuntowicz S.A.
+3285,Grupa Kaja
+3286,Spółdzielnia Świt i syn s.c.
+3287,Spółdzielnia Jaremek-Gryciuk Sp.k.
+3288,Kluj Sp. z o.o.
+3289,Smagacz-Kossak Sp.j.
+3290,Kuran-Zugaj S.A.
+3291,Kościukiewicz Sp. z o.o.
+3292,Fundacja Cetera S.A.
+3293,Czosnyka i syn s.c.
+3294,Fundacja Mysior Sp. z o.o. Sp.k.
+3295,Paczos i syn s.c.
+3296,Wojtalewicz-Troka s.c.
+3297,Kloch Sp. z o.o. Sp.k.
+3298,FPUH Fydrych-Czupryna Sp. z o.o.
+3299,Stowarzyszenie Mitoraj-Konrad S.A.
+3300,Malcharek Sp.k.
+3301,Albin-Myk S.A.
+3302,Stowarzyszenie Mordal-Dziewit i syn s.c.
+3303,Stowarzyszenie Kiełbus
+3304,FPUH Wypchło
+3305,Fundacja Wyrostek
+3306,Fundacja Kniaź-Darłak i syn s.c.
+3307,Mizak-Pastuszko Sp.k.
+3308,Fundacja Chlebda
+3309,Kolarz-Frankowicz Sp. z o.o.
+3310,Rzońca-Mielke Sp. z o.o.
+3311,Liss i syn s.c.
+3312,PPUH Krzywoń-Dybał Sp. z o.o.
+3313,Spółdzielnia Fal-Sojda Sp. z o.o. Sp.k.
+3314,Wypchło-Wocial Sp. z o.o. Sp.k.
+3315,Spółdzielnia Cetera
+3316,Smagała-Iwańczyk Sp. z o.o. Sp.k.
+3317,Kochel Sp.k.
+3318,PPUH Ciemięga
+3319,Fundacja Brzeźniak-Henke Sp. z o.o. Sp.k.
+3320,Gabinety Toczko-Myrcha s.c.
+3321,Spółdzielnia Bejger s.c.
+3322,Grupa Sieradzan-Grotek s.c.
+3323,Gabinety Komperda Sp.k.
+3324,PPUH Byzdra S.A.
+3325,Stowarzyszenie Kacperczyk
+3326,Linkiewicz Sp. z o.o.
+3327,Dziczek-Gapys Sp.j.
+3328,Grupa Zybura Sp.k.
+3329,Gabinety Melaniuk-Korbel Sp. z o.o. Sp.k.
+3330,Fundacja Trzop i syn s.c.
+3331,Zubel-Wojtiuk Sp.k.
+3332,Spółdzielnia Zubel-Makar s.c.
+3333,Stowarzyszenie Lament-Skoneczna i syn s.c.
+3334,Gabinety Wlaźlak-Pasiak s.c.
+3335,Fundacja Ceran-Pilich Sp. z o.o.
+3336,Gabinety Osipowicz Sp. z o.o. Sp.k.
+3337,Chudoba-Luberda s.c.
+3338,Spółdzielnia Księżyk S.A.
+3339,Gabinety Gumienna-Drgas Sp.k.
+3340,Dorobek-Machniak Sp.j.
+3341,Fundacja Gieroń-Kolarz Sp.j.
+3342,Kozdroń-Szczechowicz Sp.k.
+3343,Grupa Drewniok S.A.
+3344,FPUH Zgoła Sp. z o.o.
+3345,FPUH Protasiuk-Ficner Sp.k.
+3346,Stowarzyszenie Grygorowicz Sp.k.
+3347,Gabinety Kubisz-Kawulok Sp.k.
+3348,Ławniczek i syn s.c.
+3349,Spółdzielnia Kotala
+3350,FPUH Trzepizur
+3351,Gabinety Rohde-Orwat Sp. z o.o. Sp.k.
+3352,Gamoń Sp. z o.o. Sp.k.
+3353,Kloch-Małż Sp.k.
+3354,Spółdzielnia Stojak Sp.j.
+3355,Stoch-Makosz Sp.j.
+3356,Kuk i syn s.c.
+3357,Borejko-Jama Sp. z o.o. Sp.k.
+3358,Fundacja Ryszkiewicz Sp. z o.o. Sp.k.
+3359,Giers S.A.
+3360,Myszor Sp. z o.o. Sp.k.
+3361,Grupa Warczak-Apanowicz Sp.k.
+3362,Olszowa Sp. z o.o. Sp.k.
+3363,PPUH Gregorczuk Sp.k.
+3364,Powązka Sp.j.
+3365,Kuliberda-Pasieczna i syn s.c.
+3366,Grupa Żmija-Mikus Sp.k.
+3367,Bryda Sp.j.
+3368,FPUH Baś i syn s.c.
+3369,Madera-Kolanek S.A.
+3370,Stowarzyszenie Leszczyk
+3371,Chwedoruk-Kazana Sp. z o.o. Sp.k.
+3372,Gabinety Marat Sp.j.
+3373,Gabinety Drywa Sp.j.
+3374,Panicz Sp. z o.o.
+3375,Spółdzielnia Fijoł
+3376,Spółdzielnia Swacha Sp.k.
+3377,Jachna-Okła s.c.
+3378,Fundacja Wojewódka-Guźniczak i syn s.c.
+3379,Reimann Sp. z o.o.
+3380,PPUH Hajduga
+3381,Grupa Zastawny
+3382,Gabinety Grzela
+3383,Gwizdek-Tyka Sp.j.
+3384,Płaneta Sp.j.
+3385,Spółdzielnia Sysło Sp. z o.o.
+3386,Koleśnik Sp.k.
+3387,Spółdzielnia Lula-Koleśnik S.A.
+3388,Stowarzyszenie Wojewódka-Trepczyk Sp. z o.o.
+3389,FPUH Sobel-Gąszczak Sp. z o.o.
+3390,Fundacja Kurtyka-Uliasz Sp. z o.o.
+3391,PPUH Kazimierczyk
+3392,Herba s.c.
+3393,FPUH Fedorczyk
+3394,Nasiadka S.A.
+3395,Gabinety Gajdzik Sp.j.
+3396,Wawrzynowicz-Grupa i syn s.c.
+3397,Spółdzielnia Wójcikiewicz-Młyńczyk Sp. z o.o. Sp.k.
+3398,Hallmann-Kozdrój i syn s.c.
+3399,Gemza i syn s.c.
+3400,Poniedziałek-Miechowicz Sp. z o.o. Sp.k.
+3401,Fundacja Darul Sp.k.
+3402,Spółdzielnia Langa
+3403,Gabinety Czupryna Sp. z o.o.
+3404,Wasil s.c.
+3405,Stempniak-Kiełbus Sp. z o.o. Sp.k.
+3406,FPUH Baszak Sp. z o.o. Sp.k.
+3407,Dobroń-Łęgowik Sp. z o.o. Sp.k.
+3408,Fundacja Zygmuntowicz
+3409,FPUH Łaszcz i syn s.c.
+3410,Witoń-Radko Sp.j.
+3411,Starostka i syn s.c.
+3412,PPUH Niedojadło-Młyńczyk Sp.k.
+3413,PPUH Ruszel-Kurnik s.c.
+3414,Gawliczek i syn s.c.
+3415,Stowarzyszenie Jędra i syn s.c.
+3416,PPUH Skotarek-Pazik S.A.
+3417,Tyniec-Rohde i syn s.c.
+3418,Spółdzielnia Kwoka
+3419,Muniak s.c.
+3420,Gabinety Handzel
+3421,Frydrychowicz-Andryszczyk Sp.j.
+3422,Walus-Waloch S.A.
+3423,Gabinety Głowienka
+3424,FPUH Wlaźlak-Glenc i syn s.c.
+3425,Stoltman i syn s.c.
+3426,Fundacja Jasionek s.c.
+3427,Styrna-Wośko Sp.k.
+3428,PPUH Fijak-Stuglik Sp.k.
+3429,FPUH Łasica-Pietrus s.c.
+3430,Fundacja Kulis s.c.
+3431,PPUH Dycha-Kordys Sp. z o.o.
+3432,Grupa Mycek-Kral s.c.
+3433,Kik-Dorociak Sp.k.
+3434,Kozica-Majdak Sp.j.
+3435,Gabinety Potaczek-Bronka Sp.j.
+3436,Oleszczak Sp. z o.o.
+3437,Spółdzielnia Nyk
+3438,Szałata S.A.
+3439,Gorzelańczyk Sp.k.
+3440,FPUH Boguś Sp.k.
+3441,Fundacja Oleszko-Sommerfeld Sp. z o.o.
+3442,Fundacja Wawrzyn-Frost Sp. z o.o. Sp.k.
+3443,Gabinety Tyniec
+3444,Fundacja Kapuścik-Madziar Sp. z o.o.
+3445,Galica Sp. z o.o. Sp.k.
+3446,Wawrzonek Sp. z o.o. Sp.k.
+3447,Brygoła-Turlej Sp.k.
+3448,Zyzik-Furga Sp. z o.o. Sp.k.
+3449,FPUH Czapiga-Zaczyk Sp.k.
+3450,Maszczyk Sp.j.
+3451,Fundacja Omiotek-Oczkowicz S.A.
+3452,Markiel i syn s.c.
+3453,Sporysz-Stelmasiak S.A.
+3454,Fundacja Fiołek Sp. z o.o.
+3455,PPUH Wujec
+3456,FPUH Łacina-Palej s.c.
+3457,Gros-Cebo Sp. z o.o.
+3458,Hendzel-Zmarzły s.c.
+3459,PPUH Pacholik Sp.k.
+3460,Fundacja Zubowicz-Majnusz i syn s.c.
+3461,Spółdzielnia Szram
+3462,Grupa Pyć
+3463,Spółdzielnia Tymczyszyn Sp. z o.o. Sp.k.
+3464,Grupa Hojda-Pikula Sp.k.
+3465,Stowarzyszenie Sulich
+3466,Żółkiewicz Sp.k.
+3467,Spółdzielnia Młot-Wacławczyk Sp. z o.o. Sp.k.
+3468,Stowarzyszenie Kaźmierczyk
+3469,Hajda-Świerszcz S.A.
+3470,Stowarzyszenie Matyjaszek-Kazior S.A.
+3471,Spółdzielnia Pleban
+3472,Fundacja Raźny
+3473,Fundacja Taciak s.c.
+3474,FPUH Wilma
+3475,Spółdzielnia Łukasiuk
+3476,Trzyna-Worach Sp.k.
+3477,Chalimoniuk-Jankowicz Sp. z o.o. Sp.k.
+3478,Spółdzielnia Gospodarek
+3479,Hołubowicz-Gotfryd s.c.
+3480,Grupa Berek
+3481,Fundacja Dąbkiewicz
+3482,Gabinety Frania-Adamiuk s.c.
+3483,Spółdzielnia Jonak Sp.j.
+3484,Stowarzyszenie Betka
+3485,Grupa Glazik
+3486,Engel Sp. z o.o. Sp.k.
+3487,Kosela Sp. z o.o.
+3488,FPUH Sobolak Sp.k.
+3489,Stanclik-Błażejewicz S.A.
+3490,Gabinety Aleksiejuk-Pochroń s.c.
+3491,Grupa Sprawka-Kołak Sp. z o.o.
+3492,FPUH Semik-Stypka i syn s.c.
+3493,PPUH Ruszel s.c.
+3494,PPUH Włodyka-Herda S.A.
+3495,FPUH Haponiuk i syn s.c.
+3496,FPUH Rode Sp. z o.o.
+3497,Fundacja Osipowicz-Wita i syn s.c.
+3498,Szajda Sp.j.
+3499,Fundacja Rejniak-Oślizło Sp. z o.o.
+3500,Betka-Bobrowicz i syn s.c.
+3501,Strug-Malcherek Sp.k.
+3502,Wiak-Sowała Sp. z o.o. Sp.k.
+3503,Turlej s.c.
+3504,Fundacja Korzonek
+3505,Stowarzyszenie Mendak i syn s.c.
+3506,Ciochoń i syn s.c.
+3507,PPUH Lato
+3508,Stowarzyszenie Nowotny i syn s.c.
+3509,Spółdzielnia Dudkowiak
+3510,Stowarzyszenie Roj Sp.k.
+3511,Stowarzyszenie Stempin Sp. z o.o.
+3512,Stowarzyszenie Lenarcik-Tomaszuk i syn s.c.
+3513,Filek-Erdmann Sp. z o.o.
+3514,FPUH Honkisz-Brudny Sp.k.
+3515,PPUH Kosno-Pudełek Sp. z o.o. Sp.k.
+3516,Spółdzielnia Foit Sp. z o.o. Sp.k.
+3517,Dawiec Sp.j.
+3518,Stowarzyszenie Moniuszko
+3519,Kubina S.A.
+3520,Grupa Anioła Sp.k.
+3521,Wawrzynek-Węgrzyk i syn s.c.
+3522,Fundacja Jędrak
+3523,Stowarzyszenie Waraksa-Paździora s.c.
+3524,FPUH Rasała-Nawrotek S.A.
+3525,Miodek Sp.k.
+3526,Gabinety Hornik i syn s.c.
+3527,Stachelek-Smolec S.A.
+3528,Stowarzyszenie Skubała i syn s.c.
+3529,Bereś Sp. z o.o.
+3530,Bereś-Młotek Sp.j.
+3531,Grupa Posmyk Sp.j.
+3532,Sereda-Potoczna Sp. z o.o. Sp.k.
+3533,FPUH Szumna-Danel S.A.
+3534,Fundacja Kandziora-Juszczuk i syn s.c.
+3535,PPUH Domurad-Bugla s.c.
+3536,Cięciwa-Margas Sp. z o.o. Sp.k.
+3537,FPUH Waniek Sp. z o.o. Sp.k.
+3538,PPUH Kusyk
+3539,Gabinety Bednarowicz
+3540,Spółdzielnia Wota Sp.j.
+3541,FPUH Strzyż
+3542,PPUH Wawryniuk-Budkiewicz s.c.
+3543,Goliasz Sp. z o.o. Sp.k.
+3544,Wyrobek s.c.
+3545,FPUH Komisarek Sp. z o.o. Sp.k.
+3546,Czerniakiewicz-Sura Sp.j.
+3547,Strug S.A.
+3548,Fundacja Kuciel
+3549,Fundacja Podgórna-Kosak s.c.
+3550,Plak-Przewoźny Sp. z o.o. Sp.k.
+3551,Grupa Marosz i syn s.c.
+3552,Góraj S.A.
+3553,Sobkiewicz Sp. z o.o. Sp.k.
+3554,Łyczek-Furgała Sp.j.
+3555,PPUH Doktor s.c.
+3556,Nehring i syn s.c.
+3557,Fundacja Wójt
+3558,Grupa Piegza s.c.
+3559,Spółdzielnia Wojniak
+3560,Stowarzyszenie Majczyna-Ciuk Sp. z o.o.
+3561,Jarosiewicz Sp.k.
+3562,Żugaj-Boguta Sp. z o.o.
+3563,Gabinety Szajna-Fitrzyk Sp.j.
+3564,Tokaj Sp.j.
+3565,Pernak Sp.k.
+3566,Kowalówka-Gosek S.A.
+3567,Garncarek-Stein Sp. z o.o.
+3568,Krajniak-Piotrak Sp. z o.o. Sp.k.
+3569,Wojtalik-Sadlak S.A.
+3570,Wacławiak-Nalazek i syn s.c.
+3571,Grupa Rasała
+3572,Gabinety Peciak-Jaremek Sp. z o.o.
+3573,Wdowczyk-Ernst Sp. z o.o.
+3574,PPUH Kowara
+3575,Gabinety Parda s.c.
+3576,Gabinety Machul-Broś Sp.k.
+3577,Grupa Bender Sp.k.
+3578,Mazek Sp.j.
+3579,PPUH Pindor S.A.
+3580,Grupa Cłapa s.c.
+3581,Grupa-Kastelik i syn s.c.
+3582,Wyrostek i syn s.c.
+3583,FPUH Kołton i syn s.c.
+3584,Kucab-Łaskawiec Sp. z o.o.
+3585,Oleśkiewicz-Chlebda Sp.j.
+3586,Stanuch s.c.
+3587,Fundacja Królikiewicz
+3588,PPUH Łyjak
+3589,Gabinety Baranowicz
+3590,Stowarzyszenie Lemke s.c.
+3591,Mudlaff-Parkitny Sp. z o.o.
+3592,Fundacja Bilewicz-Gilewicz Sp.k.
+3593,Grupa Suda Sp.k.
+3594,Grupa Hawrylak
+3595,FPUH Drózd
+3596,Kosela Sp. z o.o. Sp.k.
+3597,PPUH Sporek-Glenc Sp.k.
+3598,Gabinety Smutek-Wożniak s.c.
+3599,Porzucek-Bobryk Sp. z o.o.
+3600,Głuszko i syn s.c.
+3601,PPUH Wośko-Welenc Sp.k.
+3602,Matraszek-Kominiak i syn s.c.
+3603,PPUH Peciak-Pytko Sp. z o.o. Sp.k.
+3604,PPUH Ragan-Berek Sp. z o.o.
+3605,Kijanka s.c.
+3606,Pleśniak-Komsta Sp. z o.o. Sp.k.
+3607,FPUH Aleksander-Kandzia i syn s.c.
+3608,Złotnik Sp.k.
+3609,Potaczek i syn s.c.
+3610,Jambor-Giża s.c.
+3611,FPUH Muzyk-Owczarczak i syn s.c.
+3612,Rembacz s.c.
+3613,Fundacja Sip
+3614,Stowarzyszenie Pacholczak Sp.j.
+3615,Nowotny s.c.
+3616,Węgrzynek-Sugier S.A.
+3617,Łokietek-Pędzik S.A.
+3618,Grupa Bek-Guściora i syn s.c.
+3619,Czenczek-Olas S.A.
+3620,Grupa Siarkiewicz-Tomzik Sp.k.
+3621,Gabinety Wojtarowicz
+3622,Słysz i syn s.c.
+3623,Grupa Graboń
+3624,Turlej-Zapadka Sp. z o.o. Sp.k.
+3625,Spółdzielnia Smykla Sp.k.
+3626,Gabinety Robaszkiewicz
+3627,Spółdzielnia Barczuk i syn s.c.
+3628,Grupa Lizurej
+3629,Fundacja Bodek-Zębik Sp.j.
+3630,Fal-Jarosik S.A.
+3631,Kiljan-Stępak S.A.
+3632,Stowarzyszenie Wołkowicz Sp. z o.o.
+3633,Grupa Bodziony
+3634,Fundacja Wika
+3635,Grupa Rychcik-Hus Sp.j.
+3636,Stowarzyszenie Świątkiewicz-Sygut Sp. z o.o.
+3637,Stowarzyszenie Kalka
+3638,Gabinety Loba-Omiotek i syn s.c.
+3639,Spółdzielnia Szmuc-Albin i syn s.c.
+3640,Fundacja Tylek S.A.
+3641,PPUH Job Sp.k.
+3642,Gabinety Skubała-Paszkowiak Sp. z o.o. Sp.k.
+3643,Kośka-Muskała S.A.
+3644,Grupa Rurarz Sp. z o.o.
+3645,Dulemba Sp. z o.o.
+3646,Grupa Świgoń Sp.j.
+3647,Fundacja Fiołek
+3648,Biesek-Malara s.c.
+3649,Wojtunik Sp. z o.o.
+3650,Grupa Warwas i syn s.c.
+3651,Łachacz-Klepka s.c.
+3652,Piejko Sp. z o.o. Sp.k.
+3653,Duczmal-Golda Sp. z o.o.
+3654,Gabinety Kara-Mirgos Sp. z o.o. Sp.k.
+3655,Stowarzyszenie Chlebek i syn s.c.
+3656,Soliwoda S.A.
+3657,FPUH Zadora S.A.
+3658,Gorgol-Kubek s.c.
+3659,Grupa Gubernat-Siergiej s.c.
+3660,Mędrala Sp. z o.o.
+3661,Tatarek Sp.j.
+3662,FPUH Kubasiak-Spychaj i syn s.c.
+3663,Cibor S.A.
+3664,PPUH Niedośpiał
+3665,Grupa Szatanik-Kargol S.A.
+3666,FPUH Oleksik-Mosur Sp.k.
+3667,Stowarzyszenie Kolman
+3668,FPUH Znojek-Sromek S.A.
+3669,PPUH Fijoł-Wyroślak Sp.k.
+3670,Gabinety Noculak s.c.
+3671,Nagórka S.A.
+3672,Usarek-Giża i syn s.c.
+3673,Bródka-Moździerz S.A.
+3674,Gabinety Eckert-Zontek Sp. z o.o.
+3675,Gumuła i syn s.c.
+3676,Panuś-Kurzydło Sp.j.
+3677,Klama-Strządała Sp. z o.o.
+3678,Szambelan-Skotarek s.c.
+3679,Stowarzyszenie Otremba s.c.
+3680,Słoń S.A.
+3681,Stowarzyszenie Stempin-Małys s.c.
+3682,Wyderka Sp. z o.o. Sp.k.
+3683,Fundacja Harasimiuk-Tołoczko Sp. z o.o.
+3684,Fundacja Dering-Kaletka Sp.j.
+3685,Młotek Sp.k.
+3686,PPUH Członka
+3687,FPUH Guściora i syn s.c.
+3688,Stowarzyszenie Bełza Sp. z o.o.
+3689,Zyguła s.c.
+3690,Gabinety Wyłupek Sp. z o.o. Sp.k.
+3691,Stowarzyszenie Wereda
+3692,FPUH Szyndler Sp.j.
+3693,Stowarzyszenie Wendt-Ośko s.c.
+3694,PPUH Sito-Trepczyk i syn s.c.
+3695,Stowarzyszenie Wyrwał Sp. z o.o. Sp.k.
+3696,Turczyk-Bosek S.A.
+3697,Grupa Hermanowicz
+3698,Spółdzielnia Szarzec
+3699,Stowarzyszenie Związek-Opas Sp. z o.o. Sp.k.
+3700,Spółdzielnia Wita
+3701,Grupa Kryza s.c.
+3702,Gabinety Lepak
+3703,Gabinety Dukat-Madera Sp.j.
+3704,Parkitny-Pietrasz Sp. z o.o.
+3705,PPUH Parzonka-Jędrusiak Sp. z o.o.
+3706,Grupa Klyszcz-Bochnak i syn s.c.
+3707,Kuczak-Piegza i syn s.c.
+3708,Stowarzyszenie Sudak-Stoltman Sp.j.
+3709,Gabinety Guziak
+3710,Dorobisz Sp. z o.o. Sp.k.
+3711,Gabinety Nalewajko s.c.
+3712,Stowarzyszenie Pawlaczek
+3713,Spółdzielnia Wizner S.A.
+3714,Oczkowicz Sp. z o.o.
+3715,PPUH Mijas-Pedrycz s.c.
+3716,Stowarzyszenie Matejczyk
+3717,Gabinety Dylong Sp. z o.o.
+3718,Stowarzyszenie Stojak
+3719,PPUH Grymuza Sp. z o.o.
+3720,Lula Sp.j.
+3721,Ambrozik-Franas i syn s.c.
+3722,Grymuza-Gąszczak Sp. z o.o. Sp.k.
+3723,Grupa Grupa Sp.j.
+3724,Stowarzyszenie Mateńko-Rosołek Sp. z o.o.
+3725,Spółdzielnia Jachimczyk
+3726,PPUH Grabczak-Trochim Sp.j.
+3727,Fundacja Hanzel-Szałas Sp. z o.o. Sp.k.
+3728,Grupa Kujda-Bąbol Sp.k.
+3729,PPUH Golda
+3730,Wittbrodt s.c.
+3731,Radke-Cieniuch i syn s.c.
+3732,Gabinety Materka S.A.
+3733,Litwinowicz-Juroszek s.c.
+3734,Spółdzielnia Wiech Sp. z o.o.
+3735,Mulawa-Sura Sp.k.
+3736,Macha-Sowała Sp.k.
+3737,Spółdzielnia Sierżant s.c.
+3738,Obuchowicz Sp.k.
+3739,Machoń-Sośniak Sp.j.
+3740,Grupa Przewłoka
+3741,Stowarzyszenie Kus Sp. z o.o. Sp.k.
+3742,Mendak-Peciak Sp.k.
+3743,Mejer S.A.
+3744,FPUH Kręgiel Sp. z o.o.
+3745,Grupa Truchan s.c.
+3746,Gabinety Kara S.A.
+3747,Łupina-Szóstak Sp.j.
+3748,Gabinety Maciuszek s.c.
+3749,Grupa Lulek
+3750,Grupa Nawrotek
+3751,Groń Sp.j.
+3752,Grupa Błaszyk Sp. z o.o.
+3753,Fundacja Szyja
+3754,FPUH Żymełka Sp. z o.o.
+3755,PPUH Lipok Sp.j.
+3756,Fundacja Sieczko-Osiadacz Sp. z o.o. Sp.k.
+3757,Spółdzielnia Bany Sp. z o.o. Sp.k.
+3758,Zbiciak-Smektała i syn s.c.
+3759,FPUH Chodak-Brózda Sp.k.
+3760,Sopata-Błażejewicz Sp.k.
+3761,FPUH Narożny-Foremniak Sp. z o.o. Sp.k.
+3762,PPUH Jaje Sp. z o.o.
+3763,Fundacja Hornik s.c.
+3764,Fundacja Duras s.c.
+3765,PPUH Kołpak
+3766,Łaskawiec Sp.j.
+3767,Saj-Kierepka i syn s.c.
+3768,Kasznia-Franc Sp.j.
+3769,Białach Sp. z o.o. Sp.k.
+3770,PPUH Pela
+3771,Grupa Sojda-Widłak i syn s.c.
+3772,Spółdzielnia Trojanowicz Sp.k.
+3773,Stowarzyszenie Pawlonka
+3774,Lazarek Sp.j.
+3775,FPUH Gabryel s.c.
+3776,Wziątek-Zysk Sp. z o.o.
+3777,Walasik-Fedyk S.A.
+3778,Grupa Borkiewicz-Pryk s.c.
+3779,Kaczmarkiewicz i syn s.c.
+3780,Rejmak-Mizgała S.A.
+3781,Fundacja Obarzanek
+3782,Kuza-Bujas S.A.
+3783,Stowarzyszenie Galica
+3784,Grupa Kołtuniak
+3785,FPUH Wons-Majczyna s.c.
+3786,Gabinety Noculak-Skrobot s.c.
+3787,Folta i syn s.c.
+3788,Gabinety Pysz Sp.k.
+3789,Wyrwał Sp. z o.o. Sp.k.
+3790,Lipowicz-Banak Sp. z o.o. Sp.k.
+3791,Stowarzyszenie Szczerek-Rusiniak Sp.k.
+3792,Gabinety Szlufik S.A.
+3793,Styrna-Ograbek s.c.
+3794,Grupa Such s.c.
+3795,Gabinety Pronobis-Strządała Sp. z o.o. Sp.k.
+3796,Lampa i syn s.c.
+3797,Grupa Wenzel
+3798,Spółdzielnia Bik-Hubert S.A.
+3799,PPUH Lisik-Kudela i syn s.c.
+3800,PPUH Smektała
+3801,Gabinety Nowotnik-Polaszek Sp.k.
+3802,FPUH Pabiś-Foit S.A.
+3803,Budniak S.A.
+3804,Reszke-Dziewior i syn s.c.
+3805,Wesoły i syn s.c.
+3806,Stowarzyszenie Aleksandrzak-Fiutak s.c.
+3807,Otremba-Biesek s.c.
+3808,Spółdzielnia Nieradko
+3809,Czosnyka-Lepak Sp.j.
+3810,FPUH Famuła
+3811,Buszka-Składanek Sp. z o.o.
+3812,Grupa Jaśkowiec
+3813,Gabinety Szlachcic-Leśna Sp. z o.o.
+3814,Oleksiuk-Nieszporek Sp. z o.o.
+3815,Gabinety Znojek
+3816,Falba Sp.j.
+3817,Gabinety Bieniak-Bejger Sp. z o.o.
+3818,PPUH Strzoda Sp. z o.o.
+3819,Fundacja Meissner-Patora s.c.
+3820,Narożna-Tolak i syn s.c.
+3821,Gabinety Turczyk Sp. z o.o.
+3822,PPUH Jałowiec
+3823,Spółdzielnia Barłóg Sp.k.
+3824,Stowarzyszenie Nyk Sp.j.
+3825,Spółdzielnia Kleina-Handzel Sp. z o.o.
+3826,Spółdzielnia Boryczko Sp.k.
+3827,Sycz-Morgała S.A.
+3828,Golon Sp.j.
+3829,Zdancewicz s.c.
+3830,PPUH Listwan Sp. z o.o.
+3831,Kuryś-Policht Sp. z o.o. Sp.k.
+3832,Stowarzyszenie Muc-Kutnik Sp. z o.o.
+3833,Frydrychowicz S.A.
+3834,PPUH Kierat-Kozon s.c.
+3835,Dargacz-Klyta Sp. z o.o.
+3836,Stowarzyszenie Baranowicz Sp. z o.o.
+3837,FPUH Gomoła S.A.
+3838,PPUH Neugebauer-Sajnóg Sp. z o.o. Sp.k.
+3839,PPUH Sykała Sp. z o.o. Sp.k.
+3840,FPUH Martyka-Sura Sp.j.
+3841,FPUH Wołkowicz Sp.k.
+3842,Spółdzielnia Osiadacz S.A.
+3843,Leoniak-Kapcia S.A.
+3844,Stowarzyszenie Serwa
+3845,FPUH Bieszke-Simon Sp.k.
+3846,Makoś-Jachimczak Sp. z o.o.
+3847,PPUH Chomiuk
+3848,Grupa Adamiuk
+3849,Gabinety Toma s.c.
+3850,Uliczka Sp. z o.o.
+3851,FPUH Skomra
+3852,Wisła s.c.
+3853,PPUH Karpiel Sp.j.
+3854,Stowarzyszenie Franiak Sp. z o.o.
+3855,Fundacja Broncel
+3856,Stowarzyszenie Gajcy
+3857,Spółdzielnia Szwiec-Zimniak Sp. z o.o. Sp.k.
+3858,PPUH Pośnik-Czylok Sp.j.
+3859,Piekara Sp.j.
+3860,Mesjasz-Frydel Sp. z o.o. Sp.k.
+3861,Spółdzielnia Nazimek-Pułka Sp.j.
+3862,Stowarzyszenie Hawro
+3863,FPUH Kolbusz-Robaszkiewicz i syn s.c.
+3864,Kusek Sp.k.
+3865,Choina s.c.
+3866,Spółdzielnia Cofała-Matyjasek Sp. z o.o.
+3867,Wikło-Iwańczyk s.c.
+3868,Stowarzyszenie Byzdra i syn s.c.
+3869,Ciesiółka-Brodawka Sp. z o.o. Sp.k.
+3870,Grupa Mycek Sp.k.
+3871,Spółdzielnia Kopyt-Berus Sp. z o.o. Sp.k.
+3872,Tadych Sp.k.
+3873,Pajdak S.A.
+3874,Fundacja Deptuch Sp. z o.o. Sp.k.
+3875,Rurka Sp.j.
+3876,PPUH Ziajka Sp.k.
+3877,Karpiak-Raźny Sp. z o.o.
+3878,Gabinety Okła
+3879,FPUH Sapała Sp.k.
+3880,Polaszek-Mrózek Sp.j.
+3881,Gabinety Musiała
+3882,Latacz-Damian Sp. z o.o. Sp.k.
+3883,Spółdzielnia Młyńczak s.c.
+3884,Michalczak-Dziechciarz s.c.
+3885,FPUH Cebo
+3886,Siebert-Miszta s.c.
+3887,Fundacja Procek i syn s.c.
+3888,Dzika Sp.j.
+3889,Grupa Adamaszek-Lenarcik Sp. z o.o.
+3890,Grupa Gryka Sp. z o.o. Sp.k.
+3891,Grzenia-Sorbian s.c.
+3892,Spółdzielnia Srokosz-Matwiejczyk S.A.
+3893,Grupa Kościesza s.c.
+3894,Stoltman-Józefczak Sp.j.
+3895,Kudlak Sp.k.
+3896,Stowarzyszenie Pakosz
+3897,Grupa Dunal-Grunt Sp. z o.o.
+3898,Fundacja Miękus
+3899,Stowarzyszenie Białczyk-Tomalak s.c.
+3900,Fundacja Sobków
+3901,Fundacja Jachimczak-Majzner s.c.
+3902,FPUH Dybał-Wąsek i syn s.c.
+3903,Makieła-Flaga Sp. z o.o. Sp.k.
+3904,Uliasz-Pitala s.c.
+3905,Lichoń-Sypuła Sp.j.
+3906,Fundacja Siergiej
+3907,Fundacja Kazimierczuk
+3908,Stowarzyszenie Neugebauer-Kaszkowiak s.c.
+3909,Cyba S.A.
+3910,Boksa-Botor Sp. z o.o.
+3911,Fundacja Kolendo
+3912,Grupa Ziemak S.A.
+3913,Godyń i syn s.c.
+3914,Tutka Sp. z o.o. Sp.k.
+3915,Byra-Rosłon s.c.
+3916,Gabinety Miotke S.A.
+3917,Grupa Sorbian-Kolonko Sp.j.
+3918,Wieja S.A.
+3919,Gabinety Bartman
+3920,Grupa Pawlaczek Sp.j.
+3921,Dzikiewicz-Gajdzik Sp.k.
+3922,FPUH Kiwior
+3923,Kroll Sp. z o.o.
+3924,Wilma-Żelazo Sp.k.
+3925,Grupa Dynak-Kołsut S.A.
+3926,Grupa Drózd s.c.
+3927,Pyszny Sp. z o.o.
+3928,Szela i syn s.c.
+3929,Patoła-Brzęk Sp. z o.o. Sp.k.
+3930,Stawczyk-Miszta s.c.
+3931,Grupa Kulisz
+3932,Stowarzyszenie Stróż-Stawowczyk Sp.j.
+3933,Solich-Trojanowicz S.A.
+3934,PPUH Mieszała Sp.j.
+3935,Wywiał-Skomra s.c.
+3936,FPUH Witko Sp.j.
+3937,Fundacja Tomaszuk
+3938,FPUH Salwin-Stosio i syn s.c.
+3939,Stowarzyszenie Konsek i syn s.c.
+3940,PPUH Parada-Obst i syn s.c.
+3941,Gabinety Wielądek-Gajownik Sp.j.
+3942,Gabinety Sajda s.c.
+3943,Spółdzielnia Sycz Sp. z o.o.
+3944,Kukieła-Osman S.A.
+3945,Spółdzielnia Tokaj-Balcewicz i syn s.c.
+3946,Gabinety Fulara
+3947,PPUH Męcik-Matla Sp. z o.o. Sp.k.
+3948,Kasica Sp. z o.o. Sp.k.
+3949,Spółdzielnia Krzyk-Strug Sp.j.
+3950,Gabinety Wereda S.A.
+3951,Grześków S.A.
+3952,Stowarzyszenie Lula
+3953,Spółdzielnia Zdobylak s.c.
+3954,Spółdzielnia Pachowicz Sp. z o.o. Sp.k.
+3955,Fijak Sp. z o.o. Sp.k.
+3956,Spółdzielnia Pych
+3957,Fundacja Mędrala s.c.
+3958,Grupa Dyś-Kochanowicz Sp. z o.o.
+3959,Stowarzyszenie Szałaj
+3960,Fundacja Skutnik
+3961,Spółdzielnia Pazdan
+3962,Fundacja Penar-Wajdzik Sp.j.
+3963,Wujec S.A.
+3964,Ścibior-Buś Sp. z o.o. Sp.k.
+3965,Zugaj-Raszkiewicz s.c.
+3966,Stowarzyszenie Surdel
+3967,Gabinety Walkusz-Tlałka Sp. z o.o. Sp.k.
+3968,Gabinety Solarek-Pałgan S.A.
+3969,PPUH Dzienisz-Kwoka Sp. z o.o.
+3970,Stowarzyszenie Baum
+3971,Gabinety Palonek
+3972,Madziar-Tabiś S.A.
+3973,FPUH Dąbrowicz-Ciochoń Sp. z o.o. Sp.k.
+3974,Czerwionka-Prygiel s.c.
+3975,Spółdzielnia Pitura Sp. z o.o.
+3976,Gabinety Guziak S.A.
+3977,PPUH Domoń Sp. z o.o.
+3978,FPUH Granat-Wenda s.c.
+3979,Stowarzyszenie Kupaj-Morgała S.A.
+3980,Stowarzyszenie Kujda-Januszko S.A.
+3981,Migała-Mordak s.c.
+3982,Spółdzielnia Pajdak-Muzyk s.c.
+3983,Sowała-Saran S.A.
+3984,Spółdzielnia Kuryś-Bryczek Sp. z o.o.
+3985,Fundacja Stiller-Klebba Sp. z o.o.
+3986,Bender S.A.
+3987,FPUH Zdonek
+3988,Spółdzielnia Szpyt
+3989,Wawrzkiewicz-Pupek Sp. z o.o.
+3990,Stowarzyszenie Bienia
+3991,Fundacja Staniaszek
+3992,PPUH Sporysz
+3993,Kononowicz-Komuda S.A.
+3994,Wojtaszczyk Sp.k.
+3995,Karol Sp.j.
+3996,Wawrzyńczyk S.A.
+3997,Spółdzielnia Wydmuch-Ragan Sp.k.
+3998,PPUH Dusik-Dąbkiewicz i syn s.c.
+3999,Koman i syn s.c.
+4000,Jędraszek Sp. z o.o. Sp.k.
+4001,Spółdzielnia Sławik Sp. z o.o. Sp.k.
+4002,Fundacja Powierża Sp.j.
+4003,Łosiewicz Sp. z o.o.
+4004,PPUH Linke
+4005,Stowarzyszenie Hojka s.c.
+4006,Grupa Mosur Sp. z o.o. Sp.k.
+4007,FPUH Krzyśków
+4008,Spółdzielnia Młynarz Sp. z o.o. Sp.k.
+4009,Fundacja Kazimierczuk-Ostapiuk Sp.k.
+4010,FPUH Styrna
+4011,Grupa Simon Sp.k.
+4012,Wawrzonek-Włodarz i syn s.c.
+4013,Fundacja Krzysiek-Heinrich s.c.
+4014,Gabinety Smętek-Szałas Sp.j.
+4015,Spółdzielnia Gabara s.c.
+4016,Trąbka-Skubis Sp.k.
+4017,FPUH Polakiewicz
+4018,Grotek-Waszczyk Sp.k.
+4019,Grupa Pietrusiewicz i syn s.c.
+4020,Hendzel i syn s.c.
+4021,Grupa Marosz
+4022,Iwańczyk-Ignatiuk Sp.j.
+4023,Powierża-Rakus S.A.
+4024,Lemanowicz-Stój Sp. z o.o. Sp.k.
+4025,Samiec-Łapacz Sp. z o.o.
+4026,Duniec-Schubert s.c.
+4027,Andrearczyk-Matula i syn s.c.
+4028,Grupa Bork-Lipok Sp.k.
+4029,Wydrych-Mak Sp. z o.o. Sp.k.
+4030,Basista Sp.k.
+4031,Fundacja Żołnierczyk-Bondaruk Sp. z o.o.
+4032,Wasiuk S.A.
+4033,Peda-Piaścik s.c.
+4034,FPUH Troć s.c.
+4035,Fundacja Litwa-Kolendo Sp. z o.o. Sp.k.
+4036,PPUH Stanisławczyk i syn s.c.
+4037,Krochmal i syn s.c.
+4038,Smolorz-Raba s.c.
+4039,Fundacja Koman S.A.
+4040,FPUH Trawka
+4041,Grupa Rębiś-Rudyk i syn s.c.
+4042,Janczura-Witka Sp. z o.o.
+4043,Przybyś-Giec Sp.j.
+4044,Lenc-Gąszczak Sp.j.
+4045,Gabinety Osik-Kurpisz i syn s.c.
+4046,Grupa Januszko-Ryndak i syn s.c.
+4047,Strzępek-Kamieniarz i syn s.c.
+4048,Stowarzyszenie Buśko-Dłubak Sp. z o.o.
+4049,Borak i syn s.c.
+4050,Lesisz Sp. z o.o. Sp.k.
+4051,Kupś-Czubaj Sp.k.
+4052,FPUH Kaziród s.c.
+4053,Spółdzielnia Szczepaniec-Kaletka Sp. z o.o. Sp.k.
+4054,Puła-Sądej i syn s.c.
+4055,Grupa Pacia Sp.k.
+4056,Gabinety Fikus S.A.
+4057,Grupa Pronobis Sp.k.
+4058,Gabinety Osik
+4059,Gabinety Potęga
+4060,Spółdzielnia Labudda-Posmyk Sp.j.
+4061,Boś Sp.j.
+4062,Kuzia-Kułach S.A.
+4063,PPUH Pryszcz-Kultys Sp.k.
+4064,Bystrek s.c.
+4065,Fundacja Dziadowicz-Rozmiarek S.A.
+4066,Spółdzielnia Jonik Sp. z o.o. Sp.k.
+4067,Grupa Skrzecz s.c.
+4068,FPUH Hamera Sp.k.
+4069,Gabinety Gonet
+4070,FPUH Dziadowicz
+4071,Łokaj-Kremer Sp.j.
+4072,Spółdzielnia Szwaj
+4073,Grupa Mierzwiak i syn s.c.
+4074,Merda S.A.
+4075,Tytko-Bancerz Sp. z o.o.
+4076,FPUH Woźniczko-Miechowicz Sp. z o.o.
+4077,FPUH Pajda-Tywoniuk i syn s.c.
+4078,Więckiewicz S.A.
+4079,Tomaszkiewicz i syn s.c.
+4080,Larysz S.A.
+4081,Spółdzielnia Adamów-Moryc S.A.
+4082,Gabinety Surmiak
+4083,Spółdzielnia Cebulak i syn s.c.
+4084,Gabinety Wołkowicz Sp. z o.o. Sp.k.
+4085,Gabinety Bembenek Sp.k.
+4086,Irzyk-Dzierżak Sp. z o.o. Sp.k.
+4087,FPUH Bąbel Sp.k.
+4088,Grupa Żymełka
+4089,Wziątek-Kuban Sp.j.
+4090,Smardz Sp. z o.o.
+4091,Michel Sp.k.
+4092,Jankowicz-Ksel Sp. z o.o.
+4093,Ignatiuk Sp.j.
+4094,Patoła Sp. z o.o.
+4095,Przewoźniak-Kiełek Sp. z o.o. Sp.k.
+4096,Maron-Stąpór Sp. z o.o.
+4097,Padło s.c.
+4098,Fundacja Banyś-Stelmasiak Sp.j.
+4099,Sadlik-Gadzina Sp. z o.o.
+4100,FPUH Jażdżyk-Kocaj Sp.j.
+4101,FPUH Głowienka Sp.k.
+4102,Knieć-Tylek Sp. z o.o. Sp.k.
+4103,Fundacja Wiza i syn s.c.
+4104,Żabka-Troka S.A.
+4105,Tokaj-Hawrylak Sp.k.
+4106,FPUH Kabza
+4107,Piesik-Lang s.c.
+4108,Żero Sp.k.
+4109,Pałgan-Kuza i syn s.c.
+4110,Oleśkiewicz Sp.k.
+4111,Grupa Mainka
+4112,Kurp-Pernak Sp.k.
+4113,Stowarzyszenie Rosłoń-Głowienka Sp.k.
+4114,Piechna s.c.
+4115,PPUH Miękus Sp. z o.o. Sp.k.
+4116,Stowarzyszenie Gorzelańczyk
+4117,Dolega Sp.j.
+4118,Stowarzyszenie Krysta
+4119,Jenek-Syroka Sp.k.
+4120,PPUH Ellwart-Drej Sp.k.
+4121,Łaszczyk-Nowrot i syn s.c.
+4122,PPUH Łukowiak-Wiaderek Sp.k.
+4123,Trochimiuk-Sklorz i syn s.c.
+4124,Opyrchał Sp.k.
+4125,Gabinety Ciećko-Kunc Sp.j.
+4126,FPUH Zera
+4127,Pastuła-Nowotka Sp. z o.o.
+4128,FPUH Słoń
+4129,Fundacja Hołubowicz i syn s.c.
+4130,Kohut Sp.j.
+4131,Lemieszek Sp. z o.o.
+4132,PPUH Samiec-Orszulik Sp. z o.o.
+4133,Hojka Sp.j.
+4134,PPUH Grochola
+4135,Buś i syn s.c.
+4136,Fundacja Domowicz-Grabas S.A.
+4137,Berus-Fogiel Sp.k.
+4138,Stowarzyszenie Ragus Sp. z o.o.
+4139,Jancewicz i syn s.c.
+4140,Kuzior-Słaba s.c.
+4141,Torbus-Sorbian s.c.
+4142,Smoczyk Sp. z o.o.
+4143,Ostafin-Sobiło Sp. z o.o.
+4144,PPUH Tabisz
+4145,Milczarczyk-Szymańczyk s.c.
+4146,FPUH Klimko
+4147,Grupa Gruza
+4148,Szczepan i syn s.c.
+4149,Fundacja Rajchel
+4150,Fundacja Kaziród
+4151,Grupa Wyrobek
+4152,Wasyluk-Szymańczyk S.A.
+4153,Spółdzielnia Wyderka
+4154,Zbroja Sp.j.
+4155,Jonak-Dziczek i syn s.c.
+4156,Sudak-Fijałek Sp.k.
+4157,Wawryniuk-Matuszyk i syn s.c.
+4158,FPUH Kopczyk-Sendor Sp.j.
+4159,Gabinety Olma S.A.
+4160,Ficoń Sp.k.
+4161,Płócienniczak i syn s.c.
+4162,PPUH Skałka-Amanowicz S.A.
+4163,Grupa Lepak
+4164,Grupa Kuzior
+4165,Sondej S.A.
+4166,Gabinety Gregorek i syn s.c.
+4167,Wasiewicz s.c.
+4168,Spółdzielnia Tyka Sp.k.
+4169,Spółdzielnia Wojtak S.A.
+4170,Golda-Burzec Sp. z o.o.
+4171,Karpeta-Wosiak Sp.k.
+4172,Spółdzielnia Nowotka-Sularz Sp.k.
+4173,PPUH Dziób
+4174,Grupa Kolarz-Opalach Sp. z o.o.
+4175,Fundacja Dorobek
+4176,Cieplucha-Paśnik Sp. z o.o. Sp.k.
+4177,Machoń-Antoń Sp.j.
+4178,PPUH Kosznik
+4179,Grupa Konrad
+4180,Stowarzyszenie Józefczak S.A.
+4181,Fundacja Woroch Sp.k.
+4182,PPUH Tórz Sp. z o.o. Sp.k.
+4183,PPUH Śmieja Sp.k.
+4184,Fikus Sp.j.
+4185,FPUH Krzykała Sp. z o.o. Sp.k.
+4186,PPUH Olas-Cader Sp. z o.o.
+4187,Hawro s.c.
+4188,FPUH Nurek-Gilewicz Sp.k.
+4189,Fundacja Kiełbowicz-Terka s.c.
+4190,Syroka-Żołądź Sp.j.
+4191,FPUH Konat
+4192,Osipiuk Sp.k.
+4193,Grupa Ostapczuk-Tlałka Sp. z o.o.
+4194,Gabinety Swiątek-Krasa s.c.
+4195,Lipowicz i syn s.c.
+4196,Gabinety Kopyść-Jałowiec S.A.
+4197,Wiertelak Sp. z o.o. Sp.k.
+4198,Spółdzielnia Gogół-Zagrajek Sp.j.
+4199,PPUH Kuder-Maćczak S.A.
+4200,Stowarzyszenie Geisler
+4201,Spółdzielnia Lica
+4202,Zacharek s.c.
+4203,Zatoń-Szczypiór Sp. z o.o. Sp.k.
+4204,PPUH Garczyk Sp. z o.o.
+4205,Spółdzielnia Dylong Sp. z o.o.
+4206,Stowarzyszenie Królczyk-Pezda Sp. z o.o.
+4207,Fundacja Skierka
+4208,Fundacja Łosiak S.A.
+4209,Janowiak-Świstek i syn s.c.
+4210,Stowarzyszenie Doktór-Glaza Sp.k.
+4211,Fierek-Porzucek i syn s.c.
+4212,Wołos-Wolff s.c.
+4213,Janasz i syn s.c.
+4214,Gabinety Walenciak
+4215,Stowarzyszenie Ochnik-Stanisławek Sp.k.
+4216,Chołody i syn s.c.
+4217,Spółdzielnia Ciołczyk s.c.
+4218,Borczyk Sp. z o.o. Sp.k.
+4219,Gabinety Lizoń Sp.j.
+4220,Szyba-Dyszkiewicz s.c.
+4221,Spółdzielnia Krępa-Komisarek Sp. z o.o.
+4222,FPUH Prażuch-Bembenek Sp. z o.o.
+4223,Dziadkowiec Sp. z o.o.
+4224,Spółdzielnia Malara
+4225,Bryzek s.c.
+4226,Kilar Sp.k.
+4227,Spółdzielnia Kabala i syn s.c.
+4228,Spółdzielnia Księżyk-Komisarczyk Sp. z o.o.
+4229,Spółdzielnia Zyga-Pietraszkiewicz Sp.j.
+4230,Kurc Sp.k.
+4231,Pietrus S.A.
+4232,Stowarzyszenie Szarzec
+4233,Ławniczek Sp. z o.o. Sp.k.
+4234,Watras i syn s.c.
+4235,Grupa Gruza i syn s.c.
+4236,FPUH Mordak Sp. z o.o. Sp.k.
+4237,Bareja-Juśkiewicz S.A.
+4238,Stowarzyszenie Wojewódka-Dycha Sp. z o.o. Sp.k.
+4239,Gabinety Kurtyka
+4240,Spółdzielnia Tabak
+4241,Gołek s.c.
+4242,Gabinety Wojtoń i syn s.c.
+4243,FPUH Syroka-Drobnik Sp. z o.o. Sp.k.
+4244,Spółdzielnia Szyja-Tomaszuk i syn s.c.
+4245,Leonowicz-Kołaczyk Sp. z o.o. Sp.k.
+4246,FPUH Sromek-Łuksza Sp. z o.o. Sp.k.
+4247,Hamrol-Noszczyk Sp.k.
+4248,PPUH Laszkiewicz
+4249,Stowarzyszenie Fronczek
+4250,Stowarzyszenie Krzysiek
+4251,Stowarzyszenie Grzech-Niedbał Sp. z o.o. Sp.k.
+4252,Grupa Janczura Sp. z o.o.
+4253,Grupa Abramczuk S.A.
+4254,Szczechowicz i syn s.c.
+4255,FPUH Widłak-Koziatek Sp. z o.o.
+4256,Kubieniec-Dziób s.c.
+4257,Rode Sp. z o.o.
+4258,FPUH Maszczyk-Rudzik Sp.k.
+4259,Dzwonnik-Kapinos Sp. z o.o. Sp.k.
+4260,Fundacja Dejneka Sp. z o.o.
+4261,Spółdzielnia Dawidek-Sieg Sp. z o.o.
+4262,Natanek S.A.
+4263,Stowarzyszenie Bekus-Flieger Sp.k.
+4264,Sondej-Siekierka Sp. z o.o. Sp.k.
+4265,Stowarzyszenie Ludwin
+4266,Hutyra Sp. z o.o. Sp.k.
+4267,Kluczek-Pajek Sp. z o.o. Sp.k.
+4268,PPUH Kinal-Łodej i syn s.c.
+4269,Spółdzielnia Bąbol-Majzner s.c.
+4270,Kłósek-Kut i syn s.c.
+4271,Suchora-Pleban i syn s.c.
+4272,PPUH Fidos s.c.
+4273,Gabinety Dubik
+4274,Gabinety Pachnik
+4275,FPUH Seweryniak-Hałat Sp.k.
+4276,Cygal Sp. z o.o. Sp.k.
+4277,PPUH Gapys Sp.k.
+4278,Fundacja Jagieło Sp. z o.o. Sp.k.
+4279,Grupa Juszczuk
+4280,Fundacja Kajdas-Drobisz s.c.
+4281,Mycek-Kiepas Sp. z o.o.
+4282,Stowarzyszenie Gadzina
+4283,Chatys S.A.
+4284,Wywiał-Sieradzan S.A.
+4285,Stypka Sp. z o.o. Sp.k.
+4286,PPUH Świerad-Such S.A.
+4287,Kubasiak-Jop s.c.
+4288,Margas-Dulemba Sp.j.
+4289,PPUH Filak
+4290,Fundacja Jędruch-Han Sp.k.
+4291,PPUH Cłapa-Wołoszczuk s.c.
+4292,Gabinety Kulczak s.c.
+4293,Orszulik S.A.
+4294,Kierepka Sp. z o.o.
+4295,Wendt Sp. z o.o.
+4296,Krefta-Drygas S.A.
+4297,Sidorczuk-Kłysz Sp. z o.o.
+4298,Spółdzielnia Saj s.c.
+4299,Stowarzyszenie Gorgol-Stempin Sp.j.
+4300,Gabinety Kuczaj-Bak Sp.j.
+4301,Płoskonka-Jeszka s.c.
+4302,Płocharczyk-Miszkiel Sp.j.
+4303,Wiciak Sp. z o.o. Sp.k.
+4304,Spółdzielnia Kowala Sp.k.
+4305,Gabinety Cukier-Wyderka Sp.k.
+4306,Stowarzyszenie Domowicz
+4307,Grupa Kubasiewicz
+4308,Ratka s.c.
+4309,Fundacja Szlęk Sp.k.
+4310,Spółdzielnia Berek i syn s.c.
+4311,Spółdzielnia Jamroży s.c.
+4312,Dyszkiewicz-Lulek Sp.k.
+4313,FPUH Budych
+4314,Stowarzyszenie Hanusiak
+4315,Spółdzielnia Gąsienica
+4316,Parda-Żołądź Sp.k.
+4317,Misiurek i syn s.c.
+4318,Spółdzielnia Cudzich-Kapera Sp.j.
+4319,Dębosz i syn s.c.
+4320,Fundacja Lisik-Hasiak i syn s.c.
+4321,PPUH Skomra-Pakosz Sp.j.
+4322,Dulas-Pyrkosz S.A.
+4323,Milka-Pagacz Sp.j.
+4324,Kurzyna-Krokosz S.A.
+4325,Szmuc i syn s.c.
+4326,Grupa Oleksa
+4327,Fundacja Mainka
+4328,Żach-Samulak s.c.
+4329,Sakwa s.c.
+4330,Spółdzielnia Brodowicz-Krysik Sp.j.
+4331,Kupś Sp.j.
+4332,Grupa Sarota
+4333,Bakalarczyk-Bilewicz s.c.
+4334,Gabinety Sołtysek S.A.
+4335,Dynia Sp. z o.o.
+4336,Srokosz-Gęgotek Sp. z o.o. Sp.k.
+4337,Okła-Lato s.c.
+4338,Stypuła-Goral i syn s.c.
+4339,Gnyp Sp. z o.o. Sp.k.
+4340,Dudała-Tyniec Sp.j.
+4341,Spółdzielnia Gajdzik Sp.j.
+4342,Grupa Cieciura-Ryguła Sp. z o.o. Sp.k.
+4343,FPUH Przewoźnik-Macha Sp.k.
+4344,Zinkiewicz-Michel s.c.
+4345,FPUH Zaborek Sp. z o.o. Sp.k.
+4346,Kiwior s.c.
+4347,Grupa Rode-Lenda s.c.
+4348,Grupa Gmur-Tondera Sp.j.
+4349,Grupa Wrześniak-Furgał s.c.
+4350,Spółdzielnia Ostapczuk-Faruga Sp.k.
+4351,Korgul-Węgrzyk s.c.
+4352,FPUH Samul Sp.j.
+4353,Stowarzyszenie Łakota S.A.
+4354,Stoch-Karczmarek i syn s.c.
+4355,Guziak-Dolega Sp.k.
+4356,FPUH Korab s.c.
+4357,FPUH Koronkiewicz
+4358,Gabinety Flisiak
+4359,Olszowa s.c.
+4360,Babiuch-Mortka S.A.
+4361,Gabinety Oziębło-Armata i syn s.c.
+4362,Fundacja Krakowczyk-Żołądź i syn s.c.
+4363,Uss-Łupina s.c.
+4364,PPUH Twardzik Sp. z o.o.
+4365,Grupa Doktor i syn s.c.
+4366,Fojt i syn s.c.
+4367,FPUH Leszczuk
+4368,Fundacja Hajder-Reichel Sp. z o.o. Sp.k.
+4369,Spółdzielnia Dunal-Kusztal Sp. z o.o.
+4370,Spółdzielnia Jarema-Zontek Sp. z o.o. Sp.k.
+4371,Kosela-Cichos Sp. z o.o. Sp.k.
+4372,Grabara-Zębik Sp.j.
+4373,Spółdzielnia Ragus
+4374,Armata-Gajowiak Sp.k.
+4375,Grupa Freitag Sp.k.
+4376,Hutyra i syn s.c.
+4377,Gabinety Pietrak s.c.
+4378,Woszczak Sp. z o.o. Sp.k.
+4379,Brygoła S.A.
+4380,PPUH Borczyk
+4381,Raźniak-Broncel s.c.
+4382,Grupa Tylus
+4383,Fundacja Piestrzeniewicz-Duszkiewicz Sp. z o.o.
+4384,Merchel-Goliasz Sp. z o.o. Sp.k.
+4385,PPUH Barej
+4386,Becker Sp.k.
+4387,Styrna Sp.j.
+4388,Kościk Sp. z o.o.
+4389,Zach S.A.
+4390,Grupa Basak
+4391,PPUH Putek Sp.k.
+4392,Karsznia-Pachuta i syn s.c.
+4393,Florian-Grzywnowicz Sp. z o.o. Sp.k.
+4394,Stowarzyszenie Tusk-Dyda Sp. z o.o. Sp.k.
+4395,Dąbal-Pelka Sp. z o.o.
+4396,Grupa Posłuszny Sp. z o.o.
+4397,Fundacja Miszkurka-Fąferek Sp. z o.o. Sp.k.
+4398,Pytlarz i syn s.c.
+4399,Fundacja Pudełek
+4400,Gogola-Lenarcik Sp. z o.o. Sp.k.
+4401,Flasza-Wożniak S.A.
+4402,Spółdzielnia Żybura
+4403,Grupa Drozda-Matusewicz S.A.
+4404,FPUH Andryszczyk s.c.
+4405,Hawro-Stawczyk Sp. z o.o. Sp.k.
+4406,Gabinety Stróż-Tryka S.A.
+4407,Kowala-Bazyluk Sp. z o.o.
+4408,Fundacja Kurzak Sp.j.
+4409,Preś Sp. z o.o.
+4410,Gabinety Sereda Sp.k.
+4411,Barcz Sp. z o.o.
+4412,Stowarzyszenie Hermann Sp. z o.o.
+4413,Spółdzielnia Smoczyk
+4414,Spółdzielnia Łuczkiewicz Sp.k.
+4415,Kopytko Sp.k.
+4416,Stowarzyszenie Kościelak s.c.
+4417,FPUH Maszota-Stempniak Sp. z o.o. Sp.k.
+4418,Fundacja Bembenek
+4419,Terka-Stroka Sp.j.
+4420,Gabinety Oczko
+4421,Spółdzielnia Swacha-Olszowa Sp.j.
+4422,Waszczyk Sp.j.
+4423,Trybuś Sp. z o.o. Sp.k.
+4424,Grupa Czerwionka
+4425,Grupa Mordak-Kopij i syn s.c.
+4426,Stowarzyszenie Natanek i syn s.c.
+4427,Dumała S.A.
+4428,Spółdzielnia Garbacik
+4429,Grupa Osipiuk-Sklorz s.c.
+4430,Fundacja Jędrys
+4431,Trawka-Spólnik s.c.
+4432,Gabinety Machniak S.A.
+4433,Spółdzielnia Szczubełek
+4434,Grupa Kocurek-Bednarowicz Sp. z o.o. Sp.k.
+4435,PPUH Wietecha
+4436,Stowarzyszenie Haponiuk Sp. z o.o.
+4437,Gabinety Broś Sp. z o.o.
+4438,Klyta-Żyrek s.c.
+4439,FPUH Łobacz Sp.k.
+4440,Wałdoch i syn s.c.
+4441,Barłóg-Karpeta Sp. z o.o. Sp.k.
+4442,Korab-Prażmo s.c.
+4443,PPUH Swacha-Broniarek Sp.j.
+4444,Gemza-Szmagaj Sp.j.
+4445,Kremer Sp. z o.o. Sp.k.
+4446,Kornet Sp.k.
+4447,Kwapisiewicz Sp. z o.o.
+4448,Stowarzyszenie Bereś
+4449,Dziadowicz-Wołos Sp.j.
+4450,Waszczyk-Wołodźko Sp.k.
+4451,Pietrasz Sp.j.
+4452,Grupa Ślipek-Dąbrówka Sp. z o.o. Sp.k.
+4453,FPUH Sado-Weremczuk Sp.j.
+4454,Rembisz s.c.
+4455,Klus Sp.j.
+4456,PPUH Stryjek
+4457,Fundacja Iskierka-Jaremek Sp. z o.o.
+4458,Fundacja Klyszcz-Kempny Sp.j.
+4459,Thiel S.A.
+4460,FPUH Kusztal-Sypek Sp.k.
+4461,Spółdzielnia Rychel
+4462,Przeklasa-Mrózek Sp.j.
+4463,PPUH Liśkiewicz
+4464,Fundacja Andruszko s.c.
+4465,Spółdzielnia Borkiewicz-Cuch Sp. z o.o. Sp.k.
+4466,PPUH Radzio-Burchardt Sp. z o.o. Sp.k.
+4467,Ścibior i syn s.c.
+4468,Fundacja Szczepaniuk
+4469,Spółdzielnia Wejman-Kopyść Sp. z o.o.
+4470,Spółdzielnia Karczmarz-Polakiewicz Sp. z o.o.
+4471,Stowarzyszenie Sadura s.c.
+4472,Margas Sp.k.
+4473,PPUH Troka-Olkowicz Sp. z o.o.
+4474,Spółdzielnia Plewnia-Hawrylak Sp.k.
+4475,Włodarz-Rohde S.A.
+4476,Kosela-Drobny Sp.j.
+4477,Fundacja Miśkowiec-Petryk Sp. z o.o.
+4478,Spółdzielnia Barcz
+4479,Grupa Kajdas-Solarczyk Sp.k.
+4480,Malara-Ludwisiak i syn s.c.
+4481,Drewicz Sp.k.
+4482,Gabinety Zawal-Lampart Sp.j.
+4483,Krokosz-Józefczak Sp.k.
+4484,Stowarzyszenie Smolka-Pielech Sp. z o.o. Sp.k.
+4485,Gabinety Uziębło s.c.
+4486,FPUH Klupś Sp. z o.o. Sp.k.
+4487,Stowarzyszenie Osica-Gąbka S.A.
+4488,PPUH Kazior-Krefta s.c.
+4489,Grupa Kanarek-Kawiak Sp. z o.o. Sp.k.
+4490,Spółdzielnia Szyca Sp.j.
+4491,Lenc-Demiańczuk Sp.k.
+4492,Meissner-Bak Sp.j.
+4493,Pietrasiak Sp.j.
+4494,Madejczyk Sp.k.
+4495,PPUH Surmiak
+4496,Grupa Kubiaczyk
+4497,Steuer-Linkiewicz Sp.k.
+4498,Gabinety Litewka Sp.j.
+4499,Trzepizur Sp.k.
+4500,Stowarzyszenie Bilewicz
+4501,Karpik Sp. z o.o. Sp.k.
+4502,Stowarzyszenie Lesiewicz
+4503,Grupa Ludwisiak
+4504,PPUH Elert Sp. z o.o.
+4505,PPUH Subocz Sp. z o.o. Sp.k.
+4506,Zubowicz-Krüger Sp. z o.o.
+4507,Przewoźna S.A.
+4508,Kierepka-Puc i syn s.c.
+4509,Stowarzyszenie Smolec-Czosnyka Sp. z o.o. Sp.k.
+4510,Grupa Micał-Janasz s.c.
+4511,Fundacja Pasieczna s.c.
+4512,Gabinety Półchłopek Sp. z o.o.
+4513,Fundacja Cichowlas Sp. z o.o.
+4514,Rycerz-Korzeniak Sp.k.
+4515,Gabinety Korta S.A.
+4516,Karczmarek-Makurat S.A.
+4517,Gabinety Lukas
+4518,Stowarzyszenie Świerad i syn s.c.
+4519,Spółdzielnia Kubowicz-Sabak Sp. z o.o. Sp.k.
+4520,Spółdzielnia Thomas
+4521,Bilik-Marciniszyn S.A.
+4522,Sztaba S.A.
+4523,Spółdzielnia Kołsut-Żuberek Sp.j.
+4524,PPUH Śnieg
+4525,Fundacja Rząca
+4526,Spółdzielnia Kieloch-Gros S.A.
+4527,Potyrała Sp. z o.o.
+4528,Gabinety Krzeszowiec
+4529,Jonczyk s.c.
+4530,Jany-Długajczyk Sp. z o.o.
+4531,Krzystek Sp.j.
+4532,Stowarzyszenie Kara
+4533,Gietka S.A.
+4534,Stowarzyszenie Ernst Sp. z o.o. Sp.k.
+4535,Gabinety Muniak
+4536,Wilkos-Furgała Sp.k.
+4537,Wojtyna-Miksza Sp. z o.o.
+4538,Matulka i syn s.c.
+4539,Grupa Zmarzły
+4540,Jędruch-Stoltmann i syn s.c.
+4541,Gromala-Filak Sp. z o.o. Sp.k.
+4542,Fundacja Graboś Sp. z o.o.
+4543,Kożuszek-Garncarek Sp.k.
+4544,Stowarzyszenie Sabak Sp. z o.o.
+4545,PPUH Berg Sp. z o.o. Sp.k.
+4546,Grupa Aleksa
+4547,PPUH Chowaniak Sp.k.
+4548,Gabinety Bachanek-Lipowicz Sp. z o.o. Sp.k.
+4549,Ziemkiewicz Sp.k.
+4550,FPUH Dobroń-Królczyk i syn s.c.
+4551,Kieloch-Fiołek Sp.j.
+4552,FPUH Kozieja
+4553,Gabinety Deryło i syn s.c.
+4554,Soliwoda-Bieszke Sp.k.
+4555,Stowarzyszenie Stark Sp.k.
+4556,Grupa Latoszek-Myga Sp.j.
+4557,FPUH Kamieniak-Pawela Sp. z o.o.
+4558,PPUH Musiolik
+4559,Grupa Makulec
+4560,Grupa Miros-Holc Sp.j.
+4561,Wałęsa-Pyszczek S.A.
+4562,Mikosz-Kuśka Sp. z o.o.
+4563,Stowarzyszenie Truchel Sp.j.
+4564,Grupa Mirgos i syn s.c.
+4565,Konstanty-Jasionek Sp.j.
+4566,FPUH Aleksa Sp. z o.o.
+4567,Kuster Sp.k.
+4568,PPUH Olkowicz
+4569,Grupa Leśna-Dziewit Sp. z o.o.
+4570,Łyskawa Sp. z o.o. Sp.k.
+4571,FPUH Kosiak-Wac Sp.j.
+4572,FPUH Padło
+4573,FPUH Milej Sp. z o.o.
+4574,Fundacja Błaszyk Sp. z o.o. Sp.k.
+4575,Jonik-Materka s.c.
+4576,Spółdzielnia Osojca Sp.j.
+4577,Grzelczyk-Semik Sp.k.
+4578,Langiewicz i syn s.c.
+4579,Famuła Sp. z o.o. Sp.k.
+4580,PPUH Behrendt Sp. z o.o.
+4581,Nieścior-Pacia i syn s.c.
+4582,Stowarzyszenie Szymanik-Draus Sp.j.
+4583,Buśko Sp.k.
+4584,Spółdzielnia Wąsala i syn s.c.
+4585,FPUH Maruszczak-Jonczyk Sp. z o.o.
+4586,Zyzik-Jaźwiec Sp. z o.o. Sp.k.
+4587,Grupa Kinder-Bałazy Sp.k.
+4588,Siemieńczuk-Ruman S.A.
+4589,Szabla Sp. z o.o. Sp.k.
+4590,Latek-Zagrodnik Sp. z o.o.
+4591,Grupa Leonowicz Sp. z o.o. Sp.k.
+4592,Składanek i syn s.c.
+4593,Grupa Parkitna-Zioła Sp.k.
+4594,Gadzina Sp. z o.o.
+4595,Spółdzielnia Polasik i syn s.c.
+4596,Kryszczuk Sp. z o.o. Sp.k.
+4597,PPUH Szkup-Jędruszczak Sp. z o.o. Sp.k.
+4598,PPUH Borysiewicz-Wita S.A.
+4599,Jakubiuk-Barszczak s.c.
+4600,Żach Sp. z o.o.
+4601,PPUH Strojna-Trojanek Sp. z o.o. Sp.k.
+4602,Ciaś Sp. z o.o. Sp.k.
+4603,Gabinety Hajder Sp. z o.o. Sp.k.
+4604,Stowarzyszenie Brach i syn s.c.
+4605,Zawiasa i syn s.c.
+4606,FPUH Godyń
+4607,PPUH Pałac-Matacz s.c.
+4608,Grupa Preś Sp. z o.o. Sp.k.
+4609,PPUH Superson-Petryk S.A.
+4610,Gabinety Huczek
+4611,Gabinety Protasiuk-Organiściak s.c.
+4612,FPUH Nazarko-Kostro i syn s.c.
+4613,FPUH Majzner-Podleśna S.A.
+4614,Posłuszna S.A.
+4615,FPUH Szajek s.c.
+4616,Fundacja Groborz
+4617,Sadownik-Guzdek Sp.k.
+4618,Pabis-Hornik i syn s.c.
+4619,Chołody i syn s.c.
+4620,Fundacja Sinkiewicz
+4621,Fundacja Porwoł Sp.j.
+4622,Cheba-Moczko S.A.
+4623,Nieborak s.c.
+4624,Spółdzielnia Guzdek-Maciuk i syn s.c.
+4625,Stowarzyszenie Pikula-Michnik Sp.k.
+4626,Jędrzejek-Pawlos s.c.
+4627,FPUH Kudela-Kubiaczyk Sp. z o.o. Sp.k.
+4628,Jakimiak s.c.
+4629,Pakos S.A.
+4630,Pyc i syn s.c.
+4631,Foremniak i syn s.c.
+4632,PPUH Kędziorek Sp. z o.o.
+4633,Grupa Milczarczyk-Jany i syn s.c.
+4634,Lademann-Misiaszek S.A.
+4635,Stowarzyszenie Kandziora
+4636,Kinal Sp.j.
+4637,PPUH Armata
+4638,Długajczyk-Pituła Sp. z o.o.
+4639,Kliber S.A.
+4640,Kurz-Fedak i syn s.c.
+4641,Stowarzyszenie Wielgos i syn s.c.
+4642,Fundacja Ścibior
+4643,FPUH Gołek-Chaba Sp. z o.o.
+4644,Fundacja Matwiejczyk
+4645,Słoboda-Stypa Sp. z o.o. Sp.k.
+4646,Cymer-Stefankiewicz Sp. z o.o. Sp.k.
+4647,FPUH Dorna
+4648,Kusio i syn s.c.
+4649,Stowarzyszenie Kawulok i syn s.c.
+4650,PPUH Moroń-Ziegert Sp. z o.o. Sp.k.
+4651,Spółdzielnia Schubert-Sędek Sp.j.
+4652,Spółdzielnia Walus-Mik Sp.j.
+4653,PPUH Wyciszkiewicz Sp. z o.o.
+4654,FPUH Mich
+4655,Stowarzyszenie Myga i syn s.c.
+4656,Pawela Sp.j.
+4657,Gabinety Szczerek-Rembisz Sp. z o.o.
+4658,Wudarczyk Sp.k.
+4659,Oleszczak-Ostapiuk Sp.j.
+4660,Widuch i syn s.c.
+4661,Fijoł S.A.
+4662,Spółdzielnia Breś-Jas Sp.k.
+4663,Grupa Czubaszek Sp.k.
+4664,Fojt Sp.j.
+4665,Gabinety Olas
+4666,FPUH Fiołek-Zysk Sp.j.
+4667,Klorek S.A.
+4668,Fundacja Kaszkowiak-Nieścior Sp. z o.o.
+4669,Wiertel-Mikusek S.A.
+4670,Szwiec-Wojniak Sp. z o.o.
+4671,Konieczek-Górnisiewicz Sp.j.
+4672,Obiała Sp.j.
+4673,Gabinety Bartman Sp.j.
+4674,Breś S.A.
+4675,FPUH Sendor
+4676,Stowarzyszenie Droździel i syn s.c.
+4677,Grupa Lewko
+4678,Stowarzyszenie Górkiewicz-Grosz i syn s.c.
+4679,FPUH Lamch
+4680,Stowarzyszenie Kurczak Sp. z o.o.
+4681,PPUH Gryciuk
+4682,Spółdzielnia Kabala Sp. z o.o.
+4683,FPUH Dziedzina S.A.
+4684,Gabinety Piekarek i syn s.c.
+4685,PPUH Karpiak i syn s.c.
+4686,Gabinety Terka Sp. z o.o.
+4687,Fundacja Suchojad Sp.j.
+4688,Spółdzielnia Prochownik-Skubała S.A.
+4689,Irla Sp.k.
+4690,Fundacja Kubina-Tolak i syn s.c.
+4691,Rompa-Murat Sp. z o.o. Sp.k.
+4692,FPUH Mikita-Tofil S.A.
+4693,Jasica-Simon Sp. z o.o.
+4694,PPUH Szłapa-Szeja S.A.
+4695,Fundacja Nieścioruk s.c.
+4696,Dycha-Tyniec Sp. z o.o.
+4697,Spółdzielnia Siemek-Oskroba s.c.
+4698,Gabinety Jędrys
+4699,Gabinety Rembisz
+4700,Kwinta Sp.k.
+4701,Fundacja Szelest
+4702,Pianka-Wydmuch Sp. z o.o.
+4703,Fundacja Osada-Wilusz Sp. z o.o.
+4704,Morys Sp. z o.o. Sp.k.
+4705,Stowarzyszenie Wasążnik
+4706,Kiełek i syn s.c.
+4707,Serwa Sp.j.
+4708,FPUH Twardosz S.A.
+4709,Stowarzyszenie Anioła Sp. z o.o.
+4710,Stowarzyszenie Tabiś-Maras Sp. z o.o. Sp.k.
+4711,Osman i syn s.c.
+4712,Gerlach-Wawryniuk Sp.k.
+4713,Gabinety Bartoszczyk
+4714,Grupa Żero
+4715,Tarasek Sp. z o.o.
+4716,Karpiak-Nagel Sp. z o.o. Sp.k.
+4717,Danel-Stroka i syn s.c.
+4718,PPUH Gumieniak i syn s.c.
+4719,Mycek Sp. z o.o.
+4720,Smardz S.A.
+4721,FPUH Rzeźniczek Sp.j.
+4722,Perka Sp.j.
+4723,Moskalik i syn s.c.
+4724,Fundacja Cieplucha Sp.j.
+4725,Stowarzyszenie Cichos-Bryda s.c.
+4726,Bekus-Jachimczak Sp. z o.o. Sp.k.
+4727,Stowarzyszenie Klemczak s.c.
+4728,Moniuszko-Krefta Sp. z o.o.
+4729,Grupa Bojczuk
+4730,FPUH Toma-Molga i syn s.c.
+4731,Gabinety Andrzejuk Sp. z o.o. Sp.k.
+4732,FPUH Koziarz
+4733,Grupa Jaje Sp. z o.o.
+4734,Sierota-Maciejko Sp. z o.o.
+4735,Fundacja Gamrat s.c.
+4736,Stowarzyszenie Barteczko-Gronostaj i syn s.c.
+4737,Gabinety Krzysiek-Tomalik i syn s.c.
+4738,Organiściak-Tułacz Sp. z o.o.
+4739,Tułacz S.A.
+4740,FPUH Głowienka S.A.
+4741,Kosak S.A.
+4742,Spółdzielnia Sieg
+4743,Fundacja Madajczyk-Oleksiewicz Sp. z o.o. Sp.k.
+4744,Gabinety Dumin Sp. z o.o. Sp.k.
+4745,Zeman S.A.
+4746,FPUH Trzcionka
+4747,FPUH Kapka
+4748,Grupa Rubin i syn s.c.
+4749,Fundacja Czopik Sp.k.
+4750,Spółdzielnia Kanik-Drygała Sp. z o.o.
+4751,Grupa Burnat s.c.
+4752,FPUH Glica S.A.
+4753,Knych Sp. z o.o. Sp.k.
+4754,Spółdzielnia Szumacher-Suchta S.A.
+4755,Działa Sp.j.
+4756,Karpiel-Filus i syn s.c.
+4757,Jędryczka i syn s.c.
+4758,Stowarzyszenie Rychert-Kochanowicz s.c.
+4759,PPUH Holewa-Szlufik Sp. z o.o.
+4760,PPUH Zdziech-Kozok Sp. z o.o. Sp.k.
+4761,Kulisz-Seidel Sp. z o.o. Sp.k.
+4762,Tułacz i syn s.c.
+4763,Wnuczek-Sołtysek s.c.
+4764,Gabinety Augustynek-Ludwik Sp.k.
+4765,Klus Sp.k.
+4766,Spółdzielnia Majtyka s.c.
+4767,Biegała-Walasik i syn s.c.
+4768,Grupa Ofiara
+4769,PPUH Szymała-Oskroba i syn s.c.
+4770,Wikło s.c.
+4771,Derek Sp. z o.o.
+4772,Stowarzyszenie Godzik
+4773,Grupa Wojtarowicz Sp. z o.o.
+4774,Łabno Sp.k.
+4775,Gabinety Peciak Sp.k.
+4776,Grupa Dadej-Smardz s.c.
+4777,Gabinety Dydo
+4778,Stowarzyszenie Tondera
+4779,Grupa Knych-Dziurla s.c.
+4780,PPUH Denkiewicz-Huszcza Sp.k.
+4781,Spółdzielnia Szczudło-Kutera Sp.k.
+4782,Warchał S.A.
+4783,PPUH Maślankiewicz Sp.k.
+4784,Fundacja Dyszkiewicz i syn s.c.
+4785,Spółdzielnia Golan-Reich s.c.
+4786,Fundacja Czupryna Sp.k.
+4787,Grupa Mamcarz S.A.
+4788,Gabinety Zbroja
+4789,PPUH Fołta
+4790,FPUH Lipok-Łosiewicz Sp. z o.o. Sp.k.
+4791,Grupa Frelich
+4792,Gabinety Bogaczyk
+4793,Miara-Piechna Sp. z o.o. Sp.k.
+4794,Patrzałek-Kutera s.c.
+4795,Stowarzyszenie Frydel-Klin Sp.k.
+4796,Fundacja Ludwisiak Sp. z o.o. Sp.k.
+4797,Stowarzyszenie Krzyżostaniak-Łokietek Sp. z o.o. Sp.k.
+4798,Stowarzyszenie Urynowicz
+4799,Fundacja Cyganik-Sztaba S.A.
+4800,Franas-Brząkała Sp.j.
+4801,Gabinety Dukat-Warmuz S.A.
+4802,Stowarzyszenie Bartłomiejczyk
+4803,Wojniak-Mateńko s.c.
+4804,Stowarzyszenie Zapaśnik
+4805,Fundacja Piekara
+4806,Tomaszkiewicz s.c.
+4807,Grupa Szajda
+4808,Gabinety Foit
+4809,Stowarzyszenie Dziurla Sp. z o.o. Sp.k.
+4810,Fiedoruk Sp. z o.o.
+4811,Tonder-Migoń Sp. z o.o. Sp.k.
+4812,Fundacja Zapora
+4813,Laszczyk-Stawinoga Sp. z o.o.
+4814,Stowarzyszenie Zontek
+4815,PPUH Bochnak
+4816,Wałdoch-Żynda s.c.
+4817,Straszak s.c.
+4818,Wielgo S.A.
+4819,Stowarzyszenie Ledzion-Wawrzonek i syn s.c.
+4820,Folta-Oleszko S.A.
+4821,Stowarzyszenie Kuziora-Miąsko S.A.
+4822,Nocek-Misiaszek Sp.j.
+4823,FPUH Reszke
+4824,FPUH Borkowicz
+4825,Rawa-Pałac S.A.
+4826,Stowarzyszenie Madajczyk-Bazyluk s.c.
+4827,Worach-Garbaciak i syn s.c.
+4828,PPUH Michalczak
+4829,PPUH Rajczyk
+4830,Gabinety Rezler
+4831,Sakwa Sp. z o.o. Sp.k.
+4832,Fundacja Wawrzkiewicz-Szwiec Sp.j.
+4833,Swaczyna Sp. z o.o.
+4834,Łodyga i syn s.c.
+4835,PPUH Tondera
+4836,Grupa Bystroń
+4837,Fiedler S.A.
+4838,Spółdzielnia Puto
+4839,Knych S.A.
+4840,FPUH Kubów Sp. z o.o. Sp.k.
+4841,Piersa Sp.k.
+4842,Gabinety Bieniak-Pyszka Sp.j.
+4843,Golda-Marcol i syn s.c.
+4844,Dargacz-Kozubal Sp.k.
+4845,Grupa Łobacz s.c.
+4846,Jakóbiak i syn s.c.
+4847,Hak Sp.j.
+4848,Stowarzyszenie Strzelczak
+4849,Kurzaj Sp.j.
+4850,Spółdzielnia Front Sp.j.
+4851,FPUH Piątkiewicz-Nikołajuk Sp.j.
+4852,Golonko-Kłosiewicz s.c.
+4853,FPUH Litwinowicz
+4854,PPUH Monkiewicz
+4855,PPUH Wojtera
+4856,Stowarzyszenie Neugebauer Sp. z o.o. Sp.k.
+4857,Stempin-Fulara Sp.j.
+4858,Tadych Sp.j.
+4859,Drygas Sp. z o.o.
+4860,Królikiewicz i syn s.c.
+4861,Bernatowicz s.c.
+4862,Siudek-Kolber Sp.j.
+4863,PPUH Bulak Sp. z o.o.
+4864,Fundacja Łągiewka-Starzak Sp.k.
+4865,Pietrus-Trepka Sp. z o.o.
+4866,Leoniak-Miąsko s.c.
+4867,Gabinety Capała-Dub s.c.
+4868,Grupa Kołaczek
+4869,Kubrak-Sypuła Sp. z o.o. Sp.k.
+4870,Sorbian Sp.k.
+4871,Fedorczyk-Kornet Sp.k.
+4872,Proch s.c.
+4873,Spółdzielnia Kurp S.A.
+4874,Wojtczuk-Froń S.A.
+4875,Tyniec i syn s.c.
+4876,Olesiejuk-Groń Sp. z o.o. Sp.k.
+4877,Gabinety Hendzel
+4878,Gabinety Pilich-Rykała S.A.
+4879,Gabinety Gordon s.c.
+4880,Bzdęga-Macioł i syn s.c.
+4881,Skała Sp.k.
+4882,Stowarzyszenie Pielka
+4883,Fundacja Kupś Sp. z o.o. Sp.k.
+4884,Gabinety Malcherek
+4885,Grupa Kurzyna
+4886,Działo-Bobko Sp. z o.o. Sp.k.
+4887,Grupa Kapuścik
+4888,Wesoła S.A.
+4889,Grupa Tadeusiak
+4890,Gabinety Labocha Sp. z o.o. Sp.k.
+4891,Rurarz Sp. z o.o. Sp.k.
+4892,Spółdzielnia Nawrotek i syn s.c.
+4893,FPUH Filusz-Hanas Sp.j.
+4894,FPUH Bogdał
+4895,Grupa Potoczek s.c.
+4896,Antoszczyk S.A.
+4897,Cabała Sp.k.
+4898,Gabinety Komsta-Wasil Sp. z o.o.
+4899,Grupa Wons s.c.
+4900,Berdzik s.c.
+4901,Grupa Kliber
+4902,Mućko-Szymków s.c.
+4903,Brojek Sp. z o.o.
+4904,Spółdzielnia Ziajka
+4905,Grupa Cholewka i syn s.c.
+4906,PPUH Padło Sp.j.
+4907,Makoś Sp. z o.o. Sp.k.
+4908,Grupa Pazera
+4909,FPUH Mirocha
+4910,Fundacja Pachnik
+4911,Piłka S.A.
+4912,PPUH Wałęsa Sp.k.
+4913,Grupa Szmaj
+4914,Grupa Stoch
+4915,Fundacja Siwa-Nojman Sp. z o.o.
+4916,Gabinety Ćwierz
+4917,Fundacja Kapera
+4918,Fundacja Semik
+4919,Wszoła Sp.j.
+4920,Fundacja Gortat Sp.j.
+4921,Grupa Małocha
+4922,FPUH Karłowicz
+4923,PPUH Łacina Sp.k.
+4924,PPUH Żołądkiewicz-Korda s.c.
+4925,Fundacja Blank Sp.j.
+4926,Gabinety Kempka
+4927,FPUH Koniec
+4928,Czerniakiewicz-Cierpisz Sp.k.
+4929,Fundacja Pyziak
+4930,Stowarzyszenie Stachelek Sp.k.
+4931,Gabinety Maciejko-Śleziak Sp. z o.o.
+4932,Spółdzielnia Raźniak-Wujec Sp. z o.o.
+4933,Grupa Kloska-Supeł Sp. z o.o. Sp.k.
+4934,Stowarzyszenie Mordak Sp. z o.o. Sp.k.
+4935,Kusek Sp. z o.o.
+4936,Koj-Dziewit Sp.j.
+4937,FPUH Pazera
+4938,Deptuch-Kostorz S.A.
+4939,Szpala-Brudny Sp.j.
+4940,Spółdzielnia Szykuła-Stojak Sp.k.
+4941,Jaroch-Walocha Sp. z o.o. Sp.k.
+4942,PPUH Myszk
+4943,PPUH Buszka
+4944,Grupa Faltyn Sp. z o.o.
+4945,Spółdzielnia Galik
+4946,FPUH Dytrych S.A.
+4947,Grupa Synak S.A.
+4948,Lesiewicz-Magier i syn s.c.
+4949,PPUH Steuer
+4950,Supeł Sp. z o.o. Sp.k.
+4951,Gabinety Cieniuch Sp. z o.o.
+4952,Stowarzyszenie Grymuza-Jędryczka Sp.j.
+4953,Tatarek i syn s.c.
+4954,Pal-Klaus s.c.
+4955,Fojt-Cebo Sp. z o.o. Sp.k.
+4956,Fundacja Sornat-Szczesiak Sp.j.
+4957,Ropiak Sp. z o.o.
+4958,PPUH Buza-Mućko Sp. z o.o. Sp.k.
+4959,Grupa Karpik
+4960,Fołta-Sprycha Sp. z o.o.
+4961,Stowarzyszenie Gniewek Sp. z o.o. Sp.k.
+4962,Olko Sp. z o.o.
+4963,Stowarzyszenie Fura Sp.k.
+4964,Mleczak i syn s.c.
+4965,Fundacja Mazik Sp. z o.o. Sp.k.
+4966,Szywała-Czopik S.A.
+4967,Jamroz-Karsznia s.c.
+4968,Ciaś Sp.k.
+4969,Mirgos Sp. z o.o.
+4970,Grupa Huber-Zaraś Sp.j.
+4971,Hirsch Sp. z o.o.
+4972,Szela-Misiuk Sp. z o.o.
+4973,Gabinety Towarek-Kapinos s.c.
+4974,PPUH Sip-Powałka Sp. z o.o. Sp.k.
+4975,Stowarzyszenie Gołoś
+4976,Spółdzielnia Stempel-Teper i syn s.c.
+4977,Sereda s.c.
+4978,Stowarzyszenie Ulfik Sp.j.
+4979,Smal-Oszust Sp.k.
+4980,Stowarzyszenie Michniak Sp.j.
+4981,Gabinety Świergiel Sp.j.
+4982,Zdziech-Leszkiewicz S.A.
+4983,Krzan Sp.k.
+4984,Fundacja Kolanek Sp. z o.o.
+4985,Połetek-Witko Sp. z o.o.
+4986,Stowarzyszenie Buszkiewicz-Wojniak S.A.
+4987,PPUH Gabryel
+4988,Słomiany Sp. z o.o. Sp.k.
+4989,Spółdzielnia Smela
+4990,Burczak-Stoltman s.c.
+4991,Pietrusiewicz i syn s.c.
+4992,Hejna-Kutera Sp.j.
+4993,Żelasko-Bukowiec Sp.k.
+4994,FPUH Nickel
+4995,PPUH Kaczan-Hajda i syn s.c.
+4996,FPUH Pacholik-Kryza Sp.k.
+4997,PPUH Łój-Kosowicz Sp. z o.o.
+4998,Grupa Soczewka
+4999,Bartoszczyk-Raźny Sp.k.
+5000,Szumna-Migda s.c.
