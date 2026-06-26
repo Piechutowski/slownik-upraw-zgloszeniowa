@@ -22,6 +22,7 @@ body:
         - "Pozycja testowa A (TEST-001)"
         - "Pozycja testowa B (TEST-002)"
         - "Pozycja testowa C (TEST-003)"
+        - "Pozycja testowa D (TEST-004)"
     validations:
       required: true
   - type: input
